@@ -19,6 +19,10 @@ Opdatering: WebFetch virkede alligevel ved et senere forsøg samme dag (den tidl
 
 ## 2026-08-30
 
+### Opfølgende søgning (samme dag, kl. ca. 10:30 UTC)
+
+Ingen nye forslag fra denne opfølgende kørsel. Gennemgåede opslag (Business Analyst, Data Analyst, CRM/BI-roller, Commercial/Strategy Consultant, Customer Insights m.fl.) hos bl.a. OrderYOYO, Scandinavian Tobacco Group, Inverto (BCG), VAEKST, Nasdaq, Abacus Medicine, Celonis, GEA Group, Novonesis, Ambu, Wilke, Danske Spil, DSB, JP/Politikens Hus, Nykredit, Danmarks Nationalbank, Copenhagen Offshore Partners, NKP M&A Insights, Politiet/PET, EY og e-conomic blev alle frasorteret — enten fordi de er deltids-/studenterjob eller praktik (hardt fuldtidskrav), reelt kræver seniorniveau/flere års erfaring (fx Ambu BI Consultant: ~5 års erfaring og avanceret SQL krævet), kræver specialiseret baggrund uden for profilen (fx cand.oecon/cand.polit-økonomrolle hos Nationalbanken, tysktalende M&A-rolle hos NKP, sikkerhedsgodkendelse hos PET/Politiet), eller viste sig udløbet/lukket for ansøgninger ved verifikation (fx EY Graduate Data & Analytics, e-conomic Strategy Consultant, Danske Bank CRM Analyst). Wilke og Radiant er allerede markeret som søgt i `soegte-jobs.md`.
+
 **Danske Bank — Student Assistant in People Analytics (København)**
 - Lokation: København (Danske Bank hovedkontor, Holmens Kanal/Bernstorffsgade-området)
 - Transport: S-tog og metro (København H / Christianshavn / Kongens Nytorv alle inden for kort afstand)
