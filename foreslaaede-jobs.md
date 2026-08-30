@@ -17,6 +17,28 @@ Opdatering: WebFetch virkede alligevel ved et senere forsøg samme dag (den tidl
 
 Øvrige undersøgte opslag i dag (Data Analyst, Business Analyst, Commercial/Strategy Consultant, BI Consultant, CRM Analyst m.fl. hos bl.a. PFA, DSB, Ambu, ATP, MAP, Simon-Kucher, KL, PA Consulting, ENVO IT, HOFOR, Nykredit, Scandinavian Tobacco Group, DEDIKATION/ZF, Netcompany) blev alle screenet og frasorteret — enten fordi opslaget reelt kræver flere års erfaring/seniorniveau, kræver specifik CRM-ekspertise (Salesforce/SAP/Dynamics) eller avanceret programmering (SQL/Python på højt niveau) du ikke har, er et deltids-studiejob, eller opslaget viste sig at være udløbet/forældet ved verifikation.
 
+## 2026-08-30
+
+**Danske Bank — Student Assistant in People Analytics (København)**
+- Lokation: København (Danske Bank hovedkontor, Holmens Kanal/Bernstorffsgade-området)
+- Transport: S-tog og metro (København H / Christianshavn / Kongens Nytorv alle inden for kort afstand)
+- Link: https://dk.linkedin.com/jobs/view/student-assistant-in-people-analytics-at-danske-bank-4460382249
+- Opslået: 1 dag siden (verificeret aktivt)
+- Ansøgningsfrist: ikke angivet i opslaget
+- Begrundelse: Rollen handler om at understøtte People Analytics med dataanalyse, indsigtsgenerering og rapportering/præsentationer — det er reelt samme type arbejde som du allerede laver i din nuværende studenterrolle hos COWI (Power BI-dashboards og analyse på medarbejderdata for 7.500+ medarbejdere). Opslaget stiller ingen krav om specifikke tekniske værktøjer (intet SQL/Python/CRM-krav) og efterspørger blot en relevant, igangværende uddannelse samt interesse for dataanalyse — hvilket matcher din profil uden overdrivelse.
+- Bemærk (ærlighed): Det er en deltidsstilling (studenterjob), ikke en fuldtids graduate-/analytikerstilling. Da du fortsat er studerende frem til 2026 og allerede har to sammenlignelige studenterjobs på dit CV, vurderer jeg at det stadig er relevant at foreslå — men drop den, hvis du specifikt leder efter fuldtidsroller nu.
+
+**Erhvervshus Hovedstaden — Studentermedhjælper til Power BI, data og AI-rapportering (København Ø)**
+- Lokation: København Ø
+- Transport: S-tog (Ryparken) eller metro (Vibenshus Runddel, M3/M4) i kort afstand
+- Link: https://dk.linkedin.com/jobs/view/studentermedhj%C3%A6lper-til-power-bi-data-og-ai-rapportering-at-altandetlige-dk-4458106001
+- Opslået: 6 dage siden (verificeret aktivt, blandt de første 25 ansøgere)
+- Ansøgningsfrist: ikke angivet i opslaget
+- Begrundelse: Opslaget efterspørger direkte det du er stærkest til — vedligeholdelse og opdatering af Power BI-rapporter/dashboards, datastrukturering og kvalitetssikring, samt Excel/Microsoft 365 — alt sammen kernen i din nuværende rolle hos COWI. SQL nævnes kun som en fordel, ikke et krav, og der stilles ikke krav om specifikke CRM-systemer eller avanceret programmering.
+- Bemærk (ærlighed): Også et deltids-studenterjob (ca. 15 timer/uge), ikke en fuldtidsstilling — samme forbehold som ovenfor. Til gengæld er Power BI-matchet usædvanligt præcist.
+
+Øvrige undersøgte opslag i dag (Business Analyst, Data Analyst, Commercial/Strategy Consultant, Data Consultant m.fl. hos bl.a. OrderYOYO, Muuto, Simon-Kucher, Nasdaq, Abacus Medicine, Copenhagen Infrastructure Partners, MAP, Nykredit, Scandinavian Tobacco Group) blev screenet og frasorteret — enten fordi de kræver avanceret programmering/SQL (fx OrderYOYO: Python, scikit-learn, ML-modeller), er senior-/erfarne stillinger (fx Muuto, hvor opslaget desuden var lukket for ansøgninger), allerede er foreslået/screenet i en tidligere kørsel (fx MAP, Simon-Kucher, Annalect Consumer Insights, Scandinavian Tobagco Group), eller falder ind under salg/Customer Success (fx Karnov Group).
+
 ## 2026-08-29
 
 **United Fintech — Revenue Operations Analyst, Data & Systems (København)**
