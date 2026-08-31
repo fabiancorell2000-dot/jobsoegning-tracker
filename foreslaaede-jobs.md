@@ -65,3 +65,41 @@ Ingen nye forslag fra denne opfølgende kørsel. Gennemgåede opslag (Business A
 - Ansøgningsfrist: ikke angivet i opslaget, men 1. samtalerunde er i uge 38 og 2. runde (med case) i uge 39 — ansøg snarest
 - Begrundelse: Opslaget er eksplicit rettet mod nyuddannede og efterspørger stærke analytiske kompetencer, Power BI-rapportering og evnen til at omsætte komplekse data til beslutningsgrundlag — det matcher godt EMF's kvantitative metodefag og din Power BI-erfaring fra COWI/Skattestyrelsen.
 - Bemærk (ærlighed, svagere match end United Fintech): Opslaget stiller SQL som et decideret krav (ikke "nice to have"), og din SQL-erfaring er begrænset i dybde — det er en reel usikkerhed. Region Sjælland som organisation har også langt over 10.000 ansatte samlet set (though selve teamet er lille), hvilket er uden for din normale størrelsespræference. Ingen Canva-udkast lavet, da matchet er for usikkert til at prioritere et udkast i dag.
+
+## 2026-08-31
+
+**Twoday — Sales Operations Specialist, Digital Identity Management (Nordhavn, København)**
+- Lokation: Sundkaj/Pakhus 47, Nordhavn, København
+- Transport: Metro (Nordhavn, M4) — stort set på adressen
+- Link: https://dk.linkedin.com/jobs/view/sales-operations-specialist-digital-identity-management-at-twoday-4446678185
+- Opslået: 4 dage siden (verificeret aktivt)
+- Ansøgningsfrist: ikke angivet (løbende)
+- Begrundelse: En Sales/Revenue Operations-rolle der eksplicit måles på CRM-workflow-optimering, procesdisciplin og rapportering — ikke salgstal — hvilket matcher din COWI-erfaring med AI-agenter i Copilot og datastrukturering, samt din professionelle HubSpot-erfaring fra Teknologiens Mediehus. Opslaget siger direkte "du behøver ikke ti års erfaring — men du skal have relevant erfaring", uden hård senioritetsgrænse.
+
+**Verisure — Partner Analyst (Glostrup)**
+- Lokation: Hovedvejen 2, 2600 Glostrup
+- Transport: S-tog (Glostrup), ca. 15 min gang fra stationen
+- Link: https://dk.linkedin.com/jobs/view/partner-analyst-at-verisure-4458080953
+- Opslået: 2 dage siden (verificeret aktivt)
+- Ansøgningsfrist: ikke angivet (løbende behandling)
+- Begrundelse: Opslaget henvender sig eksplicit til nyuddannede/tidlig karriere, og kerneværktøjerne er Excel og Power BI — dine stærkeste kompetencer — brugt til partnerperformance-analyse og koordinering på tværs af interne/eksterne stakeholders, hvilket matcher dit tværorganisatoriske stakeholder-arbejde hos COWI. Ikke en salgs-/målstyret rolle, men en partner-relations-/performanceanalyse-funktion.
+
+**Brødrene Dahl — Driftskoordinator, Pricing (Brøndby)**
+- Lokation: Park Allé 370, 2605 Brøndby
+- Transport: Nærmeste S-togsstation er Glostrup, ca. 2,7 km væk — kræver bus eller cykel, ikke gåafstand
+- Link: https://dk.linkedin.com/jobs/view/driftskoordinator-pricing-at-br%C3%B8drene-dahl-4459686437
+- Opslået: 3 dage siden (verificeret aktivt)
+- Ansøgningsfrist: ikke angivet (løbende samtaler)
+- Begrundelse: Eksplicit åben for nyuddannede, ingen krav om forudgående erfaring i pricing-funktioner. Kerneopgaverne er registrering af pris-/omkostningsdata, datakvalitetssikring i pricing-systemer og koordinering på tværs af afdelinger — et reelt Pricing Analyst-nært match til dine data- og Excel-kompetencer fra COWI.
+- Bemærk (ærlighed): Transportadgangen er svagere end dine øvrige forslag — S-togsstationen er ikke i gåafstand, så vurdér selv om det stadig er praktisk for dig.
+
+**DTU — Dataspecialist, Afd. for Uddannelse og Studerende (Kgs. Lyngby)**
+- Lokation: DTU Lyngby Campus, bygning 101
+- Transport: S-tog (Lyngby), derefter bus 300S (ca. 3 min) til campus
+- Link: https://dk.linkedin.com/jobs/view/dataspecialist-afd-for-uddannelse-og-studerende-at-dtu-technical-university-of-denmark-4458711406
+- Opslået: 4 dage siden (verificeret aktivt)
+- Ansøgningsfrist: 14. september
+- Begrundelse: Rollen handler om at omsætte uddannelsesdata til nøgletal, visualiseringer og narrativer for ledelsen samt sikre datakvalitet — meget tæt på dit arbejde hos COWI (Power BI-dashboards, datastrukturering/QA for Engagement Survey på tværs af 7.500+ medarbejdere). Selve kravteksten stiller ingen faste erfaringsår og siger eksplicit at baggrunden "kan variere"; R/Python/Qlik nævnes kun som en fordel.
+- Bemærk (ærlighed): LinkedIn kategoriserer selve opslaget under erfaringsniveauet "Erfaren" (ikke "Entry level"), hvilket er en reel usikkerhed trods den ellers åbne kravtekst — vurdér selv om du vil bruge tid på denne, givet den lidt indirekte transportrute.
+
+Øvrige undersøgte og frasorterede opslag i dag (Business Analyst, Agile/Delivery-roller, Analytics Engineer, Category Manager, Pricing Manager m.fl. hos bl.a. GN Group, Banedanmark, Adnami, Octave, Udviklings- og Forenklingsstyrelsen, L'Oréal Nordic Data & Analytics Manager, Ørsted Lead Commercial Analyst, Coloplast Manager Pricing & Trade, KommuneKredit, Ascendis Pharma, BearingPoint, Weibel Scientific, Lantmännen Unibake, Radiometer studentermedhjælper) blev frasorteret — enten pga. eksplicitte senior-/lead-/manager-titler, krav om flere års erfaring, avanceret SQL/Python (3-5+ år), eller fordi de er studenterjob. Nestlé (Demand Analyst & Planner, Ørestad) blev screenet, men frasorteret her selvom fuldtid/nyuddannet-venlig — indholdsmæssigt er det supply chain-/demand planning, ikke marketing/dataanalyse/CRM, og derfor for løst et match til din profil til at foreslå.
