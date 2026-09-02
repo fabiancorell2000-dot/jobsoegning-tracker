@@ -61,6 +61,47 @@ opslagsdato (inden for ca. 1 uge) og at opslaget er aktivt.
 
 ---
 
+## Præciseringer 2026-09-02 (anden runde)
+
+### 6. Startdato: 1. oktober 2026
+Fabian er ledig til fuldtidsansættelse fra **1. oktober 2026**. Da dansk
+rekruttering typisk tager 4-8 uger fra ansøgning til start, er opslag med
+"snarest muligt"/løbende start præcis rigtige at søge nu.
+
+- Opslag der kræver start **før 1. oktober** skal nævnes som en usikkerhed.
+- Sammenhold med pkt. 4: graduate-programmer med start mere end ca. 2-3 måneder
+  ude fravælges fortsat.
+
+### 7. Lønniveau
+- **Under ca. 36-37.000 kr./md er ikke interessant.**
+- **Ønsket niveau: 40.000+ kr./md.**
+
+Vær ærlig om begrænsningen: de fleste danske opslag (særligt private) angiver
+ikke løn. Derfor:
+- Angiver opslaget løn, så **tjek den mod grænsen** og frasortér hvis den er under.
+- Angiver det ikke løn, så frasortér **ikke** på et gæt — men nævn det som en
+  risiko i begrundelsen, hvis rollen realistisk ligger lavt (fx offentlige
+  stillinger på lavt AC-trin eller meget små virksomheder).
+
+### 8. Privat sektor er en klar prioritet
+Offentlige stillinger (styrelser, regioner, kommuner, universiteter) skal
+**nedprioriteres markant**. Foreslå dem kun, når matchet er usædvanligt stærkt,
+og nævn eksplicit at det er offentligt. Privat sektor er førsteprioritet.
+
+### 9. Prioritér stillinger med lavere konkurrence
+De hidtidige 6-7 samtaler er tabt til bedre kandidater — ikke på en systematisk
+kompetencemangel. Der er altså ikke et hul i profilen, der skal lukkes; der skal
+findes stillinger med færre stærke ansøgere.
+
+- Nedprioritér de mest eftertragtede brands og arbejdspladser (udvider den
+  eksisterende regel om McKinsey/BCG/Bain/Kearney til også at gælde andre
+  meget søgte navne).
+- Foretræk solide, mindre kendte etablerede virksomheder med et reelt match.
+- "Vær blandt de første 25 ansøgere"-markeringen på LinkedIn er et positivt
+  signal værd at nævne.
+
+---
+
 ## Uændret — må ikke løsnes
 
 - **Fuldtid er et hårdt krav.** Ingen deltid, studenterjob/studentermedhjælper
