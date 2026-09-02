@@ -116,3 +116,25 @@ Ingen nye forslag fra denne opfølgende kørsel. Gennemgåede opslag (Business A
 - Bemærk (ærlighed): Opslaget stiller "Strong SQL skills and experience working with large datasets" som et decideret krav, ikke "nice to have". Din SQL-erfaring er reel, men begrænset i dybde — det er den klart svageste del af matchet, og en reel risiko for at du ikke opfylder kravet fuldt ud. Vurdér selv om det er værd at søge alligevel givet hvor stærkt resten af matchet er.
 
 Øvrige undersøgte og frasorterede opslag i dag (Business Analyst, Commercial/Sales Analyst, Data Governance, IT Analyst Consultant, Junior Analyst m.fl. hos bl.a. OrderYOYO, Cadeler, ZURU Edge, CereNord, emagine, Copenhagen Offshore Partners, Nykredit, Saxo Bank, Danske Bank Senior Business Analyst, Ambu, VENZO, BEC Financial Technologies) blev frasorteret — enten pga. eksplicit senior-niveau, krav om ekspertise du ikke har (fx Microsoft Purview/informationssikkerhed hos CereNord), indholdsmæssigt svagt match til profilen (fx procurement/supply chain hos Copenhagen Offshore Partners og Nestlé, kredit-/regnskabsanalyse hos Nykredit, KYC/compliance hos Saxo Bank), er en tidsbegrænset konsulentkontrakt (emagine, kontrakt til 30. november 2026), eller er reelt en salgsrolle (ZURU Edge Sales Analyst). Wilke, Annalect Consumer Insights, Radiant og MAP er allerede foreslået/screenet i tidligere kørsler.
+
+## 2026-09-02
+
+**Cadeler — Business Development Analyst, Offshore Wind Industry (København)**
+- Lokation: Kalvebod Brygge 43, 1560 København V
+- Transport: S-tog (Dybbølsbro), kort gåafstand
+- Link: https://dk.linkedin.com/jobs/view/business-development-analyst-%E2%80%93-offshore-wind-industry-at-cadeler-4460049030
+- Opslået: 1 dag siden (verificeret aktivt)
+- Ansøgningsfrist: 14. september
+- Begrundelse: Eksplicit nyuddannet-venligt opslag (kræver enten en relevant uddannelse eller dokumenteret erfaring, ikke begge dele), og kernekravene er stærk Excel/PowerPoint-brug samt evnen til at omsætte data til rapporter for ikke-tekniske stakeholders — præcis det du gør i din nuværende COWI-rolle med medarbejder- og finansdata. Dataviualiseringsværktøjer (fx Power BI) nævnes kun som en fordel, ikke et krav, og der stilles intet krav om SQL, CRM-ekspertise eller Lean Six Sigma.
+- Bemærk (ærlighed): Erfaring som "business analyst, market analyst eller business development support" er ønsket — din erfaring ligger tættest på dette gennem den kommercielle dataforståelse fra Teknologiens Mediehus kombineret med analyse-/rapporteringsdelen fra COWI, men du har ikke en title, der ordret matcher. Cadeler har ca. 650-1.000 ansatte (offshore wind-installation), inden for din størrelsespræference.
+
+**Maersk Tankers — Business Intelligence Associate (København)**
+- Lokation: Marmorvej 18, 2100 København Ø (Nordhavn)
+- Transport: S-tog (Nordhavn, linje F), kort gåafstand
+- Link: https://dk.linkedin.com/jobs/view/business-intelligence-associate-at-maersk-tankers-4459513475
+- Opslået: 20 timer siden (verificeret aktivt)
+- Ansøgningsfrist: ikke angivet (løbende)
+- Begrundelse: Rollen handler om at omsætte forretningskrav til rapporteringsløsninger og bygge/vedligeholde Power BI-dashboards til finansiel og operationel rapportering — kernen i dit arbejde hos COWI. Der stilles 1-3 års erfaring med BI/rapportering/analytics, hvilket matcher din nuværende erfaring uden overdrivelse. Maersk Tankers har ca. 260-300 ansatte i Danmark, inden for din størrelsespræference.
+- Bemærk (ærlighed): Opslaget stiller "SQL-kendskab og evne til at skrive data queries" samt forståelse for relationelle databaser/datamodellering som et decideret krav, ikke "nice to have". Din SQL-erfaring er reel, men begrænset i dybde — det er den klart svageste del af matchet, ligesom hos Flatpay-opslaget tidligere. Vurdér selv om det er værd at søge, givet hvor stærkt Power BI-delen af matchet er.
+
+Øvrige undersøgte og frasorterede opslag i dag (People Analytics/HR Data, Master Data, Reporting/Performance Analyst, Revenue/Sales Operations, Pricing/Category Analyst, Data Quality/Governance m.fl. hos bl.a. NoA/The North Alliance, ATP, FLSmidth, BEC Financial Technologies, CereNord, VENZO, emagine, Saxo Bank, Danske Bank) blev frasorteret — enten pga. krav om avanceret programmering (fx NoA Marketing Science Analyst: Python/R på ekspertniveau samt statistisk modellering; ATP Solution Analyst: SQL/Python samt fortolkning af lovgivning til forretningsregler), krav om flere års erfaring/senior-niveau med specifik regnskabsbaggrund (FLSmidth Financial Reporting Analyst: 4+ års erfaring som revisor/controller, HD i regnskab), eller allerede screenet/frasorteret i tidligere kørsler (OrderYOYO, Ambu, Nestlé, Copenhagen Offshore Partners, Wilke, Radiant, MAP, Danske Bank CRM/Senior Business Analyst).
