@@ -105,20 +105,45 @@ gælder for `foreslaaede-jobs.md`):**
   en generisk tekst igennem, samme kvalitetsprincip som resten af rutinen
   ("0 forslag er et fuldt gyldigt resultat").
 
-## Kvalitetstjek før filerne sendes
+## Kvalitetstjek før filerne sendes (2 gennemlæsninger, hver gang, begge dokumenter)
 
-Send aldrig en fil uden først at have set den, generering kan fejle stille
-(forkert sidebrud, tekst der løber over, forkerte data). Konverter og
-rendér til billede, læs billedet, og send først derefter:
+Send aldrig en fil uden at have læst den grundigt igennem to gange først,
+med to forskellige formål. Det er ikke nok at kigge på den én gang, en enkelt
+gennemlæsning fanger typisk kun halvdelen af fejlene. Gør det for BÅDE CV og
+ansøgning, hver gang, uden undtagelse.
+
+Konverter og rendér til billede først, så du rent faktisk ser det Fabian
+kommer til at se, ikke bare den rå tekst:
 
 ```bash
-soffice --headless --convert-to pdf --outdir . Fabian_Hansen_CV_X.docx
-pdftoppm -jpeg -r 120 Fabian_Hansen_CV_X.pdf page
+soffice --headless --convert-to pdf --outdir . <fil>.docx
+pdftoppm -jpeg -r 120 <fil>.pdf page
 # læs page-1.jpg (og evt. page-2.jpg) med Read-værktøjet
 ```
 
-CV'et skal fylde 2 sider, med alle punkter under COWI samlet på side 1 (ikke
-et enkelt punkt der springer til side 2). Ansøgningen skal fylde 1 side.
+**Gennemlæsning 1, indhold og fakta:**
+- Stemmer alt overens med `profile.json`? Intet opdigtet, intet overdrevet
+  ud over den tilladte fremstillingsmæssige pynt (se ansøgningsreglerne
+  ovenfor).
+- Er firmanavn, jobtitel og hilsen korrekte og konsekvente hele vejen
+  igennem, ingen rester fra en tidligere ansøgning eller forkert firmanavn
+  ét sted i teksten?
+- Nævner ansøgningen nogen svaghed eller mangel? Skal fjernes, ingen
+  undtagelser.
+- Er motivationen konkret og specifik for lige dette job, ikke en generisk
+  sætning der kunne genbruges overalt?
+
+**Gennemlæsning 2, sprog og layout:**
+- Ingen tænkestreger, kolon eller bogstavelige markdown-tegn nogen steder.
+- Læs det højt for dig selv (mentalt), lyder det som noget en person selv
+  har skrevet, eller som en generisk skabelon? Ret det hvis det sidste.
+- Stavefejl, grammatik, dobbelte mellemrum, manglende punktum.
+- Sidebrud og layout er korrekt: CV'et fylder 2 sider, med alle punkter
+  under COWI samlet på side 1 (ikke et enkelt punkt der springer til side
+  2). Ansøgningen fylder 1 side.
+
+Er du i tvivl efter begge gennemlæsninger, læs den en tredje gang i stedet
+for at sende noget du ikke er helt sikker på.
 
 ## Filer i denne mappe
 

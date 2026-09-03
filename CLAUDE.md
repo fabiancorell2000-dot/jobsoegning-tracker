@@ -176,8 +176,10 @@ tilpasset ansøgning, og send begge filer til Fabian i samme kørsel. Se
    i stedet for at tvinge en generisk tekst igennem. Ingen tænkestreger,
    kolon eller bogstavelige markdown-tegn (`**`, `*`, `#`) i teksten. Se
    `materials/README.md` for den fulde regel, inklusive SQL-fremstilling.
-4. Rendér og se begge filer igennem (se "Kvalitetstjek" i README) før de
-   sendes, aldrig blindt.
+4. Rendér begge filer til billeder og læs dem grundigt igennem **to gange
+   hver**, med to forskellige formål (indhold/fakta først, sprog/layout
+   bagefter), se "Kvalitetstjek" i README for den fulde tjekliste. Aldrig
+   send noget der kun er læst én gang eller slet ikke er set.
 5. Send begge filer til Fabian med en kort billedtekst der navngiver
    firma og titel. Tilføj jobbet til `foreslaaede-jobs.md` som normalt.
 
