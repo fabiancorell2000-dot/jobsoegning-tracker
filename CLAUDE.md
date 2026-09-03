@@ -146,8 +146,49 @@ for opslag med færre ansøgere. Samme kvalitetskrav gælder uanset kilde
 
 ---
 
+## Ansøgningsmateriale per match (tilføjet 2026-09-03)
+
+For hvert job der består ALLE kvalitetskrav ovenfor (og derfor ville blive
+tilføjet til `foreslaaede-jobs.md`), generér nu også et tilpasset CV og en
+tilpasset ansøgning, og send begge filer til Fabian i samme kørsel. Se
+`materials/README.md` for de fulde tekniske instruktioner. Kort opsummeret:
+
+1. `cd materials && npm install` (containeren er frisk hver kørsel, intet er
+   installeret i forvejen). Tjek også at `libreoffice-writer` og
+   `poppler-utils` er installeret, ellers fejler PDF-rendering med en
+   kryptisk fejl der intet har med selve docx-filen at gøre, se README for
+   den præcise fejlbesked og fix.
+2. CV: brug `build-cv.js` med `targetTitle` sat til opslagets egen titel.
+   Resten af indholdet kommer fra `profile.json` og må ikke omskrives eller
+   overdrives per job.
+3. Ansøgning: brug `build-cover-letter.js`. Brødteksten skal skrives forfra
+   for hvert job, kun baseret på fakta fra `profile.json`, matchet konkret
+   til opslagets krav. Hilsen i denne rækkefølge: navngiven kontaktperson
+   hvis opslaget nævner en, ellers team-navnet, ellers firmanavnet. Gæt
+   aldrig et navn. Er matchet for svagt til en ærlig, specifik ansøgning,
+   spring jobbet over i stedet for at tvinge en generisk tekst igennem.
+   Ingen tænkestreger eller kolon i teksten.
+4. Rendér og se begge filer igennem (se "Kvalitetstjek" i README) før de
+   sendes, aldrig blindt.
+5. Send begge filer til Fabian med en kort billedtekst der navngiver
+   firma og titel. Tilføj jobbet til `foreslaaede-jobs.md` som normalt.
+
+**Hård grænse, gælder uanset resten af denne fil:** rutinen genererer og
+sender kun filer til Fabian. Den søger, ansøger eller kontakter aldrig
+nogen på hans vegne, og tager ingen handling ud over det beskrevet her.
+Kun Fabian selv sender den faktiske ansøgning.
+
+`profile.json` er eneste kilde til sandhed om Fabians fakta (kontakt,
+uddannelse, erfaring, kompetencer, referencer). Opdatér den fil hvis Fabian
+giver nye fakta i en samtale, ikke de enkelte genererede dokumenter.
+
+---
+
 ## Uændret — må ikke løsnes
 
+- **Rutinen søger, ansøger eller kontakter aldrig nogen på Fabians vegne.**
+  Den må generere og sende CV/ansøgning-udkast til Fabian selv, intet andet.
+  Kun Fabian sender den faktiske ansøgning.
 - **Fuldtid er et hårdt krav.** Ingen deltid, studenterjob/studentermedhjælper
   eller praktik — uanset hvor godt kompetencematchet ellers er.
 - **Ingen salgs- eller Customer Success-roller** målt på salg, retention eller

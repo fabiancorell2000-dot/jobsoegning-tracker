@@ -1,0 +1,9 @@
+{
+  "name": "fabian-application-materials",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Reusable CV and cover letter generators for the job search routine",
+  "dependencies": {
+    "docx": "^9.7.1"
+  }
+}
