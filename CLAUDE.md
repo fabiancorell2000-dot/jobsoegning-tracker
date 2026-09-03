@@ -109,6 +109,43 @@ findes stillinger med færre stærke ansøgere.
 
 ---
 
+## Præciseringer 2026-09-03 (tredje runde)
+
+Baggrund: Gennemgang af tidligere kørsler viste et gentaget mønster — stærke
+Power BI/rapporterings-matches (fx Flatpay BI Analyst, Maersk Tankers BI
+Associate, Region Sjælland Analytiker) blev frasorteret udelukkende fordi SQL
+stod nævnt som et "decideret krav", selvom resten af matchet var stærkt.
+
+### 10. SQL-krav — skeln mellem grundlæggende og avanceret
+Fabians SQL-erfaring er reel, men begrænset i dybde (se profil). Det er
+fortsat en hård eksklusion, hvis et opslag kræver **avanceret SQL** —
+databasedesign, performance-optimering, kompleks forespørgselsprogrammering,
+eller SQL som en kerne-programmeringsdisciplin.
+
+Men et opslag der blot nævner **grundlæggende til moderat SQL** som krav (fx
+"kunne skrive/forstå queries", "SQL-kendskab", "evne til at trække data") må
+**ikke længere automatisk frasorteres** alene af den grund — heller ikke når
+det er formuleret som et "krav" snarere end "nice to have". Vurdér i stedet
+niveauet ud fra den fulde kravtekst og rollens øvrige indhold. Nævn det
+altid som en reel, ærlig svaghed i begrundelsen (jf. ærlighedsprincippet),
+men lad det ikke alene diskvalificere et ellers stærkt Power BI/rapporterings-match.
+
+### 11. Flere relevante titler — marketing-/insights-analytiker
+Tilføj til titellisten (ligeværdigt med de øvrige "yderligere relevante
+titler"): **Marketing Analyst / Insight Analyst / Digital Analytics
+Analyst / Marketing Data Analyst** — direkte match til EMF-uddannelsens
+fokus på dataanalyse anvendt på marketing og forbrugeradfærd. Samme filtre
+gælder i øvrigt (fuldtid, ikke kreativt marketingarbejde, ikke senior).
+
+### 12. Flere kilder — udvid ud over LinkedIn og Jobindex
+Søg også på **ofir.dk** og **jobsafari.dk** som supplerende danske
+jobopslagssider, af samme grund som Jobindex (pkt. 5): LinkedIn er det mest
+konkurrenceudsatte medie (jf. pkt. 9), og bredere kildedækning øger chancen
+for opslag med færre ansøgere. Samme kvalitetskrav gælder uanset kilde
+(fuldtid, opslagsdato inden for ca. 1 uge, aktivt opslag).
+
+---
+
 ## Uændret — må ikke løsnes
 
 - **Fuldtid er et hårdt krav.** Ingen deltid, studenterjob/studentermedhjælper
