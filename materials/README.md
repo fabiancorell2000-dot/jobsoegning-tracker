@@ -145,6 +145,39 @@ pdftoppm -jpeg -r 120 <fil>.pdf page
 Er du i tvivl efter begge gennemlæsninger, læs den en tredje gang i stedet
 for at sende noget du ikke er helt sikker på.
 
+### Layout skal sidde 100% rigtigt, ingen undtagelser
+
+Dette er ikke et "nice to have", det er et hårdt krav fra Fabian. Et CV hvor
+et enkelt COWI-punkt er sprunget alene over på side 2 er ikke godkendt til
+afsendelse, uanset hvor godt indholdet ellers er.
+
+**Vigtigt:** `targetTitle` er forskellig for hvert job, og en længere titel
+(fx "Senior Revenue Operations and Business Intelligence Analyst" i stedet
+for "Business & Data Analyst") kan fylde en ekstra linje i undertitlen og
+dermed skubbe hele resten af layoutet. Antag ALDRIG at fordi det sad rigtigt
+sidste gang, sidder det også rigtigt denne gang, tjek det hver eneste gang
+med den fulde render-og-læs proces ovenfor.
+
+Ser du et forkert sidebrud (et enkelt COWI-punkt alene på side 2, eller CV'et
+fylder 3 sider), så ret det, generér igen, og tjek igen, indtil det er
+korrekt. Send aldrig filen i mellemtiden. Ret det ved at justere disse
+knapper i selve genereringskaldet eller midlertidigt i `style.js`, i denne
+rækkefølge:
+
+1. Sidemargener (`margin.top`/`margin.bottom` i `build-cv.js`), prøv 0.45in
+   hvis 0.5in ikke er nok.
+2. Linjeafstand (`line` i `style.js`s `bullet`/`bodyPara`), 240 er
+   standard-enkelt-linje, gå ikke under uden at tjekke det stadig er
+   læsbart.
+3. Mellemrum før/efter sektionsoverskrifter og job-headers
+   (`sectionHeading`, `jobHeader`/`eduHeader` i `style.js`).
+
+Gå aldrig så langt ned at det ser proppet eller ulæseligt ud, "flot at
+læse" er lige så vigtigt som at det passer på siderne. Er det umuligt at få
+til at se godt ud på 2 sider uden at gå på kompromis med læsbarheden, sig
+det til Fabian i stedet for at sende noget der enten er stramt eller har et
+dårligt sidebrud.
+
 ## Filer i denne mappe
 
 - `style.js` — delt visuel identitet (Georgia-overskrifter, Calibri-brødtekst,

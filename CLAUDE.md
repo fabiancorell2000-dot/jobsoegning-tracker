@@ -179,7 +179,11 @@ tilpasset ansøgning, og send begge filer til Fabian i samme kørsel. Se
 4. Rendér begge filer til billeder og læs dem grundigt igennem **to gange
    hver**, med to forskellige formål (indhold/fakta først, sprog/layout
    bagefter), se "Kvalitetstjek" i README for den fulde tjekliste. Aldrig
-   send noget der kun er læst én gang eller slet ikke er set.
+   send noget der kun er læst én gang eller slet ikke er set. **Layout er
+   et hårdt krav, ikke en anbefaling:** et enkelt COWI-punkt alene på side 2
+   er ikke godkendt. Tjek det hver gang, `targetTitle` varierer i længde per
+   job og kan ændre sidebrud selvom det sad rigtigt sidst. Ret og generér
+   igen indtil det er korrekt, send aldrig i mellemtiden.
 5. Send begge filer til Fabian med en kort billedtekst der navngiver
    firma og titel. Tilføj jobbet til `foreslaaede-jobs.md` som normalt.
 
