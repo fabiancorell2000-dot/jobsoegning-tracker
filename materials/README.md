@@ -59,20 +59,51 @@ eksempel på kaldet.
 
 Gæt aldrig et navn der ikke står i opslaget.
 
-**Regler for selve brødteksten (samme ærlighedsprincip som resten af
-rutinen, se `../CLAUDE.md`):**
-- Brug KUN fakta fra `profile.json`, ingen overdrivelser eller opdigtede
-  detaljer, uanset hvor godt det ville passe til opslaget.
-- Match konkrete punkter fra opslagets krav til konkrete punkter i Fabians
-  faktiske erfaring, ikke generiske floskler.
-- Ingen tænkestreger (—) og ingen kolon (:) i teksten, det er en eksplicit
-  præference fra Fabian, det læses som et AI-tegn.
+**Regler for selve brødteksten (opdateret 2026-09-03, læs hele afsnittet før
+du skriver en ansøgning, det er anderledes end den interne ærlighedsregel der
+gælder for `foreslaaede-jobs.md`):**
+
+- **Fakta må ikke opdigtes.** Ingen påstået erfaring, værktøjer, ansættelser
+  eller tal der ikke findes i `profile.json`, uanset hvor godt det ville
+  passe til opslaget. Det er en hård grænse.
+- **Men det er fuldt tilladt, og opmuntret, at pynte på FREMSTILLINGEN af
+  de rigtige fakta.** Selvsikkert, varmt og entusiastisk sprog om noget der
+  faktisk er sandt er ikke løgn, det er god ansøgningsskrivning. Skriv som
+  en der genuint er den rette til jobbet, ikke i konjunktiv eller med
+  forbehold.
+- **Skriv ALDRIG en svaghed eller mangel ind i en ansøgning.** Sætninger i
+  stil med "jeg kender ikke til X" eller "jeg har ikke erfaring med Y" hører
+  aldrig hjemme i en ansøgning, uanset hvor ærligt det er. Kræver opslaget
+  noget Fabian reelt ikke har, så nævn det simpelthen ikke, og fremhæv i
+  stedet en anden reel styrke der er relevant. Dette er en ren
+  tone/fremstillings-regel for selve ansøgningsteksten, den ændrer intet ved
+  den interne vurdering rutinen skriver til Fabian selv i
+  `foreslaaede-jobs.md`, den skal fortsat være 100% ærlig om svagheder, kun
+  ansøgningen der sendes til virksomheden skal udelukkende fremhæve styrker.
+- **SQL specifikt, se `profile.json.skillFramingNotes.sql`.** Fabian har et
+  solidt, reelt kendskab til SQL, ikke ekspert-/avanceret niveau, men langt
+  fra svagt, og han lærer hurtigt. Skriv aldrig at det er begrænset eller
+  overfladisk. Skriv heller ikke at han er ekspert. "Erfaring med SQL" eller
+  "arbejder løbende med SQL" er den rigtige tone.
+- **Vær personlig og konkret om motivation.** Match konkrete punkter fra
+  opslagets krav til konkrete punkter i Fabians faktiske erfaring, ikke
+  generiske floskler ("jeg er stærk til dataanalyse"). Forklar med en reel,
+  specifik grund hvorfor lige DEN virksomhed og DEN rolle er interessant,
+  ikke en sætning der kunne stå i enhver ansøgning til enhver virksomhed.
+  Motivationen skal skinne igennem, det skal lyde som ét menneskes reelle
+  interesse, ikke en genereret skabelon.
+- **Ingen tænkestreger (—) og ingen kolon (:) i teksten**, det er en
+  eksplicit præference fra Fabian, det læses som et AI-tegn.
+- **Ingen bogstavelige markdown-tegn i teksten** (`**fed**`, `*kursiv*`,
+  understregninger, `#`-overskrifter og lignende). Al formatering sker via
+  rigtig docx-formatering i `style.js`, aldrig som synlige symboler i selve
+  ordene.
 - 4 til 5 afsnit er passende længde, samme som Annalect-ansøgningen der er
   skabelonens forbillede.
-- Er matchet for svagt til at skrive en ærlig, specifik ansøgning, spring
-  jobbet over i stedet for at tvinge en generisk tekst igennem, samme
-  kvalitetsprincip som resten af rutinen ("0 forslag er et fuldt gyldigt
-  resultat").
+- Er matchet for svagt til at skrive en ærlig, personlig og specifik
+  ansøgning uden at opdigte noget, spring jobbet over i stedet for at tvinge
+  en generisk tekst igennem, samme kvalitetsprincip som resten af rutinen
+  ("0 forslag er et fuldt gyldigt resultat").
 
 ## Kvalitetstjek før filerne sendes
 

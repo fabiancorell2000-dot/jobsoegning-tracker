@@ -162,12 +162,20 @@ tilpasset ansøgning, og send begge filer til Fabian i samme kørsel. Se
    Resten af indholdet kommer fra `profile.json` og må ikke omskrives eller
    overdrives per job.
 3. Ansøgning: brug `build-cover-letter.js`. Brødteksten skal skrives forfra
-   for hvert job, kun baseret på fakta fra `profile.json`, matchet konkret
-   til opslagets krav. Hilsen i denne rækkefølge: navngiven kontaktperson
-   hvis opslaget nævner en, ellers team-navnet, ellers firmanavnet. Gæt
-   aldrig et navn. Er matchet for svagt til en ærlig, specifik ansøgning,
-   spring jobbet over i stedet for at tvinge en generisk tekst igennem.
-   Ingen tænkestreger eller kolon i teksten.
+   for hvert job, kun baseret på fakta fra `profile.json` (aldrig opdigtet),
+   men fremstillingen af de rigtige fakta må gerne pyntes, selvsikkert og
+   personligt sprog er opmuntret. Match konkret til opslagets krav, og lad
+   motivationen for lige DEN virksomhed skinne igennem, ikke generiske
+   floskler. Skriv ALDRIG en svaghed eller mangel ind i ansøgningen ("jeg
+   kender ikke til X"), fremhæv i stedet en anden reel styrke, dette gælder
+   kun selve ansøgningsteksten, den interne vurdering til Fabian skal
+   fortsat være 100% ærlig om svagheder. Hilsen i denne rækkefølge:
+   navngiven kontaktperson hvis opslaget nævner en, ellers team-navnet,
+   ellers firmanavnet. Gæt aldrig et navn. Er matchet for svagt til en
+   personlig, specifik ansøgning uden at opdigte noget, spring jobbet over
+   i stedet for at tvinge en generisk tekst igennem. Ingen tænkestreger,
+   kolon eller bogstavelige markdown-tegn (`**`, `*`, `#`) i teksten. Se
+   `materials/README.md` for den fulde regel, inklusive SQL-fremstilling.
 4. Rendér og se begge filer igennem (se "Kvalitetstjek" i README) før de
    sendes, aldrig blindt.
 5. Send begge filer til Fabian med en kort billedtekst der navngiver

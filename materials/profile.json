@@ -3,6 +3,9 @@
   "fullName": "Fabian Corell Hansen",
   "defaultTargetTitle": "Business & Data Analyst",
   "degreeShort": "MSc in Economics and Marketing",
+  "skillFramingNotes": {
+    "sql": "Solid, real working knowledge of SQL, not expert or advanced level, but far from weak, and learns new query/data-modelling needs quickly on the job. In cover letters, phrase this as genuine experience or ongoing hands-on use, never as limited/basic, and never as expert-level mastery either."
+  },
   "contact": {
     "location": "Frederiksberg, Copenhagen",
     "phone": "+45 24 23 01 19",
