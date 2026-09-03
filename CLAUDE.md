@@ -3,7 +3,7 @@
 Denne fil læses automatisk ved starten af hver kørsel og supplerer den planlagte
 opgaves prompt. **Ved konflikt vinder denne fil**, da den er opdateret senest.
 
-Sidst opdateret: 2026-09-02
+Sidst opdateret: 2026-09-03
 
 ---
 
@@ -42,6 +42,13 @@ Erstatter den oprindelige formulering ("Nordsjælland, Ballerup, Hillerød er fi
 - Udelukker Roskilde, Køge og Høje-Taastrup (vurderet for langt).
 - **NB:** Udelukker også Hillerød (~40 min fra Nørreport), som den oprindelige
   prompt ellers tillod. Rettes kun hvis Fabian beder om det.
+- **Undtagelse (tilføjet 2026-09-03):** Roskilde kan accepteres, men **kun** hvis
+  BÅDE (a) rollen er et exceptionelt/nærmest perfekt match til Fabians faktiske
+  erfaring og kompetencer, OG (b) virksomheden er rigtig god og veletableret —
+  ikke en startup/scaleup (jf. pkt. 1). Almindeligt gode matches er ikke nok til
+  at retfærdiggøre Roskilde. Roskilde er samtidig den yderste grænse for denne
+  undtagelse — intet der ligger længere væk (Køge, Høje-Taastrup, eller
+  længere) kommer i betragtning, heller ikke ved et perfekt match.
 
 ### 4. Graduate-programmer — kun med nær ansættelsesstart
 Graduate-stillinger er attraktive, men **kun hvis ansættelsen starter inden for
