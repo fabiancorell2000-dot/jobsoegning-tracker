@@ -38,3 +38,5 @@ Jobs jeg selv har bekræftet at have søgt. Denne fil opdateres kun manuelt.
 - ATP (Digitaliseringskonsulent)
 - United Fintech (Revenue Operations Analyst)
 - Haleon (Nordics NRM Associate)
+- Cadeler (Business Development Analyst, Offshore Wind Industry)
+- Twoday (Sales Operations Specialist, Digital Identity Management)
