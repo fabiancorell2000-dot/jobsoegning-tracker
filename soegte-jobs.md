@@ -36,3 +36,4 @@ Jobs jeg selv har bekræftet at have søgt. Denne fil opdateres kun manuelt.
 - EG (Business Development Representative)
 - KMD (Legal Operations Analyst)
 - ATP (Digitaliseringskonsulent)
+- United Fintech (Revenue Operations Analyst)

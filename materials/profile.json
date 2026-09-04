@@ -1,0 +1,104 @@
+{
+  "cvName": "Fabian Hansen",
+  "fullName": "Fabian Corell Hansen",
+  "defaultTargetTitle": "Business & Data Analyst",
+  "degreeShort": "MSc in Economics and Marketing",
+  "skillFramingNotes": {
+    "sql": "Solid, real working knowledge of SQL, not expert or advanced level, but far from weak, and learns new query/data-modelling needs quickly on the job. In cover letters, phrase this as genuine experience or ongoing hands-on use, never as limited/basic, and never as expert-level mastery either."
+  },
+  "contact": {
+    "location": "Frederiksberg, Copenhagen",
+    "phone": "+45 24 23 01 19",
+    "email": "fabiancorell2000@gmail.com",
+    "linkedin": "linkedin.com/in/fabian-corell"
+  },
+  "profileSummary": "Business & Data Analyst with 2+ years of experience turning people, payroll and financial data into actionable reporting. At COWI, I own Power BI solutions and data structures spanning 7,500+ employees, partnering with HR, Payroll and Finance stakeholders across Denmark, Norway, Sweden and Iceland. I combine a commercial mindset from CBS with strong analytical skills in Power BI, SQL and Excel.",
+  "education": [
+    {
+      "degree": "MSc in Economics and Marketing",
+      "org": "Copenhagen Business School",
+      "dates": "2024 – 2026",
+      "bullets": [
+        "Combined quantitative and qualitative market analysis methods, including statistical modelling and focus group research, to understand customer behaviour and market dynamics",
+        "Applied data and models to analyse markets, customers and competitors, translating findings into strategic marketing recommendations",
+        "Worked with CRM systems and statistical software (SPSS, R) to measure marketing performance and support commercial decision-making"
+      ]
+    },
+    {
+      "degree": "BSc in Business Administration",
+      "org": "Roskilde University",
+      "dates": "2021 – 2024",
+      "bullets": [
+        "Built a broad business foundation across accounting, organisational management, marketing, strategy and financial management, including reading and interpreting financial statements",
+        "Trained in qualitative and quantitative research methods through problem-based project work on real-world business cases",
+        "Developed cross-disciplinary collaboration and analytical problem-solving skills through team-based coursework"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Student Assistant, People & Master Data",
+      "org": "COWI, Global Finance Operations",
+      "dates": "2024 – present",
+      "intro": "Building BI reporting and people data solutions for a large international organisation, with a primary focus on data structures, automation and workflow efficiency.",
+      "bullets": [
+        "Query, transform and model large datasets in SQL to build and maintain Power BI reports and dashboards on people and financial data, including sickness reports, manager validations and organisational visualisations",
+        "Developed a manager reporting solution supporting Denmark's annual salary regulation process, including validation of the underlying employee data",
+        "Calculate and maintain the BSR rate for 2,500+ employees in Denmark",
+        "Maintain COWI Sweden's holiday balance on a weekly basis, covering 1,000+ employees",
+        "Prepare annual statements for Arkitema Norway and COWI Norway, covering 1,600+ employees combined",
+        "Manage annual pay regulation for Arkitema K/S and set up the time registration system for COWI Iceland",
+        "Owned the data structure behind the Engagement Survey and Workplace Assessment Survey, ensuring reporting accuracy across 7,500+ employees",
+        "Design and deploy AI agents in Microsoft Copilot to streamline and automate everyday workflows, reducing manual work and freeing up time for higher-value analysis",
+        "Structure and analyse Excel-based employee level and compensation data, identifying patterns and explaining movements for stakeholders",
+        "Partnered with HR, Payroll and Finance stakeholders to translate business requirements into reliable reporting"
+      ]
+    },
+    {
+      "title": "Student Assistant",
+      "org": "Skattestyrelsen",
+      "dates": "2022 – 2024",
+      "intro": "Supporting senior management and office managers across a large public organisation. Broad role covering data, administration and coordination on major departmental initiatives.",
+      "bullets": [
+        "Extracted and analysed data, including KPI tracking and reporting to senior management",
+        "Prepared PowerPoint reports and Power BI-based invoice tracking",
+        "Assisted senior management with analysis, reporting and decision material",
+        "Coordinated major departmental initiatives, including stakeholder alignment and meeting planning"
+      ]
+    },
+    {
+      "title": "Media Consultant",
+      "org": "Teknologiens Mediehus",
+      "dates": "2020 – 2022",
+      "intro": "Customer-facing role focused on digital product sales and client relationships within a specialised B2B media environment.",
+      "bullets": [
+        "Owned a portfolio of B2B accounts end to end in HubSpot, prospecting new clients and building lasting stakeholder relationships",
+        "Ran the full commercial sales cycle, from first contact and needs discovery to proposal, negotiation and closed deal",
+        "Analysed commercial and customer data to research the market, identify sales opportunities and prioritise accounts"
+      ]
+    },
+    {
+      "title": "Operations Associate (voluntary)",
+      "org": "ICYE",
+      "dates": "2020 – 2021",
+      "intro": "Voluntary leadership position in an international youth exchange organisation, combining governance, financial responsibility and regional coordination. What motivates me most is working where analytical thinking and collaboration meet, creating structure in complex situations and following things through from idea to execution.",
+      "bullets": [
+        "Elected Chairperson of the Zealand regional board; managed regional budgets and served as Treasurer",
+        "Planned and coordinated volunteer events and meetings across local branches",
+        "Led communication between volunteers, local branches and the national organisation"
+      ]
+    }
+  ],
+  "skills": [
+    { "label": "Data & BI", "items": "Power BI, Excel (Advanced), SQL, Tableau, SPSS, R" },
+    { "label": "CRM & Commercial", "items": "HubSpot, Market & Competitor Analysis, Business Development Support, Stakeholder Management" },
+    { "label": "AI & Automation", "items": "Microsoft Copilot (Building AI Agents), Claude" },
+    { "label": "Presentation & Reporting", "items": "PowerPoint, Dashboard & Tracker Design, Cross-Functional Collaboration" },
+    { "label": "Languages", "items": "Danish (Native), English (Fluent)" }
+  ],
+  "references": [
+    { "name": "Pernille Hedberg Lading", "title": "VP, Payroll & People Masterdata", "org": "COWI A/S" },
+    { "name": "Alexander Wirgowitsch", "title": "Head of Payroll", "org": "COWI A/S" },
+    { "name": "Christoffer Nordal Lynge", "title": "Leading Masterdata Specialist", "org": "COWI A/S" }
+  ]
+}

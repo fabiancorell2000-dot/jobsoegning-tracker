@@ -4,7 +4,7 @@ Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne 
 
 ## 2026-08-28
 
-Ingen forslag i dag.
+Opdatering: WebFetch virkede alligevel ved et senere forsøg samme dag (den tidligere blokering var tilsyneladende midlertidig), så research er nu gennemført med fuld verifikation af hvert opslag.
 
 **Annalect Nordics (AI Powered Consultancy) — Konsulent til Consumer Insights i København**
 - Lokation: Midtermolen 3, 2100 København Ø (nær Nordhavn S-station)
@@ -153,7 +153,6 @@ Flying Tiger Copenhagen — Assortment Analyst, IMEA (Christianshavn, København
 Årsag til frasortering: Kernekravet er reelt 2-4 års erfaring specifikt inden for retail planning, merchandising eller category management — ikke bare generel analytikererfaring — og arbejdsopgaverne (assortment-optimering, sæson-lancerings-planlægning, samarbejde med franchise-partnere om nye butiksåbninger) er en specifik kommerciel retail-disciplin, som ikke fremgår af din faktiske erfaring (HR/finans-data hos COWI, KPI-rapportering hos Skattestyrelsen, kommerciel/CRM-erfaring fra Teknologiens Mediehus). Dette er ikke formuleret som "nice to have", men som et reelt krav — og det lempede erfaringskrav dækker antal år, ikke manglende branchespecifik baggrund. Løn er ikke angivet i opslaget (risiko, ikke afklaret).
 
 Øvrige undersøgte og frasorterede opslag i dag: OrderYOYO (Business Analyst — kræver Python/pandas/scikit-learn og A/B-testning); Annalect Nordics (Consultant, Data Science Consultancy Team — kræver professionel R-baseret økonometrisk modellering, ud over akademisk R-niveau); Crispy Food A/S (Business Support & Analyst — lokation Gørlev/Taastrup, begge udelukket pga. afstand); ATP (Solution Analyst — Hillerød, nu udelukket); Danske Bank (Senior Business Analyst), Novo Nordisk (Product Analytics Manager), Ørsted (Lead Commercial Analyst), VENZO (Senior Data Consultant), Ascendis Pharma (Senior-titler), Annalect (Senior/Manager Consumer Insights), Skatteguiden (Lead Product Data Analyst) — alle eksplicitte senior/lead/manager-titler; Northmoore (Junior Consultant, Kgs. Lyngby — ellers næsten perfekt timing med start 1. oktober 2026, men løn starter eksplicit ved 34.000 kr./md, under grænsen på 36-37.000 kr., og indholdsmæssigt er rollen EU-finansierings-/forsknings­kommercialiserings-rådgivning, ikke data/marketing/CRM); Nykredit (virksomhedsanalytiker — kredit-/regnskabsfokus, forkert felt), Politiet (analytikere til Hvidvasksekretariatet — offentlig sektor, forkert felt), Københavns Kommune (indkøbscontroller m.fl. — offentlig sektor, svagt match); Skatteguiden, Feeld, Weld, Pleo, Cylindo (startups/VC-finansierede scaleups, udelukket jf. lønkriteriet); EY/EY-Parthenon (Graduate Data & Analytics med start Efterår 2027 — for langt ude; Strategy and M&A Consultant); PwC graduate-programmer — allerede frasorteret. Wilke, Cadeler, Verisure, Brødrene Dahl, Maersk Tankers allerede søgt/foreslået i tidligere kørsler.
-
 ## 2026-09-04
 
 **Haleon — Nordics NRM Associate (København)**
