@@ -57,14 +57,22 @@ function bodyPara(text, opts = {}) {
   return new Paragraph({
     spacing: { after: opts.after ?? 90, line: opts.line ?? 240 },
     alignment: opts.align,
+    keepNext: opts.keepNext,
     children: [new TextRun({ text, size: opts.size ?? 21, font: BODY_FONT, italics: opts.italics, color: opts.color ?? INK })],
   });
 }
 
+// keepNext ties a job/education header to whatever paragraph comes right after
+// it (the italic intro line, or the first bullet when there's no intro), so a
+// renderer can never strand the header alone at the bottom of a page with its
+// content pushed to the next one. LibreOffice and Word compute line heights
+// slightly differently, so a layout that looks fine in one can still split in
+// the other without this.
 function jobHeader(title, org, dates) {
   return new Paragraph({
     spacing: { before: 130, after: 10 },
     tabStops: [{ type: "right", position: convertInchesToTwip(6.3) }],
+    keepNext: true,
     children: [
       new TextRun({ text: title, bold: true, size: 22, font: BODY_FONT, color: INK }),
       new TextRun({ text: `, ${org}`, bold: false, size: 22, font: BODY_FONT, color: INK }),

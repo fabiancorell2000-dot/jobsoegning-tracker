@@ -39,7 +39,7 @@ function buildCv({ outFile, targetTitle } = {}) {
     S.sectionHeading("Work Experience"),
     ...profile.experience.flatMap((job) => [
       S.jobHeader(job.title, job.org, job.dates),
-      S.bodyPara(job.intro, { after: 60, italics: true, color: S.MUTED }),
+      S.bodyPara(job.intro, { after: 60, italics: true, color: S.MUTED, keepNext: true }),
       ...job.bullets.map(S.bullet),
     ]),
 

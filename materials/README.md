@@ -151,6 +151,20 @@ Dette er ikke et "nice to have", det er et hårdt krav fra Fabian. Et CV hvor
 et enkelt COWI-punkt er sprunget alene over på side 2 er ikke godkendt til
 afsendelse, uanset hvor godt indholdet ellers er.
 
+**Vigtigt (opdateret 2026-09-04, efter Fabians feedback på Haleon-CV'et):**
+Kvalitetstjekket render til PDF via LibreOffice, men Fabian åbner selve
+`.docx`-filen i rigtig Word, og de to programmer beregner linjehøjder en
+anelse forskelligt. Et layout der ser korrekt ud i LibreOffice-PDF'en kan
+derfor stadig splitte forkert i Word (dette skete faktisk for
+Skattestyrelsen-blokken i Haleon-CV'et, uden at det var synligt ved
+LibreOffice-tjekket). Løsningen der nu er indbygget i `style.js` og
+`build-cv.js`: alle job-/uddannelsesheaders har `keepNext: true`, og det
+samme har intro-linjen lige under headeren, så en header aldrig kan blive
+efterladt alene nederst på en side mens indholdet under den skubbes til
+næste side, uanset hvilket program der åbner filen. Stol derfor ikke
+blindt på at LibreOffice-renderet ser korrekt ud som eneste bevis, det er
+en god indikation, men ikke en garanti for hvordan Word paginerer.
+
 **Vigtigt:** `targetTitle` er forskellig for hvert job, og en længere titel
 (fx "Senior Revenue Operations and Business Intelligence Analyst" i stedet
 for "Business & Data Analyst") kan fylde en ekstra linje i undertitlen og
