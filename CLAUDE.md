@@ -191,6 +191,40 @@ men reelt relevante opslag som Enalyzer, som en ren titel-liste aldrig ville
 finde. Samme kvalitetskriterier gælder uændret på selve indholdet, uanset om
 opslaget blev fundet via en specifik titel eller en bred niveau+indhold-søgning.
 
+### 16. Jobindex — brug RSS-feedet direkte, ikke Google-søgning
+Google-indekserede links til Jobindex.dk har i flere kørsler i træk vist sig
+konsekvent forældede/udløbede ("Annoncen er udløbet"). Brug i stedet
+Jobindex' eget RSS-feed, verificeret til at give friske, ikke-udløbede
+opslag med korrekt dato:
+
+    https://www.jobindex.dk/jobsoegning.rss?q=<søgeord>&geoarea=storkoebenhavn
+
+Kør en separat RSS-hentning per relevant søgeord/titel (samme titelliste og
+de bredere niveau+indhold-søgninger fra pkt. 15). "q"-parameteren filtrerer
+ikke perfekt, feedet indeholder ind imellem helt irrelevante opslag (fx
+håndværker- eller dyrlægejobs) blandet med de relevante, så samme
+kvalitetstjek og indholdsvurdering gælder uændret for hvert opslag i feedet.
+Ofir.dk og jobsafari.dk er fortsat urealistiske at bruge effektivt (samme
+tekniske begrænsning, se `foreslaaede-jobs.md` 2026-09-05), afprøv dem
+gerne fortsat, men brug ikke unødig tid hvis de stadig viser sig
+udløbede/uhentelige.
+
+### 17. Opslagsdato udvidet til ca. 2 uger
+Erstatter "inden for ca. 1 uge" fra pkt. 5/12 med **inden for ca. 2 uger**,
+for at fange stadig-åbne opslag der ligger lige uden for den tidligere
+snævrere grænse. Kravet om at opslaget rent faktisk skal være aktivt/åbent
+(ikke udløbet) er fortsat vigtigere end selve alderen og gælder uændret.
+
+### 18. Genbesøg career-sites for tidligere usædvanligt stærke matches
+Ud over LinkedIn, Jobindex, ofir.dk og jobsafari.dk, tjek også
+karrieresiderne direkte for virksomheder der tidligere har givet et
+usædvanligt stærkt match (indtil videre: Nykredit, Enalyzer,
+Annalect/Omnicom). Opslag på virksomhedens egen karriereside ses ofte af
+færre ansøgere end når det samme opslag cirkulerer via LinkedIns
+aggregerede feed (jf. pkt. 9 om lavere konkurrence). Voksende liste,
+tilføj en virksomhed hver gang et usædvanligt stærkt match findes fremover,
+så listen bliver mere værdifuld over tid.
+
 ---
 
 ## Ansøgningsmateriale per match (tilføjet 2026-09-03)
