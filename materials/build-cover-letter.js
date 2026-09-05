@@ -17,6 +17,11 @@
 //     ],
 //     outFile: "Fabian_Hansen_Ansogning_Flying_Tiger.docx",
 //   });
+//
+// Language: the letter's language must match the job posting's own language
+// (see README.md), and closing is NOT auto-derived from greeting, pass it
+// explicitly. Danish posting: leave closing unset (defaults to "Med venlig
+// hilsen,"). English posting: pass closing: "Kind regards," (or similar).
 const { Document, Packer } = require("docx");
 const fs = require("fs");
 const path = require("path");
@@ -24,7 +29,7 @@ const S = require("./style");
 
 const profile = JSON.parse(fs.readFileSync(path.join(__dirname, "profile.json"), "utf8"));
 
-function buildCoverLetter({ company, roleTitle, greeting, paragraphs, outFile }) {
+function buildCoverLetter({ company, roleTitle, greeting, paragraphs, outFile, closing }) {
   if (!company || !roleTitle || !greeting || !paragraphs || !paragraphs.length) {
     throw new Error("buildCoverLetter requires company, roleTitle, greeting and paragraphs");
   }
@@ -43,7 +48,7 @@ function buildCoverLetter({ company, roleTitle, greeting, paragraphs, outFile })
       S.bodyPara(p, { after: i === paragraphs.length - 1 ? 260 : 190, size: 22, line: 280 })
     ),
 
-    S.bodyPara("Med venlig hilsen,", { after: 50, size: 22 }),
+    S.bodyPara(closing || "Med venlig hilsen,", { after: 50, size: 22 }),
     S.bodyPara(profile.fullName, { size: 22, italics: true, color: S.ACCENT }),
   ];
 

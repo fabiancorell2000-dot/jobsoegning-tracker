@@ -69,6 +69,14 @@ engelske felter i `profile.json`, så husk at opdatere den tilsvarende danske
 oversættelse i `profile.da` samtidig, ellers kommer de to sprogversioner ud
 af trit med hinanden.
 
+**Samme sprogregel gælder ansøgningens hilsen og afsked**, ikke kun CV'et.
+`build-cover-letter.js` udleder IKKE sprog automatisk af `greeting`, så husk
+selv at sende et matchende `closing` med til et engelsk opslag (fx
+`closing: "Kind regards,"`), ellers falder den tilbage til dansk "Med venlig
+hilsen," selvom resten af brevet er engelsk. Dette gik faktisk galt i en
+tidlig Northmoore-ansøgning, fanget først ved den obligatoriske gennemlæsning,
+ikke ved generering, så tjek det eksplicit hver gang du skriver et engelsk brev.
+
 ## Ansøgning
 
 `build-cover-letter.js` er IKKE en færdig skabelon med tekst, brødteksten er
