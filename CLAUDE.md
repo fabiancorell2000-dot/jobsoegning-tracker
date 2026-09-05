@@ -172,6 +172,25 @@ For opslag hvor titlen eller rollen reelt er en konsulentstilling (fx
 acceptabel løn, ikke kun 36-37.000+ som beskrevet i pkt. 7. Den generelle
 grænse i pkt. 7 gælder fortsat uændret for alle andre titler/roller.
 
+### 15. Bredere søgemetode — niveau + indhold, ikke kun eksakte titler
+Titelbaseret søgning har en indbygget recall-grænse: enhver relevant
+stilling med en titel der ikke står på titellisten bliver aldrig fundet,
+uanset hvor godt det reelle indhold matcher (jf. Enalyzer-sagen, pkt. 13).
+Løs det ikke kun ved løbende at tilføje flere navngivne titler, men supplér
+fremover titelsøgningerne med bredere søgninger der kombinerer et
+niveau-ord med et indholdsord i stedet for en eksakt jobtitel, fx:
+
+- "junior" OR "nyuddannet" OR "graduate" + "data" København/Copenhagen
+- "junior" OR "nyuddannet" OR "graduate" + "analytics" OR "commercial" OR
+  "insights" København/Copenhagen
+
+Disse søgninger giver mere støj (flere irrelevante hits på tværs af
+brancher, fx salg, jura, IT-drift), så forvent at bruge mere tid på at
+verificere og frasortere hvert hit. Til gengæld fanger de generisk-titlerede
+men reelt relevante opslag som Enalyzer, som en ren titel-liste aldrig ville
+finde. Samme kvalitetskriterier gælder uændret på selve indholdet, uanset om
+opslaget blev fundet via en specifik titel eller en bred niveau+indhold-søgning.
+
 ---
 
 ## Ansøgningsmateriale per match (tilføjet 2026-09-03)
