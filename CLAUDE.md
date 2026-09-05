@@ -199,14 +199,22 @@ opslag med korrekt dato:
 
     https://www.jobindex.dk/jobsoegning.rss?q=<søgeord>&geoarea=storkoebenhavn
 
+**Vigtigt (præciseret 2026-09-05, anden runde):** `q`-parameteren skal
+citeres (URL-encoded anførselstegn om selve søgeordet, fx
+`q=%22business+analyst%22`), ellers filtrerer den næsten ikke på indhold
+overhovedet, og feedet returnerer stort set den samme generelle liste
+uanset søgeord. `geoarea=storkoebenhavn` filtrerer heller ikke pålideligt
+på lokation, mange hits ender med at være i Jylland, så verificér altid
+selve opslagets lokation individuelt, stol ikke på geoarea-parameteren alene.
+
 Kør en separat RSS-hentning per relevant søgeord/titel (samme titelliste og
-de bredere niveau+indhold-søgninger fra pkt. 15). "q"-parameteren filtrerer
-ikke perfekt, feedet indeholder ind imellem helt irrelevante opslag (fx
-håndværker- eller dyrlægejobs) blandet med de relevante, så samme
-kvalitetstjek og indholdsvurdering gælder uændret for hvert opslag i feedet.
-Ofir.dk og jobsafari.dk er fortsat urealistiske at bruge effektivt (samme
-tekniske begrænsning, se `foreslaaede-jobs.md` 2026-09-05), afprøv dem
-gerne fortsat, men brug ikke unødig tid hvis de stadig viser sig
+de bredere niveau+indhold-søgninger fra pkt. 15), med citerede søgeord.
+Feedet indeholder stadig ind imellem irrelevante opslag (fx håndværker-
+eller dyrlægejobs) blandet med de relevante, så samme kvalitetstjek og
+indholdsvurdering gælder uændret for hvert opslag i feedet. Ofir.dk og
+jobsafari.dk er fortsat urealistiske at bruge effektivt (samme tekniske
+begrænsning, se `foreslaaede-jobs.md` 2026-09-05), afprøv dem gerne
+fortsat, men brug ikke unødig tid hvis de stadig viser sig
 udløbede/uhentelige.
 
 ### 17. Opslagsdato udvidet til ca. 2 uger
