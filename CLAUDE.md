@@ -233,6 +233,15 @@ aggregerede feed (jf. pkt. 9 om lavere konkurrence). Voksende liste,
 tilføj en virksomhed hver gang et usædvanligt stærkt match findes fremover,
 så listen bliver mere værdifuld over tid.
 
+### 19. Offentlig sektor — hårdt fravalg, ikke længere kun nedprioriteret
+**Erstatter pkt. 8.** Fabian har præciseret at offentlige stillinger
+(styrelser, regioner, kommuner, universiteter) skal **fravælges helt**,
+ikke bare nedprioriteres. Undtagelsen for "usædvanligt stærkt match" i
+pkt. 8 gælder ikke længere, heller ikke for et match så stærkt som
+Københavns Kommunes Indkøbscontroller-opslag (foreslået 2026-09-05, samme
+dag denne præcisering kom). Privat sektor er nu et hårdt kriterium på linje
+med fuldtidskravet, ikke en blød prioritering.
+
 ---
 
 ## Ansøgningsmateriale per match (tilføjet 2026-09-03)
