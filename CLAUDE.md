@@ -3,7 +3,7 @@
 Denne fil læses automatisk ved starten af hver kørsel og supplerer den planlagte
 opgaves prompt. **Ved konflikt vinder denne fil**, da den er opdateret senest.
 
-Sidst opdateret: 2026-09-03
+Sidst opdateret: 2026-09-05
 
 ---
 
@@ -143,6 +143,34 @@ jobopslagssider, af samme grund som Jobindex (pkt. 5): LinkedIn er det mest
 konkurrenceudsatte medie (jf. pkt. 9), og bredere kildedækning øger chancen
 for opslag med færre ansøgere. Samme kvalitetskrav gælder uanset kilde
 (fuldtid, opslagsdato inden for ca. 1 uge, aktivt opslag).
+
+---
+
+## Præciseringer 2026-09-05
+
+Baggrund: Fabian fandt selv Enalyzer (Junior Consultant, Enalyzer Consulting),
+et opslag rutinens egen søgning aldrig havde fundet. Årsagen var ikke at
+opslaget blev vurderet og frasorteret, det blev aldrig fremsøgt overhovedet,
+fordi titlen "Junior Consultant" ikke matcher nogen af de hidtidige
+søgestrenge (som alle er bygget op omkring specifikke titler som "Data
+Analyst" eller "Commercial Consultant"). Samme generiske titel gjaldt
+Northmoore (også fundet af Fabian selv).
+
+### 13. Junior Consultant tilføjet som titel
+Tilføj **Junior Consultant** til titellisten (ligeværdigt med de øvrige
+"yderligere relevante titler"). Søg bredt på denne titel (fx
+"site:linkedin.com/jobs junior consultant Copenhagen/København"), og filtrer
+derefter på indhold som normalt, titlen alene er ingen garanti for
+relevans, da den bruges bredt på tværs af brancher. Hårde krav uændret og
+gælder ubetinget: **fuldtid**, og **ikke** et studenterjob/studentermedhjælper-
+eller praktikopslag, uanset hvor godt det ellers matcher (jf. det generelle
+fuldtidskrav).
+
+### 14. Løngrænse for konsulentstillinger sænket til 34.000 kr./md
+For opslag hvor titlen eller rollen reelt er en konsulentstilling (fx
+"Junior Consultant", "Consultant"), er **34.000 kr./md og opefter** en
+acceptabel løn, ikke kun 36-37.000+ som beskrevet i pkt. 7. Den generelle
+grænse i pkt. 7 gælder fortsat uændret for alle andre titler/roller.
 
 ---
 
