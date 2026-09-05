@@ -160,7 +160,10 @@ tilpasset ansøgning, og send begge filer til Fabian i samme kørsel. Se
    den præcise fejlbesked og fix.
 2. CV: brug `build-cv.js` med `targetTitle` sat til opslagets egen titel.
    Resten af indholdet kommer fra `profile.json` og må ikke omskrives eller
-   overdrives per job.
+   overdrives per job. **Sprog (tilføjet 2026-09-05):** CV'et skal matche
+   opslagets sprog, dansk opslag giver dansk CV (`lang: "da"`), engelsk
+   opslag giver engelsk CV (udelad `lang`). Samme regel gælder ansøgningen
+   nedenfor. Se `materials/README.md` for den tekniske mekanik.
 3. Ansøgning: brug `build-cover-letter.js`. Brødteksten skal skrives forfra
    for hvert job, kun baseret på fakta fra `profile.json` (aldrig opdigtet),
    men fremstillingen af de rigtige fakta må gerne pyntes, selvsikkert og

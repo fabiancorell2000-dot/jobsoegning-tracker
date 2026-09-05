@@ -100,5 +100,101 @@
     { "name": "Pernille Hedberg Lading", "title": "VP, Payroll & People Masterdata", "org": "COWI A/S" },
     { "name": "Alexander Wirgowitsch", "title": "Head of Payroll", "org": "COWI A/S" },
     { "name": "Christoffer Nordal Lynge", "title": "Leading Masterdata Specialist", "org": "COWI A/S" }
-  ]
+  ],
+  "da": {
+    "_comment": "Dansk oversættelse af CV-indholdet ovenfor, ord for ord samme fakta, ingen tilføjelser eller udeladelser. Bruges når jobopslagets sprog er dansk, se README.md. Referencernes titler oversættes bevidst ikke, det er deres faktiske officielle titler hos COWI.",
+    "degreeShort": "Cand.merc. i Økonomisk Markedsføring",
+    "sectionHeadings": {
+      "profile": "Profil",
+      "education": "Uddannelse",
+      "experience": "Erhvervserfaring",
+      "skills": "Kompetencer",
+      "references": "Referencer",
+      "referencesNote": "Kan fremsendes efter anmodning"
+    },
+    "profileSummary": "Business & Data Analyst med 2+ års erfaring i at omsætte medarbejder-, løn- og finansdata til brugbar rapportering. Hos COWI ejer jeg Power BI-løsninger og datastrukturer for 7.500+ medarbejdere og samarbejder med stakeholdere inden for HR, løn og finans på tværs af Danmark, Norge, Sverige og Island. Jeg kombinerer en kommerciel tilgang fra CBS med stærke analytiske kompetencer inden for Power BI, SQL og Excel.",
+    "education": [
+      {
+        "degree": "Cand.merc. i Økonomisk Markedsføring",
+        "org": "Copenhagen Business School",
+        "dates": "2024 – 2026",
+        "bullets": [
+          "Kombinerede kvantitative og kvalitative markedsanalysemetoder, herunder statistisk modellering og fokusgruppeundersøgelser, til at forstå forbrugeradfærd og markedsdynamikker",
+          "Anvendte data og modeller til at analysere markeder, kunder og konkurrenter, og omsatte resultaterne til strategiske markedsføringsanbefalinger",
+          "Arbejdede med CRM-systemer og statistisk software (SPSS, R) til at måle marketingperformance og understøtte kommerciel beslutningstagning"
+        ]
+      },
+      {
+        "degree": "HA i Erhvervsøkonomi (Business Administration)",
+        "org": "Roskilde Universitet",
+        "dates": "2021 – 2024",
+        "bullets": [
+          "Opbyggede et bredt forretningsfundament inden for regnskab, organisationsledelse, marketing, strategi og finansiel styring, herunder at læse og fortolke regnskaber",
+          "Trænet i kvalitative og kvantitative forskningsmetoder gennem problembaseret projektarbejde med virkelige forretningscases",
+          "Udviklede tværfaglige samarbejdsevner og analytiske problemløsningskompetencer gennem gruppebaseret undervisning"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "title": "Studentermedhjælper, People & Master Data",
+        "org": "COWI, Global Finance Operations",
+        "dates": "2024 – nu",
+        "intro": "Udvikler BI-rapportering og medarbejderdataløsninger for en stor international organisation, med primært fokus på datastrukturer, automatisering og effektive arbejdsgange.",
+        "bullets": [
+          "Forespørger, transformerer og modellerer store datasæt i SQL for at bygge og vedligeholde Power BI-rapporter og dashboards på medarbejder- og finansdata, herunder sygdomsrapporter, ledervalideringer og organisatoriske visualiseringer",
+          "Har udviklet en lederrapporteringsløsning til understøttelse af Danmarks årlige lønreguleringsproces, herunder validering af de underliggende medarbejderdata",
+          "Beregner og vedligeholder BSR-satsen for 2.500+ medarbejdere i Danmark",
+          "Vedligeholder ugentligt COWI Sveriges feriesaldo for 1.000+ medarbejdere",
+          "Udarbejder årsopgørelser for Arkitema Norge og COWI Norge, i alt 1.600+ medarbejdere",
+          "Håndterer den årlige lønregulering for Arkitema K/S og har opsat tidsregistreringssystemet for COWI Island",
+          "Ejer datastrukturen bag Engagement Survey og Workplace Assessment Survey, og sikrer korrekt rapportering på tværs af 7.500+ medarbejdere",
+          "Designer og implementerer AI-agenter i Microsoft Copilot til at strømline og automatisere daglige arbejdsgange, hvilket reducerer manuelt arbejde og frigør tid til analyse af højere værdi",
+          "Strukturerer og analyserer Excel-baseret data om medarbejderniveauer og løn, identificerer mønstre og forklarer udsving over for stakeholdere",
+          "Samarbejder med stakeholdere inden for HR, løn og finans om at omsætte forretningsbehov til pålidelig rapportering"
+        ]
+      },
+      {
+        "title": "Studentermedhjælper",
+        "org": "Skattestyrelsen",
+        "dates": "2022 – 2024",
+        "intro": "Understøttede den øverste ledelse og kontorchefer i en stor offentlig organisation. Bred rolle med data, administration og koordinering af større afdelingsinitiativer.",
+        "bullets": [
+          "Udtrak og analyserede data, herunder KPI-opfølgning og rapportering til den øverste ledelse",
+          "Udarbejdede PowerPoint-rapporter og Power BI-baseret fakturaopfølgning",
+          "Assisterede den øverste ledelse med analyse, rapportering og beslutningsmateriale",
+          "Koordinerede større afdelingsinitiativer, herunder stakeholderafstemning og mødeplanlægning"
+        ]
+      },
+      {
+        "title": "Mediekonsulent",
+        "org": "Teknologiens Mediehus",
+        "dates": "2020 – 2022",
+        "intro": "Kundevendt rolle med fokus på salg af digitale produkter og kunderelationer i et specialiseret B2B-mediemiljø.",
+        "bullets": [
+          "Ejede en portefølje af B2B-kunder fra ende til anden i HubSpot, opsøgte nye kunder og opbyggede langvarige relationer",
+          "Gennemførte den fulde kommercielle salgscyklus, fra første kontakt og behovsafdækning til tilbud, forhandling og lukket salg",
+          "Analyserede kommercielle og kundedata for at researche markedet, identificere salgsmuligheder og prioritere kunder"
+        ]
+      },
+      {
+        "title": "Driftskoordinator (frivilligt)",
+        "org": "ICYE",
+        "dates": "2020 – 2021",
+        "intro": "Frivillig lederrolle i en international ungdomsudvekslingsorganisation, der kombinerede bestyrelsesarbejde, økonomisk ansvar og regional koordinering. Det der motiverer mig mest er at arbejde der hvor analytisk tænkning og samarbejde mødes, at skabe struktur i komplekse situationer og følge tingene til dørs fra idé til udførelse.",
+        "bullets": [
+          "Valgt formand for regionsbestyrelsen på Sjælland, med ansvar for regionens budgetter som kasserer",
+          "Planlagde og koordinerede frivilligarrangementer og møder på tværs af lokalafdelinger",
+          "Stod for kommunikationen mellem frivillige, lokalafdelinger og den nationale organisation"
+        ]
+      }
+    ],
+    "skills": [
+      { "label": "Data & BI", "items": "Power BI, Excel (avanceret), SQL, Tableau, SPSS, R" },
+      { "label": "CRM & Kommercielt", "items": "HubSpot, Markeds- og konkurrentanalyse, Forretningsudviklingsstøtte, Stakeholderledelse" },
+      { "label": "AI & Automatisering", "items": "Microsoft Copilot (opbygning af AI-agenter), Claude" },
+      { "label": "Præsentation & Rapportering", "items": "PowerPoint, Design af dashboards og trackere, Tværfagligt samarbejde" },
+      { "label": "Sprog", "items": "Dansk (modersmål), Engelsk (flydende)" }
+    ]
+  }
 }

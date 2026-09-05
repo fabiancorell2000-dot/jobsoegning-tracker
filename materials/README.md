@@ -46,6 +46,29 @@ Det eneste der tilpasses per job er `targetTitle`, undertitlen under navnet,
 så den matcher opslagets egen titel bedre (bedre nøgleordsmatch, ikke løgn,
 det er stadig det samme reelle indhold).
 
+**Sprog (tilføjet 2026-09-05, efter Fabians feedback på Nykredit-CV'et):** CV'et
+skal altid skrives på SAMME sprog som selve jobopslaget, engelsk opslag giver
+engelsk CV, dansk opslag giver dansk CV. Tjek opslagets sprog før du kalder
+`buildCv`, og send `lang: "da"` med når opslaget er dansk:
+
+```js
+await buildCv({
+  outFile: "Fabian_Hansen_CV_<Firma>.docx",
+  targetTitle: "<jobbets egen titel>",
+  lang: "da", // udelad helt for engelske opslag
+});
+```
+
+Med `lang: "da"` hentes profiltekst, uddannelse, erfaring, kompetencer og
+sektionsoverskrifter fra `profile.da.*` i stedet for topniveau-felterne, det
+er en ord-for-ord oversættelse af samme fakta, ikke nyt indhold. Kontaktinfo,
+navn og referencernes navne/virksomhed ændres aldrig. Referencernes titler
+(fx "VP, Payroll & People Masterdata") oversættes bevidst ikke, det er deres
+faktiske officielle titel hos COWI, uanset CV-sprog. Opdaterer du fakta i de
+engelske felter i `profile.json`, så husk at opdatere den tilsvarende danske
+oversættelse i `profile.da` samtidig, ellers kommer de to sprogversioner ud
+af trit med hinanden.
+
 ## Ansøgning
 
 `build-cover-letter.js` er IKKE en færdig skabelon med tekst, brødteksten er

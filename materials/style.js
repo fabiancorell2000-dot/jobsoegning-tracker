@@ -39,7 +39,7 @@ const bulletNumbering = {
 function sectionHeading(text) {
   return new Paragraph({
     heading: HeadingLevel.HEADING_2,
-    spacing: { before: 200, after: 80 },
+    spacing: { before: 160, after: 60 },
     border: { bottom: { style: BorderStyle.SINGLE, size: 4, color: RULE, space: 5 } },
     children: [new TextRun({ text, bold: true, color: ACCENT, size: 25, font: HEAD_FONT })],
   });
@@ -48,7 +48,7 @@ function sectionHeading(text) {
 function bullet(text) {
   return new Paragraph({
     numbering: { reference: "bullets", level: 0 },
-    spacing: { after: 28, line: 240 },
+    spacing: { after: 16, line: 240 },
     children: [new TextRun({ text, size: 21, font: BODY_FONT })],
   });
 }
@@ -70,7 +70,7 @@ function bodyPara(text, opts = {}) {
 // the other without this.
 function jobHeader(title, org, dates) {
   return new Paragraph({
-    spacing: { before: 130, after: 10 },
+    spacing: { before: 100, after: 10 },
     tabStops: [{ type: "right", position: convertInchesToTwip(6.3) }],
     keepNext: true,
     children: [
