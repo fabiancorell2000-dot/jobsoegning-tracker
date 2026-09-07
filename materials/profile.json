@@ -4,7 +4,8 @@
   "defaultTargetTitle": "Business & Data Analyst",
   "degreeShort": "MSc in Economics and Marketing",
   "skillFramingNotes": {
-    "sql": "Solid, real working knowledge of SQL, not expert or advanced level, but far from weak, and learns new query/data-modelling needs quickly on the job. In cover letters, phrase this as genuine experience or ongoing hands-on use, never as limited/basic, and never as expert-level mastery either."
+    "sql": "Solid, real working knowledge of SQL, not expert or advanced level, but far from weak, and learns new query/data-modelling needs quickly on the job. In cover letters, phrase this as genuine experience or ongoing hands-on use, never as limited/basic, and never as expert-level mastery either.",
+    "tableau": "Academic, not professional, experience: a full 6th-semester bachelor course at Roskilde University built entirely around Tableau, doing hands-on data analysis and visualisation work throughout, not just a passing mention in one project. In cover letters, phrase this as real, hands-on coursework experience, not as professional work experience (that would be fabricated) and not as a minor/incidental exposure (that would undersell it)."
   },
   "contact": {
     "location": "Frederiksberg, Copenhagen",
@@ -31,7 +32,8 @@
       "bullets": [
         "Built a broad business foundation across accounting, organisational management, marketing, strategy and financial management, including reading and interpreting financial statements",
         "Trained in qualitative and quantitative research methods through problem-based project work on real-world business cases",
-        "Developed cross-disciplinary collaboration and analytical problem-solving skills through team-based coursework"
+        "Developed cross-disciplinary collaboration and analytical problem-solving skills through team-based coursework",
+        "Completed a dedicated 6th-semester course built entirely around Tableau, building data analyses and visualisations from real datasets"
       ]
     }
   ],
@@ -131,7 +133,8 @@
         "bullets": [
           "Opbyggede et bredt forretningsfundament inden for regnskab, organisationsledelse, marketing, strategi og finansiel styring, herunder at læse og fortolke regnskaber",
           "Trænet i kvalitative og kvantitative forskningsmetoder gennem problembaseret projektarbejde med virkelige forretningscases",
-          "Udviklede tværfaglige samarbejdsevner og analytiske problemløsningskompetencer gennem gruppebaseret undervisning"
+          "Udviklede tværfaglige samarbejdsevner og analytiske problemløsningskompetencer gennem gruppebaseret undervisning",
+          "Gennemførte et helt 6. semester-kursus bygget udelukkende op omkring Tableau, hvor jeg lavede dataanalyser og visualiseringer ud fra virkelige datasæt"
         ]
       }
     ],
