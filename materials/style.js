@@ -45,10 +45,11 @@ function sectionHeading(text) {
   });
 }
 
-function bullet(text) {
+function bullet(text, opts = {}) {
   return new Paragraph({
     numbering: { reference: "bullets", level: 0 },
     spacing: { after: 12, line: 240 },
+    keepNext: opts.keepNext,
     children: [new TextRun({ text, size: 21, font: BODY_FONT })],
   });
 }
@@ -68,6 +69,15 @@ function bodyPara(text, opts = {}) {
 // content pushed to the next one. LibreOffice and Word compute line heights
 // slightly differently, so a layout that looks fine in one can still split in
 // the other without this.
+//
+// This alone only protects the header from being separated from the FIRST
+// bullet, it does nothing to stop a later bullet in the same block from being
+// stranded on the next page by itself. build-cv.js chains keepNext across
+// every bullet in a block except the last one, so the whole header+intro+
+// bullets block is glued together and moves to the next page as a unit if it
+// doesn't fully fit, instead of splitting mid-list (this is what actually
+// happened to the Skattestyrelsen block once, invisible in the LibreOffice
+// check but visible when opened in real Word).
 function jobHeader(title, org, dates) {
   return new Paragraph({
     spacing: { before: 85, after: 10 },

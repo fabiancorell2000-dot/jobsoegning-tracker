@@ -50,14 +50,14 @@ function buildCv({ outFile, targetTitle, lang } = {}) {
     S.sectionHeading(headings.education),
     ...education.flatMap((e) => [
       S.eduHeader(e.degree, e.org, e.dates),
-      ...e.bullets.map(S.bullet),
+      ...e.bullets.map((b, i) => S.bullet(b, { keepNext: i < e.bullets.length - 1 })),
     ]),
 
     S.sectionHeading(headings.experience),
     ...experience.flatMap((job) => [
       S.jobHeader(job.title, job.org, job.dates),
       S.bodyPara(job.intro, { after: 60, italics: true, color: S.MUTED, keepNext: true }),
-      ...job.bullets.map(S.bullet),
+      ...job.bullets.map((b, i) => S.bullet(b, { keepNext: i < job.bullets.length - 1 })),
     ]),
 
     S.sectionHeading(headings.skills),
