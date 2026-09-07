@@ -4,7 +4,7 @@
   "defaultTargetTitle": "Business & Data Analyst",
   "degreeShort": "MSc in Economics and Marketing",
   "skillFramingNotes": {
-    "sql": "Solid, real working knowledge of SQL, not expert or advanced level, but far from weak, and learns new query/data-modelling needs quickly on the job. In cover letters, phrase this as genuine experience or ongoing hands-on use, never as limited/basic, and never as expert-level mastery either.",
+    "sql": "Solid, real working knowledge of SQL, not expert or advanced level, but far from weak, and learns new query/data-modelling needs quickly on the job. Not a daily core task in itself, it supports Power BI reporting and data modelling rather than being the main activity. In cover letters, never phrase it as if SQL querying/modelling is the central, daily activity (e.g. 'I query and model data directly in SQL...' overstates it). Correct framing, Fabian's own confirmed wording (2026-09-07): 'I work with Power BI and data modelling, and I am comfortable querying data in SQL when supporting reporting and analysis.' Never phrase it as limited/basic either, and never as expert-level mastery.",
     "tableau": "Academic, not professional, experience: a full 6th-semester bachelor course at Roskilde University built entirely around Tableau, doing hands-on data analysis and visualisation work throughout, not just a passing mention in one project. In cover letters, phrase this as real, hands-on coursework experience, not as professional work experience (that would be fabricated) and not as a minor/incidental exposure (that would undersell it)."
   },
   "contact": {

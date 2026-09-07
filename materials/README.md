@@ -116,6 +116,15 @@ gælder for `foreslaaede-jobs.md`):**
   fra svagt, og han lærer hurtigt. Skriv aldrig at det er begrænset eller
   overfladisk. Skriv heller ikke at han er ekspert. "Erfaring med SQL" eller
   "arbejder løbende med SQL" er den rigtige tone.
+  **Vigtigt (rettet 2026-09-07, Fabians egen ordlyd):** SQL er IKKE en daglig
+  kerneopgave, det er noget han bruger til at understøtte Power BI-rapportering
+  og analyse, ikke en aktivitet i sig selv. Skriv derfor ALDRIG noget der lyder
+  som om SQL er en central, daglig aktivitet i sig selv, fx "I query and model
+  data directly in SQL..." er for stærkt/forkert. Skriv i stedet noget i
+  retning af "I work with Power BI and data modelling, and I am comfortable
+  querying data in SQL when supporting reporting and analysis" (eller den
+  danske pendant), hvor Power BI/datamodellering er kernen og SQL er noget der
+  understøtter det, ikke omvendt.
 - **Vær personlig og konkret om motivation.** Match konkrete punkter fra
   opslagets krav til konkrete punkter i Fabians faktiske erfaring, ikke
   generiske floskler ("jeg er stærk til dataanalyse"). Forklar med en reel,
@@ -123,6 +132,18 @@ gælder for `foreslaaede-jobs.md`):**
   ikke en sætning der kunne stå i enhver ansøgning til enhver virksomhed.
   Motivationen skal skinne igennem, det skal lyde som ét menneskes reelle
   interesse, ikke en genereret skabelon.
+- **Tone (skærpet 2026-09-07, Fabians egen feedback: "må gerne blive lidt
+  bedre... ikke så ai polished").** Ansøgningerne må gerne blive tydeligere
+  "hvem er Fabian", ikke kun en korrekt opremsning af matchende kvalifikationer.
+  Skriv så det lyder som Fabian selv skrev det i ét ryk, med sit eget sprog og
+  sin egen rytme, ikke en poleret, symmetrisk, let genkendelig AI-kadence
+  (samme sætningslængde igen og igen, for perfekt balancerede afsnit, for
+  mange "which is exactly..."-konklusioner). Varier sætningslængden, lad et
+  afsnit være kortere end de andre hvis det passer bedre. Han skal ALTID lyde
+  som en der reelt brænder for lige netop DEN stilling og DET opslag skriver
+  om, ikke en der brænder generelt for "data og commercial roller". Genlæs
+  opslaget igen lige før du skriver brødteksten og lad specifikke detaljer
+  derfra (ikke bare de overordnede krav) farve sproget.
 - **Ingen tænkestreger (—) og ingen kolon (:) i teksten**, det er en
   eksplicit præference fra Fabian, det læses som et AI-tegn.
 - **Ingen bogstavelige markdown-tegn i teksten** (`**fed**`, `*kursiv*`,
@@ -142,6 +163,19 @@ Send aldrig en fil uden at have læst den grundigt igennem to gange først,
 med to forskellige formål. Det er ikke nok at kigge på den én gang, en enkelt
 gennemlæsning fanger typisk kun halvdelen af fejlene. Gør det for BÅDE CV og
 ansøgning, hver gang, uden undtagelse.
+
+**Vigtigt (skærpet 2026-09-07, efter en kørsel der kun kiggede på siderne én
+gang og efterfølgende beskrev det som "to gennemlæsninger" ud fra to
+forskellige vinkler på det samme kig).** De to gennemlæsninger skal være to
+faktisk adskilte kald af Read-værktøjet på billederne, ikke ét kig efterfulgt
+af to forskellige analyser af det samme kig i dit hoved. Første gennemlæsning
+skal være helt afsluttet, inklusiv eventuelle rettelser og en ny generering,
+før du starter den anden. Anden gennemlæsning skal ske på den ENDELIGE version
+af filen, ikke den du kiggede på i gennemlæsning 1, hvis der er rettet noget
+imellem. Gennemlæsning 1 skal desuden konkret holdes op mod selve
+jobopslagets tekst, ikke kun `profile.json` isoleret, tjek at ALT i CV'et og
+ansøgningen der refererer til opslaget (titel, krav, sprog, hilsen) rent
+faktisk stemmer overens med hvad opslaget selv siger.
 
 Konverter og rendér til billede først, så du rent faktisk ser det Fabian
 kommer til at se, ikke bare den rå tekst:
@@ -179,8 +213,20 @@ for at sende noget du ikke er helt sikker på.
 ### Layout skal sidde 100% rigtigt, ingen undtagelser
 
 Dette er ikke et "nice to have", det er et hårdt krav fra Fabian. Et CV hvor
-et enkelt COWI-punkt er sprunget alene over på side 2 er ikke godkendt til
-afsendelse, uanset hvor godt indholdet ellers er.
+et enkelt punkt fra ETHVERT job- eller uddannelsesblok (ikke kun COWI, det
+skete også for Skattestyrelsen-blokken, se 2026-09-07-rettelsen nedenfor) er
+sprunget alene over på næste side er ikke godkendt til afsendelse, uanset
+hvor godt indholdet ellers er. Tjek dette eksplicit for HVER blok i CV'et ved
+hver gennemlæsning, ikke kun COWI-blokken, antag aldrig at kun COWI er
+udsat.
+
+**Rettet 2026-09-07:** `style.js`s `bullet()` og `build-cv.js` kæder nu
+`keepNext` gennem alle bullets i en blok (undtagen den sidste), ikke kun fra
+header til første bullet som tidligere. Det fjerner rodårsagen til at et
+enkelt punkt midt i en liste kunne strande alene på næste side, men er
+stadig kun verificeret i LibreOffice-renderet, ikke i rigtig Word, se
+advarslen nedenfor. Betragt det derfor som en væsentligt reduceret risiko,
+ikke en garanti, og bliv ved med at tjekke det visuelt hver gang.
 
 **Vigtigt (opdateret 2026-09-04, efter Fabians feedback på Haleon-CV'et):**
 Kvalitetstjekket render til PDF via LibreOffice, men Fabian åbner selve
