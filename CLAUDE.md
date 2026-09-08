@@ -264,23 +264,38 @@ Storkøbenhavn-baserede opslag specifikt, flere af disse har hovedsæde eller
 store afdelinger uden for lokationskriteriet. Alle nedenstående er vurderet
 etablerede, private, ikke-startup/scaleup virksomheder:
 
+**Fra den oprindelige liste (pkt. 18, bevares uændret, ikke erstattet)**:
+Nykredit, Enalyzer, Annalect/Omnicom.
+
+**Centralt beliggende i København** (København K/V/Ø, gå- eller kort
+metro-/S-togsafstand fra Nørreport, tilføjet 2026-09-08 efter Fabians
+ønske om flere centrale virksomheder på listen): Danske Bank (Holmens
+Kanal/Bernstorffsgade), Ørsted (Kalvebod Brygge), Pandora (Havneholmen),
+SEB (Bernstorffsgade), PensionDanmark (Østerbro), Implement Consulting
+Group (Hellerup).
+
 **Finans/forsikring/pension** (rapporterings-/dataanalysetunge, matcher
 Tryg-typen fra 2026-09-08 godt): Tryg, PFA Pension, Alm. Brand, Topdanmark,
 Danica Pension, AP Pension, Nordea (København-kontoret).
 
-**Logistik/shipping**: Maersk (København HQ), DSV, DFDS.
+**Logistik/shipping**: Maersk (København HQ), DSV (bemærk: koncernens
+hovedkontor ligger i Hedehusene, uden for lokationskriteriet, kun relevant
+for eventuelle København-specifikke opslag), DFDS.
 
 **Etableret tech/konsulent** (ikke startup): Netcompany, SimCorp, KMD.
 
 **Øvrige store etablerede private virksomheder med København-tilstedeværelse**:
-Coloplast, ISS, Falck, Novonesis, Demant/WS Audiology.
+Coloplast, ISS, Falck, Novonesis, Demant.
 
 Dette er et startpunkt, ikke en lukket liste. Behold pkt. 18's oprindelige
 regel: tilføj en virksomhed hver gang et usædvanligt stærkt match findes
-fremover (Nykredit, Enalyzer, Annalect og nu Tryg er allerede tilføjet ovenfor).
+fremover (Tryg er allerede tilføjet ovenfor efter 2026-09-08-matchet).
 Vis samme kvalitetskrav og samme fravalgsregler for hvert opslag fundet denne
 vej som for LinkedIn/Jobindex, ingen genvej på hverken fuldtid, sektor eller
-indholdsmatch bare fordi kilden er en career-site.
+indholdsmatch bare fordi kilden er en career-site. Firmaer der tidligere har
+fået specifikke opslag frasorteret (fx Danske Bank, Annalect) skal stadig
+tjekkes for NYE opslag, kun de allerede vurderede specifikke roller er
+"already seen", ikke virksomheden som helhed.
 
 ### 21. Jobindex RSS — enkeltord i stedet for citerede flerords-forespørgsler
 
