@@ -3,7 +3,7 @@
 Denne fil læses automatisk ved starten af hver kørsel og supplerer den planlagte
 opgaves prompt. **Ved konflikt vinder denne fil**, da den er opdateret senest.
 
-Sidst opdateret: 2026-09-05
+Sidst opdateret: 2026-09-08
 
 ---
 
@@ -241,6 +241,100 @@ pkt. 8 gælder ikke længere, heller ikke for et match så stærkt som
 Københavns Kommunes Indkøbscontroller-opslag (foreslået 2026-09-05, samme
 dag denne præcisering kom). Privat sektor er nu et hårdt kriterium på linje
 med fuldtidskravet, ikke en blød prioritering.
+
+---
+
+## Metodeudvidelser 2026-09-08 (øget søgevolumen)
+
+Baggrund: Efter 2026-09-08-kørslen (0-1 forslag/dag i gennemsnit de seneste
+to uger) bad Fabian om at få antallet af daglige forslag op, uden at løsne
+kvalitetskriterierne (lokation, sektor, virksomhedstype osv. ovenfor står
+ved magt uændret). Diagnosen: kriterierne er ikke problemet, kilde­dækningen
+er. Kun 3 career-sites blev tjekket direkte, Jobindex' egen søgelogik virkede
+ikke som antaget, og to af de fire ekstra kilder fra pkt. 5/12 (ofir.dk,
+jobsafari.dk) har givet nul brugbare resultater i samtlige kørsler siden de
+blev indført. Nedenstående ændrer HVORDAN der søges, ikke HVAD der accepteres.
+
+### 20. Udvidet, navngivet liste over career-sites (erstatter den ad hoc-liste i pkt. 18)
+
+Tjek disse direkte hver kørsel, ud over LinkedIn/Jobindex, for opslag der
+aldrig når de aggregerede jobsites (jf. begrundelsen i pkt. 18, mindre
+konkurrence på virksomhedens egen side). Filtrer altid til København/
+Storkøbenhavn-baserede opslag specifikt, flere af disse har hovedsæde eller
+store afdelinger uden for lokationskriteriet. Alle nedenstående er vurderet
+etablerede, private, ikke-startup/scaleup virksomheder:
+
+**Finans/forsikring/pension** (rapporterings-/dataanalysetunge, matcher
+Tryg-typen fra 2026-09-08 godt): Tryg, PFA Pension, Alm. Brand, Topdanmark,
+Danica Pension, AP Pension, Nordea (København-kontoret).
+
+**Logistik/shipping**: Maersk (København HQ), DSV, DFDS.
+
+**Etableret tech/konsulent** (ikke startup): Netcompany, SimCorp, KMD.
+
+**Øvrige store etablerede private virksomheder med København-tilstedeværelse**:
+Coloplast, ISS, Falck, Novonesis, Demant/WS Audiology.
+
+Dette er et startpunkt, ikke en lukket liste. Behold pkt. 18's oprindelige
+regel: tilføj en virksomhed hver gang et usædvanligt stærkt match findes
+fremover (Nykredit, Enalyzer, Annalect og nu Tryg er allerede tilføjet ovenfor).
+Vis samme kvalitetskrav og samme fravalgsregler for hvert opslag fundet denne
+vej som for LinkedIn/Jobindex, ingen genvej på hverken fuldtid, sektor eller
+indholdsmatch bare fordi kilden er en career-site.
+
+### 21. Jobindex RSS — enkeltord i stedet for citerede flerords-forespørgsler
+
+Retter pkt. 16. 2026-09-08-kørslen bekræftede at citerede flerords-forespørgsler
+(fx `q=%22junior%22+%22data%22`) ikke filtrerer pålideligt på AND-logik, de
+returnerer stort set samme brede liste som enkeltordssøgninger, med masser af
+støj. Kør derfor fremover RSS-feedet med ét citeret enkeltord/kort fagudtryk
+ad gangen (samme princip som hidtil, `q=%22business+analyst%22` virker fint,
+det er kombinationen af flere ord der fejler), og acceptér at det giver mere
+støj end en reelt AND-filtreret søgning ville. Kompensér ved at bruge flere
+forskellige enkeltord-forespørgsler (titellisten og niveau-ordene hver for
+sig) frem for at forsøge at indsnævre via forespørgslen selv, og filtrér som
+altid indholdet manuelt bagefter. `geoarea=storkoebenhavn` er fortsat upålidelig
+til lokationsfiltrering, tjek altid selve opslagets lokation individuelt.
+
+### 22. Nye kilder forsøgt: Indeed.dk, StepStone.dk, Glassdoor DK — og ofir.dk/jobsafari.dk nedgraderet
+
+Prøv Indeed.dk, StepStone.dk og Glassdoor DK hver kørsel (WebSearch samt
+direkte WebFetch på søgeresultater/opslag), samme kvalitetskrav som alle
+andre kilder. Dokumentér teknisk om de virker eller ej i den daglige
+`foreslaaede-jobs.md`-sektion, samme praksis som hidtil for de øvrige kilder.
+
+**ofir.dk og jobsafari.dk nedgraderes fra "tjek hver kørsel" til "prøv ca.
+én gang om måneden".** De har givet nul brugbare resultater i samtlige
+kørsler siden de blev introduceret (pkt. 12, 2026-09-03), konsekvent enten
+HTTP 410 på alle direkte joblinks (ofir.dk) eller permanent redirect til
+Jobindex' forside (jobsafari.dk, reelt nedlagt som selvstændig side). At
+blive ved med at bruge tid på dem hver dag er den præcise modsætning af
+formålet med denne opdatering, spild af søgekapacitet der bedre bruges på
+de nye kilder eller den udvidede career-site-liste ovenfor. Notér stadig
+kort i `foreslaaede-jobs.md` hvis de afprøves og stadig er ubrugelige, så
+det er sporbart hvornår de sidst blev tjekket.
+
+### 23. LinkedIn — supplerende OR-kombineret søgeteknik
+
+Supplerer (erstatter ikke) den eksisterende enkelt-søgeord-teknik fra
+2026-09-06 (`linkedin.com/jobs/search/?keywords=<ORD>&location=Copenhagen...
+&f_TPR=r1209600&f_JT=F`). Fabian har selv vist en søgeteknik der kombinerer
+flere relevante titler/ord i ét enkelt OR-opslag mod LinkedINs eget
+søgeresultat-UI, med Danmarks/Storkøbenhavns geoId direkte i stedet for en
+tekst-lokation, fx:
+
+    https://www.linkedin.com/jobs/search-results/?keywords=Dataanalytiker%20or%20Konsulent%20or%20Marketingkonsulent%20or%20Commercial%20Analyst&geoId=90009617%2C102194656&f_TPR=r86400
+
+Brug denne form som supplement fremover, kør et par brede OR-kombinerede
+søgninger (fx 4-5 relaterede titler ad gangen) ud over de enkelt-ord-søgninger
+der allerede køres, den kan give et andet resultatsæt end énords-søgningerne.
+Behold `f_TPR=r1209600` (2 uger, jf. pkt. 17) som standard-vindue for selve
+rutinen, `r86400` (24 timer) i Fabians eksempel er fint til et engangstjek
+men ville overse opslag hvis rutinen en dag ikke kører præcis hver 24. time.
+GeoId'erne `90009617,102194656` (Storkøbenhavn/Danmark) kan bruges i stedet
+for `location=Copenhagen%2C%20Denmark`, men verificér stadig hvert opslags
+faktiske lokation individuelt bagefter, geoId er en søgefilter-genvej, ikke
+en garanti.
 
 ---
 
