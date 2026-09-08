@@ -295,3 +295,47 @@ Ingen ansøgningsmateriale genereret af rutinens egen søgning i dag, da ingen o
 - Nykredits offentlige karriereside gav ingen individuelle opslag (404/tomme landingssider), måtte findes via `nykredit-employee.talent-soft.com/job/list-of-jobs.aspx`, hvor kun første side af 67 samlede opslag blev gennemgået, ikke fuld paginering, flere København-baserede opslag kan være overset.
 - Enalyzer har ingen aktuelt opslåede jobs, kun uopfordrede ansøgninger.
 - Annalect/Omnicom Danmark: karrieresiden gav HTTP 503 og et Greenhouse-link der gav 404, ingen individuelle opslag kunne verificeres ud over det allerede kendte og ekskluderede Media Pricing Analyst-opslag.
+
+## 2026-09-08
+
+**Kilder brugt:** To parallelle spor. Spor 1: LinkedIns egne søgeresultatsider (`f_TPR=r1209600` for seneste 2 uger, `f_JT=F` for fuldtid) for den fulde titelliste samt de bredere niveau+indhold-søgninger (pkt. 15), med opfølgende direkte tjek af enkeltopslag. Spor 2: Jobindex RSS-feedet (16 citerede søgeord, jf. pkt. 16), fornyet forsøg på ofir.dk og jobsafari.dk, samt direkte career-site-tjek hos Nykredit, Enalyzer og Annalect/Omnicom (pkt. 18).
+
+**Tryg — Business Analyst til Tryg Privat (Ballerup)**
+- Lokation: Klausdalsbrovej, Ballerup (Tryg hovedsæde)
+- Transport: S-tog linje B/Bx til Ballerup, inden for den fastsatte 20-30 min-grænse fra Nørreport
+- Link: https://dk.linkedin.com/jobs/view/business-analyst-til-tryg-privat-at-tryg-4462204946
+- Opslået: 17 timer siden ved tjek (verificeret aktivt, "blandt de første 25 ansøgere")
+- Ansøgningsfrist: 22. september 2026
+- Ansættelsestype: Fuldtid, bekræftet
+- Sprog: Dansk
+- Kontaktperson: Milena Iversen, Leder for Finance Private DK & Forecast
+- Virksomhed: Tryg, et af Skandinaviens største forsikringsselskaber, børsnoteret på Nasdaq Copenhagen, klart ikke en startup eller VC-finansieret scaleup
+- Begrundelse: Rollen handler om månedlig økonomisk rapportering med kommentarer og kommunikation af økonomiske betragtninger, salgs- og præmieudviklingsanalyse samt forecastmodeller i Finance, Analysis & BI-afdelingen, det matcher direkte den type arbejde Fabian allerede laver hos COWI (Power BI-rapportering på finans-/medarbejderdata, forklaring af udsving over for stakeholdere) og hos Skattestyrelsen (KPI-rapportering, Power BI-baseret fakturaopfølgning). Kravet er cand.merc./HD-niveau uden krav om forsikringsbranche-erfaring, Excel og Power BI fremhæves, og der stilles intet krav om SQL, specifikke CRM-systemer eller Lean Six Sigma. Ingen eksplicit senioritetsgrænse angivet.
+- Bemærk (ærlighed): Løn er ikke angivet i opslaget, en reel risiko der ikke kan afklares på forhånd, men som stor børsnoteret koncern er markedsløn sandsynlig. Kravteksten nævner "solid erfaring med økonomistyring og forretningsanalyse" uden at specificere antal år, hvilket er en mindre usikkerhed om det reelt er et nyuddannet-venligt niveau, men uden eksplicit årskrav eller seniortitel vurderes det stadig inden for det lempede erfaringskriterium.
+- CV og ansøgning genereret på dansk (matcher opslagets sprog) og sendt.
+
+**Grænsetilfælde overvejet og fravalgt: DSB — Customer Insights Analyst**
+Link: https://dk.linkedin.com/jobs/view/customer-insights-analyst-skab-bedre-kundetilfredshed-gennem-data-at-dsb-4462974533. Indholdsmæssigt et af de stærkeste match fundet i dag, kvantitativ kundeanalyse med SPSS, Power BI og Excel, cand.merc.-niveau, ingen eksplicit seniorgrænse. Fravalgt af to grunde. For det første ligger arbejdsstedet i Taastrup, samme område som det allerede eksplicit udelukkede Høje-Taastrup (pkt. 3), og vurderes derfor for langt væk uanset den præcise station. For det andet er DSB 100% statsejet, og selvom det ikke er en styrelse/region/kommune/universitet i ordets snævre forstand (de eksplicit nævnte kategorier i pkt. 19), er det et statsejet selskab, og givet hvor eksplicit og nyligt pkt. 19 blev skærpet (netop for at lukke en tilsvarende gråzone omkring Københavns Kommune-opslaget), vurderes det sikrest at behandle det som omfattet af det hårde fravalg frem for at afgøre tvivlen selv. Nævnes her så Fabian selv kan tage stilling, hvis han er uenig i fortolkningen.
+
+**Øvrige kandidatopslag fundet, men frasorteret efter verifikation:**
+- Navigate — Consultant (København): "Consultant"-titlen matcher, men rollen er reelt en strategisk rådgivningsrolle inden for forsvar og sikkerhed, et branchespecifikt fagfelt Fabian ikke har nogen baggrund eller dokumenteret interesse i, for løst et indholdsmæssigt match trods den formelt opfyldte uddannelseskrav.
+- Operations Analyst (Barselsvikariat), Københavns Lufthavne A/S (Kastrup) — god lokation og etableret privat virksomhed, men kræver eksplicit "avanceret proficiency i SQL, Databricks og Power BI", hvilket rammer det hårde avancerede SQL/data-værktøjs-kriterium (pkt. 10), Databricks er desuden en kompetence Fabian slet ikke har.
+- MAP (VML/WPP) — Strategy Consultant: kræver eksplicit 4-5 års erfaring fra et strategikonsulenthus eller en intern corporate strategy-funktion, et reelt flerårigt erfaringskrav ud over det lempede niveau.
+- Basico — NewTech Consultants: kræver programmeringssprog som Python/Node.js/TypeScript og API-udvikling, avanceret programmering, hårdt fravalg.
+- s360 — Solutions Consultant, Measurement: kræver dybt hands-on Google Analytics/Google Tag Manager-ekspertise (server-side setups, Consent Mode v2), en specifik teknisk kompetence Fabian ikke har.
+- Equa — Management Consultant: lille cybersecurity-/compliance-boutique med startup-præg, kræver sikkerhedsteknisk baggrund uden for profilen.
+- Talentedge/rekrutteringsopslag — Energy Analyst: kræver eksplicit stærke Python-kompetencer til algoritmisk energihandel, avanceret programmering.
+- Vurderingsstyrelsen (BI-specialist), KommuneKredit (Senior forretningsudvikler, desuden senior-titel), Totalkredit (Funktionschef til Data og Indsigter, leder-titel) — alle fravalgt på enten offentlig sektor eller senior/leder-titel.
+- Salling Group (Customer Program Data Analyst samt Data Analyst-praktik) — lokation Brabrand, Aarhus (Jylland), langt uden for lokationskriteriet, praktik-varianten desuden hårdt fravalgt som praktikplads.
+- L'Oréal (Marketing Graduate, Brand Activation, Trade Marketing, Redken Brand Activation Graduate) — kreativt marketingarbejde (brand activation, content, retail execution), eksplicit fravalgt kategori.
+- En lang række offentlige opslag hårdt fravalgt jf. pkt. 19: Politi/PET (flere roller), Rigsrevisionen, Styrelsen for Samfundssikkerhed, Vejdirektoratet, Danmarks Statistik, Danmarks Nationalbank, Erhvervsstyrelsen, DTU, Trafikstyrelsen, Københavns Kommune (Data Scientist/Teknisk analytiker).
+- Boston Consulting Group (Consultant, Nordics), BCG Platinion, Inverto (A BCG Company) — MBB-niveau, nedprioriteret jf. pkt. 9.
+- NIRAS "Junior Consultant" — opslaget er reelt for NIRAS Inc. i USA, ikke København.
+
+**Øvrige opslag dukkede op igen, men er allerede foreslået eller frasorteret i tidligere kørsler af samme årsager** (ingen ny vurdering nødvendig): Netcompany, Radiant, EG A/S, Inact ApS, VILA, Dansk Transportoptimering, Privathospitalet Mølholm, Wilke, Mastercard, Nestlé, Flatpay (alle roller), Corpay, Cadeler, Verisure, FLSmidth, Twoday, Haleon, Copenhagen Offshore Partners, Siemens, Skatteguiden, ZURU Edge, Deloitte, Ambu, Annalect Nordics (alle roller), RiskPoint Group, NoA/North Alliance, SameSystem/ECIT, Normal A/S, Søstrene Grene, Bloomingville/PRO&CO, EY/EY-Parthenon (alle Autumn 2027-opslag), ATP, Enalyzer, Nykredit (alle roller), OrderYOYO, Muuto, CereNord, VENZO, Saxo Bank, BEC Financial Technologies, Novutech, Kahoot, Mercedes-Benz/NHTA, Trustpilot (nu også set med et "Salesforce Business Analyst"-opslag, samme fravalg som tidligere plus eksplicit Salesforce-ekspertkrav).
+
+**Tekniske begrænsninger stødt på i dag:**
+- LinkedIns egne søgeresultatsider (`f_TPR`/`f_JT`-filtre) fungerede upåklageligt denne gang, ingen blokering, og gav den mest produktive kanal i dag.
+- Jobindex RSS: citerede enkeltordssøgninger fungerede som forventet, men citerede flerords-søgninger (fx `q="junior" "data"`) filtrerede ikke pålideligt på AND-logik og gav stort set samme brede liste som enkeltordssøgninger. `geoarea=storkoebenhavn` filtrerer fortsat ikke pålideligt på lokation.
+- ofir.dk og jobsafari.dk fortsat ubrugelige, samme mønster som alle tidligere kørsler (ofir.dk giver HTTP 410 på alle direkte joblinks selvom Google-søgeresultater ser relevante ud, jobsafari.dk redirecter permanent til Jobindex-forsiden). Bør overvejes droppet som faste kilder fremover, medmindre den tekniske begrænsning løser sig af sig selv.
+- Nykredits career-side blev denne gang gennemgået i fuld længde (66 stillinger), ingen nye relevante opslag. Enalyzer bekræftet 0 aktive opslag. Annalect/Omnicom career-side fortsat JS-renderet og ikke hentelig, Jobindex bekræfter dog 0 aktive opslag for Omnicom Media Group.
