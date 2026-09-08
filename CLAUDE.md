@@ -353,6 +353,59 @@ en garanti.
 
 ---
 
+## Præciseringer 2026-09-08 (fjerde runde: konsulenthuse og lokation)
+
+### 24. Konsulenthuse — stærk prioritet, søg aktivt efter flere
+
+Fabian har præciseret at konsulentroller (titel "Konsulent"/"Consultant")
+hos mindre og mellemstore konsulenthuse i København/Nordsjælland-området
+har særlig stor interesse, ud over den generelle konsulent-nævnelse der
+allerede findes i titellisten. At blive konsulent og hjælpe kunder er hans
+erklærede karrieredrøm, disse roller skal vægtes højt, ikke bare behandles
+som én titel blandt mange.
+
+**Kendte konsulenthuse at tjekke direkte** (career-site-tjek, samme metode
+som pkt. 20, listen vokser løbende): Kopenhagen Consulting, Bonzer, Radiant
+(Fabian har søgt roller her tidligere, men nye opslag skal stadig tjekkes,
+jf. logikken i pkt. 20's sidste afsnit, en tidligere ansøgt rolle udelukker
+ikke virksomheden som helhed).
+
+**Søg aktivt efter flere lignende konsulenthuse**, de tre ovenfor er
+eksempler på typen, ikke en udtømmende liste. Typen er mindre/mellemstore,
+etablerede (ikke startup, jf. pkt. 1) konsulenthuse i København/Hellerup/
+Nordsjælland-området, til forskel fra de store, navngivne konsulenthuse
+(McKinsey/BCG/Bain/Kearney/Deloitte, jf. pkt. 9), som fortsat nedprioriteres
+pga. konkurrencen.
+
+**Foretrukket fagligt indhold** hos disse konsulentroller, efter match til
+Fabians faktiske erfaring: marketing, strategi, BI/dataanalyse, samt roller
+der indholdsmæssigt minder om hans arbejde hos COWI, Skattestyrelsen,
+Teknologiens Mediehus eller hans studie (EMF).
+
+**Hårdt fravalg inden for konsulentkategorien, uanset titel:** roller der
+reelt er opsøgende salgskonsulent-/telefonsælgerarbejde, altså hvor jobbet
+består i selv at ringe til og skrive til potentielle kunder (cold calling/
+outbound). Dette gælder selvom titlen er "Konsulent" eller "Consultant",
+titlen alene er ingen garanti, vurdér altid det reelle indhold. Det er
+samme grundregel som allerede gælder generelt (ingen salgsroller, se
+"Uændret" nederst i denne fil), præciseret her fordi konsulenttitler ofte
+bruges til at pakke den slags roller ind.
+
+### 25. Lokation — præciseret til 35 minutter total, kun skinnetransport
+
+Præciserer pkt. 3. Grænsen er **maks ca. 35 minutter fra Nørreport til
+kontoret, medregnet gangafstand fra station til kontoret**, ikke kun selve
+togturen. Transporten skal ske med S-tog, metro eller regionaltog,
+**ikke** en rute der kræver bus for at komme til eller fra kontoret.
+Nordsjælland og Hellerup er eksplicit i spil under denne grænse (genindfører
+den oprindelige åbning for Nordsjælland fra før pkt. 3, men nu med en
+konkret tidsgrænse i stedet for et løst skøn). Hillerød (~40 min fra
+Nørreport) forbliver udelukket, da det overstiger de 35 minutter, uanset
+denne opdatering. Roskilde/Køge/Høje-Taastrup-udelukkelsen og Roskilde-
+undtagelsen fra pkt. 3 står i øvrigt uændret.
+
+---
+
 ## Ansøgningsmateriale per match (tilføjet 2026-09-03)
 
 For hvert job der består ALLE kvalitetskrav ovenfor (og derfor ville blive
