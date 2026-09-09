@@ -339,3 +339,83 @@ Link: https://dk.linkedin.com/jobs/view/customer-insights-analyst-skab-bedre-kun
 - Jobindex RSS: citerede enkeltordssøgninger fungerede som forventet, men citerede flerords-søgninger (fx `q="junior" "data"`) filtrerede ikke pålideligt på AND-logik og gav stort set samme brede liste som enkeltordssøgninger. `geoarea=storkoebenhavn` filtrerer fortsat ikke pålideligt på lokation.
 - ofir.dk og jobsafari.dk fortsat ubrugelige, samme mønster som alle tidligere kørsler (ofir.dk giver HTTP 410 på alle direkte joblinks selvom Google-søgeresultater ser relevante ud, jobsafari.dk redirecter permanent til Jobindex-forsiden). Bør overvejes droppet som faste kilder fremover, medmindre den tekniske begrænsning løser sig af sig selv.
 - Nykredits career-side blev denne gang gennemgået i fuld længde (66 stillinger), ingen nye relevante opslag. Enalyzer bekræftet 0 aktive opslag. Annalect/Omnicom career-side fortsat JS-renderet og ikke hentelig, Jobindex bekræfter dog 0 aktive opslag for Omnicom Media Group.
+## 2026-09-09
+
+Baggrund: opfølgning på metodeudvidelserne fra 2026-09-08 (pkt. 20-23), samt
+konsulenthus-prioriteringen fra samme dags fjerde runde (pkt. 24-25). Fem
+parallelle søgespor kørt i dag: LinkedIns egne søgeresultatsider (titelliste,
+bredere niveau+indhold-søgninger, OR-kombinerede søgninger), Jobindex RSS
+(25 enkeltordssøgninger), Indeed.dk/StepStone.dk/Glassdoor DK (nye kilder,
+pkt. 22), career-site-tjek af finans/forsikring/logistik/tech-listen fra
+pkt. 20 (18 firmaer), samt et separat spor for konsulenthuse (pkt. 24, tjek
+af kendte huse plus aktiv søgning efter flere).
+
+**Netcompany — Business Controller, Netcompanys Group Finance-team (København)**
+- Lokation: Netcompany hovedkontor, Strandgade 3, 1401 København K (Christianshavn)
+- Transport: Metro (Christianshavn, M1/M2), få minutters gang, langt inden for 35-min-grænsen
+- Link: https://dk.linkedin.com/jobs/view/business-controller-netcompanys-group-finance-team-at-netcompany-4460320412
+- Opslået: 1 uge siden ved tjek (verificeret aktivt)
+- Ansøgningsfrist: ikke angivet
+- Ansættelsestype: Fuldtid, bekræftet
+- Sprog: Dansk (flydende dansk og engelsk kræves)
+- Kontaktperson: ingen navngiven person, kun hr.dk@netcompany.com (ansøgningen er derfor stilet til Group Finance-teamet)
+- Ansøgere: 74 (ikke "første 25", moderat konkurrence)
+- Virksomhed: Netcompany, stor børsnoteret dansk it- og konsulentvirksomhed, allerede på career-site-listen (pkt. 20), klart ikke en startup
+- Begrundelse: Rollen er forretningsanalyse og kommentering af månedsrapporter, budgettering/forecasting og præsentationer til den øverste ledelse, eksplicit åben for "nyuddannet eller 1-3 års erfaring" med krav om cand.merc. eller lignende samt Excel-erfaring med store datamængder. Det matcher direkte Fabians erfaring med at strukturere og forklare udsving i løn- og medarbejderdata i Excel hos COWI, samt forberedelse af beslutningsmateriale og præsentationer til øverste ledelse hos Skattestyrelsen. Intet krav om SQL, CRM eller Lean Six Sigma.
+- Bemærk (ærlighed): Rollen ligger indholdsmæssigt tættere på klassisk finance-/controller-rapportering end på ren Power BI/data-analyse, svagere match til EMF-specialiseringen end fx Tryg-opslaget, men samme princip som dengang (finansiel rapportering og forklaring af udsving over for stakeholdere) gør den stadig relevant. Løn er ikke angivet i opslaget, en reel risiko der ikke kan afklares på forhånd, men som stor børsnoteret koncern er markedsløn sandsynlig.
+- CV og ansøgning genereret på dansk (matcher opslagets sprog) og sendt.
+
+**Atea Danmark — Catalog Specialist til Contract Management (Ballerup)**
+- Lokation: Lautrupvang-området, Ballerup
+- Transport: S-tog linje B/Bx til Malmparken, ca. 12 min gang fra stationen, samlet inden for 35-min-grænsen, ingen bus nødvendig
+- Link: https://dk.linkedin.com/jobs/view/catalog-specialist-til-contract-management-at-atea-danmark-4459932144
+- Opslået: 6 dage siden ved tjek (verificeret aktivt, "blandt de første 25 ansøgere")
+- Ansøgningsfrist: 25. september 2026
+- Ansættelsestype: Fuldtid, bekræftet
+- Sprog: Dansk
+- Kontaktperson: Nanna Laursen, Manager, Contract Management
+- Virksomhed: Atea Danmark, del af det nordisk børsnoterede Atea-koncern, stor etableret it-infrastrukturvirksomhed, ikke startup
+- Begrundelse: Rollen handler om at vedligeholde priser, tilbud og produktinformation i systemer som Navision, eShop og Qliksense, kvalitetssikre data ved indeksregulering og omsætningsrapportering på SKI-aftaler, og kræver et skarpt øje for detaljen og evnen til at omsætte store datamængder til forretningsværdi. Det er reelt en Master Data/Data Quality-rolle, og matcher direkte Fabians nuværende titel og arbejde hos COWI (datastruktur og kvalitetssikring for Engagement Survey på tværs af 7.500+ medarbejdere). Intet krav om SQL, CRM-ekspertise eller Lean Six Sigma, og intet eksplicit erfaringskrav i år.
+- Bemærk (ærlighed): Rollen kræver oplæring i Ateas og SKI's specifikke aftaleprocesser, et domæne Fabian ikke kender i forvejen, en reel indkøringsrisiko snarere end en diskvalifikation. Løn er ikke angivet i opslaget.
+- CV og ansøgning genereret på dansk (matcher opslagets sprog) og sendt.
+
+**Siemens A/S — Junior Commercial Project Controller (Ballerup)**
+- Lokation: Borupvang 9, 2750 Ballerup (med mulighed for hjemmearbejde)
+- Transport: S-tog linje B/Bx til Malmparken, adressen ligger ca. 425 meter fra stationen (verificeret separat), langt inden for 35-min-grænsen, ingen bus nødvendig
+- Link (Jobindex): https://www.jobindex.dk/vis-job/h1695236 → eksternt opslag hos Siemens
+- Opslået: 03-09-2026, inden for 2-ugers vinduet, verificeret aktivt
+- Ansøgningsfrist: ikke angivet
+- Ansættelsestype: Fuldtid, fastansættelse (bekræftet: "Job type: Full-time", "Employment type: Permanent")
+- Erfaringsniveau: eksplicit "Recent College Graduate", intet senior/lead/manager-krav
+- Sprog: Dansk
+- Kontaktperson: Jesper Barlach, Head of Project Controlling & Administration
+- Virksomhed: Siemens A/S, stor etableret global koncern, klart ikke startup/scaleup
+- Begrundelse: Rollen giver "et stærkt fundament inden for projektøkonomi, dokumentation og projektkoordinering" med mulighed for senere større projektansvar. Kravene er nyuddannet HD eller anden relevant uddannelse samt Excel-erfaring, SAP nævnes som en fordel, ikke et krav. Det matcher Fabians erfaring med Power BI-baseret fakturaadministration og KPI-opfølgning til øverste ledelse hos Skattestyrelsen, samt finansiel Power BI-rapportering og Excel-databehandling hos COWI. Ingen SQL/CRM/Lean Six Sigma-krav.
+- Bemærk (ærlighed): Ligesom Netcompany-opslaget er dette en finans-/projektøkonomirolle snarere end en klassisk BI/data-analytikerrolle, "anden relevant uddannelse" dækker formentlig cand.merc. EMF, men det er ikke eksplicit HD-økonomistyring, som er kernemålgruppen. Løn er ikke angivet i opslaget. Siemens' egen jobportal er JS-renderet og kunne ikke hentes fuldt ud direkte, kravteksten er verificeret via Jobindex-teaser og søgeresultater, ikke ved fuld direkte visning af hele opslaget.
+- CV og ansøgning genereret på dansk (matcher opslagets sprog) og sendt.
+
+**Grænsetilfælde overvejet, ikke foreslået (til Fabians egen vurdering)**
+
+- **PFA Pension — Investeringscontroller, løft analyse og controlling på investeringsområdet** (København, ansøgningsfrist 13. september, meget snæver). Cand.merc./cand.oecon./HD(R/F)-krav matcher EMF fint, ingen SQL/CRM-krav, men "solid baggrund i controlling, finansiel styring eller finansiel analyse" læser stærkere end nyuddannet-niveau, og pensions-/investeringsregnskabskendskab er uden for Fabians erfaring. Nævnes pga. den korte frist, ikke foreslået som et klart match.
+- **Mærsk Mc-Kinney Møller Center for Zero Carbon Shipping — Analyst, Economics and Transition Finance** (København, ansøgningsfrist 15. september). Reelt nyuddannet-venlig og analytisk stærkt match (datamodellering, kvantitative metoder), men domænet er energi-/transportøkonomi og skibsfarts-dekarbonisering, et specifikt fagfelt Fabian ikke har baggrund eller demonstreret interesse i.
+- **Radiant — Consultant, Sales Enablement** (København, ny titel, tidligere har Fabian søgt en anden rolle hos Radiant). Kræver HubSpot og Excel/data-analyse, overlapper godt med Fabians profil, men Radiants forretning er B2B-salg-som-service, og det kunne ikke afklares fra opslaget alene om rollen indebærer personlig opsøgende salg/cold calling (hårdt fravalg jf. pkt. 24) eller er ren proces-/RevOps-støtte. Kræver en tættere manuel vurdering.
+- **Kvadrant Consulting — Management Consultant, Commercial Transformation & Strategy** (København). Nyt, mindre konsulenthus (~45 ansatte, grundlagt 2018, opkøbt af det børsnoterede Elixirr Group januar 2026, samme "lille men del af større koncern"-mønster som Annalect), stærkt indholdsmatch på kommerciel strategi og GTM-transformation. Kræver dog eksplicit minimum 2 års erfaring specifikt fra management consulting eller en intern konsulentrolle, en branchespecifik erfaring Fabian ikke har (ikke bare "et par års erfaring" generelt). Tilføjet til listen over konsulenthuse at holde øje med (se nedenfor).
+- **Coloplast — Junior Assistant in Global Sales Excellence, Commercial Development** (Humlebæk). Kunne ikke få den fulde jobtekst ud af det JS-renderede career-site, og lokationen (Humlebæk via Kystbanen) ligger meget tæt på eller lige over 35-minuttersgrænsen afhængig af gangafstand fra stationen til Coloplasts hovedkontor. Kræver manuel opfølgning hvis Fabian er interesseret.
+
+**Nye konsulenthuse fundet (pkt. 24, til fremtidig direkte tjek, ingen aktuelt åbne relevante stillinger fundet i dag)**: Kvadrant Consulting (København, ~45 ansatte, del af Elixirr Group), DAMVAD Analytics/ADC Denmark (data/AI-konsulenthus, ~31 ansatte, career-side gav 503 i dag, prøv igen), Summit A/S (business-psykologi/lederudvikling, 37 ansatte, ingen relevante opslag i dag), Kopenhagen Konsulting (cybersikkerhed/risiko/digital, 41-54 ansatte, listet på thehub.io, formentlig fortsat startup/scaleup-klassificeret jf. pkt. 1, kun senior-/platformsspecifikke roller fundet). Bonzer og Basico allerede kendt fra tidligere kørsler, ingen relevante nye opslag i dag.
+
+**Øvrige kandidatopslag fundet og frasorteret efter verifikation (udvalgte)**:
+- Carlsberg Group (FP&A Analyst) — kræver 2+ års erfaring specifikt i financial controlling, samt et meget eftertragtet brand (119 ansøgere på 1 dag), nedprioriteret jf. pkt. 9.
+- Maersk Tankers (Treasury Analyst) — specialistdisciplin (cash management, FX-hedging, Treasury Management Systems), uden for profilen.
+- Bridge Consulting A/S og KVINT Consulting Partners — eksplicit "erfaren konsulent"/"Experienced Management Consultant", hårdt senior-fravalg.
+- Halfspace/Accenture Nordics (AI & Advanced Analytics, BCG Platinion AI Tech Consultant-roller) — store, meget konkurrenceudsatte konsulent-/tech-roller, kræver formentlig avanceret Python/ML, nedprioriteret jf. pkt. 9.
+- Grant Thornton (Business Analyst, København Ø, fundet via StepStone som redirecter til Jobindex) — bekræftet udløbet ("Annoncen er udløbet").
+- Danske Bank, Ørsted, Pandora, SEB, PensionDanmark, Implement Consulting Group, Alm. Brand, Topdanmark, Danica Pension, AP Pension, Nordea, Maersk, DSV, DFDS, SimCorp, KMD, ISS, Falck, Novonesis, Demant, Nykredit, Enalyzer, Annalect/Omnicom — alle career-sites gennemgået i dag (pkt. 20), ingen nye opslag der består alle hårde krav. Gennemgående mønster i dagens tjek var enten eksplicitte senior/lead/principal/manager-titler, eller roller uden for profilen (data engineering, produktledelse, forsikringsrådgivning). Se tekniske noter nedenfor for hvilke career-sites der kunne hentes.
+- En lang række allerede kendte/frasorterede opslag dukkede op igen på tværs af LinkedIn og Jobindex uden ny vurdering nødvendig: Tryg (nu søgt materiale til, se 2026-09-08), Flatpay, Nestlé, Wilke, Radiant (øvrige salgs-titler), Ambu, Trustpilot, Skatteguiden, Netcompany (Data Management/Actuarial Consultant, Associate Consultant-roller med programmeringskrav), samt en lang række offentlige/statsejede opslag (Politi/PET, Rigsrevisionen, Danmarks Statistik, Danmarks Nationalbank, DSB, Metroselskabet) hårdt fravalgt jf. pkt. 19.
+
+**Tekniske noter fra dagens fem søgespor**:
+- LinkedIns `/jobs/search/?keywords=...&location=Copenhagen%2C%20Denmark&f_TPR=r1209600&f_JT=F`-format virkede pålideligt igen i dag. `/jobs/search-results/?...&geoId=...`-formatet fra pkt. 23 ramte konsekvent en login-mur uden indhold i alle fem søgespor, uafhængigt af hinanden, det bør ikke længere regnes som en pålidelig metode medmindre det virker anderledes i andre miljøer. Søgning uden eksplicit `location=`-parameter defaulter stille til USA-resultater, selv med danske søgeord, vigtigt at huske fremover.
+- Jobindex RSS: 25 enkeltordssøgninger kørt, nogle gav HTTP 429 ved parallel kørsel, løst med sekventielle kald og forsinkelse. Flere søgeord (category analyst, commercial consultant, marketing analyst, marketing data analyst) gav fortsat 0 eller meget få hits, uklart om det skyldes reelt fravær eller sjælden brug af de præcise ordkombinationer i danske opslagsoverskrifter.
+- Indeed.dk, StepStone.dk og Glassdoor DK afprøvet grundigt (pkt. 22) og gav 0 verificerbare kandidater. Indeed.dk: HTTP 403/401 på alle direkte hentninger af søgesider og enkeltopslag, RSS-adgang også blokeret. StepStone.dk: individuelle joblinks redirecter til Jobindex (samme koncern/platform, ikke en uafhængig kilde), egen søgeside gav 404 og siden HTTP 429, og de fremhævede stillinger skævvrider mod leder-/seniorniveau. Glassdoor DK: HTTP 403 på samtlige forsøg, ingen individuelle opslag kunne tilgås overhovedet. Anbefaling: nedgradér alle tre til periodisk tjek (samme model som ofir.dk/jobsafari.dk, pkt. 22) fremfor fast hver-kørsel-tjek, medmindre adgangen ændrer sig.
+- Career-site-sporet: bedst tilgængelige portaler i dag var PensionDanmark, PFA, Netcompany, DFDS, SEB (Lever), ISS, Demant og Nykredit, som alle gav brugbare lister direkte. JS-renderet/tomt ved direkte hentning: Danske Bank, Ørsted, Pandora, Alm. Brand, AP Pension, SimCorp, KMD, Maersk (Workday), Coloplast (kun opsummeringstekst tilgængelig), Falck, Novonesis. Tryg's career-site (careers.tryg.com) gav "not available at this time" på samtlige forsøgte opslag, kunne ikke bruges til at verificere nye Tryg-opslag udover det allerede kendte. Annalect/Omnicom career-side fortsat 503/JS-shell uden indhold, uændret fra alle tidligere kørsler.
+- Siemens' egen jobportal (jobs.siemens.com, Avature-platform) er en ren JS-SPA, hverken curl, WebFetch eller en headless Chromium-render gennem miljøets proxy kunne hente det fulde jobindhold direkte (forbindelsen blev afvist). Kravteksten for Siemens-opslaget ovenfor er derfor baseret på Jobindex-teaseren og direkte søgeresultater, ikke en fuld visning af selve Siemens-siden, værd at bemærke som en vedvarende begrænsning for denne specifikke career-site-platform.
