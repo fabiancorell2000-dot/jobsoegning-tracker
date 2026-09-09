@@ -282,14 +282,17 @@ Danica Pension, AP Pension, Nordea (København-kontoret).
 hovedkontor ligger i Hedehusene, uden for lokationskriteriet, kun relevant
 for eventuelle København-specifikke opslag), DFDS.
 
-**Etableret tech/konsulent** (ikke startup): Netcompany, SimCorp, KMD.
+**Etableret tech/konsulent** (ikke startup): Netcompany, SimCorp, KMD, Atea
+Danmark (Ballerup, tilføjet 2026-09-09 efter Catalog Specialist-matchet).
 
 **Øvrige store etablerede private virksomheder med København-tilstedeværelse**:
-Coloplast, ISS, Falck, Novonesis, Demant.
+Coloplast, ISS, Falck, Novonesis, Demant, Siemens A/S (Ballerup, tilføjet
+2026-09-09 efter Junior Commercial Project Controller-matchet).
 
 Dette er et startpunkt, ikke en lukket liste. Behold pkt. 18's oprindelige
 regel: tilføj en virksomhed hver gang et usædvanligt stærkt match findes
-fremover (Tryg er allerede tilføjet ovenfor efter 2026-09-08-matchet).
+fremover (Tryg er tilføjet efter 2026-09-08-matchet, Atea og Siemens efter
+2026-09-09-matchene).
 Vis samme kvalitetskrav og samme fravalgsregler for hvert opslag fundet denne
 vej som for LinkedIn/Jobindex, ingen genvej på hverken fuldtid, sektor eller
 indholdsmatch bare fordi kilden er en career-site. Firmaer der tidligere har
