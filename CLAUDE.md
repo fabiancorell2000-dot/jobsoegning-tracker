@@ -3,7 +3,7 @@
 Denne fil læses automatisk ved starten af hver kørsel og supplerer den planlagte
 opgaves prompt. **Ved konflikt vinder denne fil**, da den er opdateret senest.
 
-Sidst opdateret: 2026-09-08
+Sidst opdateret: 2026-09-09
 
 ---
 
@@ -274,25 +274,26 @@ Kanal/Bernstorffsgade), Ørsted (Kalvebod Brygge), Pandora (Havneholmen),
 SEB (Bernstorffsgade), PensionDanmark (Østerbro), Implement Consulting
 Group (Hellerup).
 
-**Finans/forsikring/pension** (rapporterings-/dataanalysetunge, matcher
-Tryg-typen fra 2026-09-08 godt): Tryg, PFA Pension, Alm. Brand, Topdanmark,
-Danica Pension, AP Pension, Nordea (København-kontoret).
+**Finans/forsikring/pension** (rapporterings-/dataanalysetunge): PFA Pension,
+Alm. Brand, Topdanmark, Danica Pension, AP Pension, Nordea (København-kontoret).
+(Tryg fjernet 2026-09-09, hovedsæde i Ballerup, se pkt. 27.)
 
 **Logistik/shipping**: Maersk (København HQ), DSV (bemærk: koncernens
 hovedkontor ligger i Hedehusene, uden for lokationskriteriet, kun relevant
 for eventuelle København-specifikke opslag), DFDS.
 
-**Etableret tech/konsulent** (ikke startup): Netcompany, SimCorp, KMD, Atea
-Danmark (Ballerup, tilføjet 2026-09-09 efter Catalog Specialist-matchet).
+**Etableret tech/konsulent** (ikke startup): SimCorp, KMD. (Netcompany fjernet
+2026-09-09, se pkt. 26. Atea Danmark fjernet 2026-09-09, hovedsæde i Ballerup,
+se pkt. 27.)
 
 **Øvrige store etablerede private virksomheder med København-tilstedeværelse**:
-Coloplast, ISS, Falck, Novonesis, Demant, Siemens A/S (Ballerup, tilføjet
-2026-09-09 efter Junior Commercial Project Controller-matchet).
+Coloplast, ISS, Falck, Novonesis, Demant. (Siemens A/S fjernet 2026-09-09,
+hovedkontor i Ballerup, se pkt. 27.)
 
 Dette er et startpunkt, ikke en lukket liste. Behold pkt. 18's oprindelige
 regel: tilføj en virksomhed hver gang et usædvanligt stærkt match findes
-fremover (Tryg er tilføjet efter 2026-09-08-matchet, Atea og Siemens efter
-2026-09-09-matchene).
+fremover. Se pkt. 26-27 for firmaer/lokationer der er fjernet igen efter
+Fabians direkte feedback.
 Vis samme kvalitetskrav og samme fravalgsregler for hvert opslag fundet denne
 vej som for LinkedIn/Jobindex, ingen genvej på hverken fuldtid, sektor eller
 indholdsmatch bare fordi kilden er en career-site. Firmaer der tidligere har
@@ -406,6 +407,34 @@ konkret tidsgrænse i stedet for et løst skøn). Hillerød (~40 min fra
 Nørreport) forbliver udelukket, da det overstiger de 35 minutter, uanset
 denne opdatering. Roskilde/Køge/Høje-Taastrup-udelukkelsen og Roskilde-
 undtagelsen fra pkt. 3 står i øvrigt uændret.
+
+---
+
+## Præciseringer 2026-09-09
+
+Baggrund: Fabian gav direkte feedback efter 2026-09-09-kørslen, om et
+konkret firma og en konkret lokation, ikke en ændring af de generelle
+kriterier.
+
+### 26. Netcompany fravalgt — hårdt firmafravalg fremover
+Fabian har hørt "virkelig dårligt" om Netcompany som arbejdsplads. Netcompany
+fravælges derfor helt fremover, uanset hvor godt et konkret opslag ellers
+matcher kriterierne ovenfor. Fjernet fra career-site-listen i pkt. 20. Gælder
+også Business Controller-opslaget der blev foreslået 2026-09-09, det forslag
+står ikke længere ved magt, spring det over.
+
+### 27. Ballerup fravalgt som lokation
+Fabian "ville have det nederen" ved at skulle arbejde i Ballerup. Ballerup
+fravælges derfor som arbejdssted fremover, selvom det ligger inden for
+35-minuttersgrænsen fra pkt. 25, dette er et trivselsvalg, ikke en
+afstandsvurdering. Gælder specifikt Ballerup, ikke resten af Nordsjælland
+eller Hellerup, som fortsat er i spil under 35-minuttersgrænsen jf. pkt. 25.
+Fjernet fra career-site-listen i pkt. 20 (Atea Danmark og Siemens A/S,
+begge Ballerup). Gælder også med tilbagevirkende kraft for tidligere
+foreslåede Ballerup-opslag: Atea (Catalog Specialist) og Siemens (Junior
+Commercial Project Controller), begge foreslået 2026-09-09, samt Tryg
+(Business Analyst, foreslået 2026-09-08). Ingen af disse tre står længere
+ved magt, spring dem over.
 
 ---
 
