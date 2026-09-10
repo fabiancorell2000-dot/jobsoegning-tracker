@@ -78,8 +78,8 @@ function buildCv({ outFile, targetTitle, lang } = {}) {
         properties: {
           page: {
             margin: {
-              top: S.convertInchesToTwip(0.4),
-              bottom: S.convertInchesToTwip(0.4),
+              top: S.convertInchesToTwip(0.35),
+              bottom: S.convertInchesToTwip(0.35),
               left: S.convertInchesToTwip(0.8),
               right: S.convertInchesToTwip(0.8),
             },

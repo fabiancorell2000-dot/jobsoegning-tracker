@@ -99,6 +99,7 @@ function skillGroup(label, items) {
   return [
     new Paragraph({
       spacing: { before: 80, after: 15 },
+      keepNext: true,
       children: [new TextRun({ text: label, bold: true, size: 21, font: BODY_FONT, color: INK })],
     }),
     new Paragraph({
