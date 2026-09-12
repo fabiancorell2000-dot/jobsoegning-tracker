@@ -518,3 +518,68 @@ kriterium ved verifikation.
 - Career-sites tilgængelige i dag: PFA Pension, PensionDanmark (talent-soft), Nykredit (talent-soft, 72 opslag gennemgået, ingen nye), Demant (delvist), Kvadrant, Basico, LEMAN, INVIXO, SEB (Lever, kun én ikke-relevant rolle). Fortsat JS-shell/utilgængelig: Implement Consulting Group, Ørsted, DFDS, Maersk, ISS, KMD, SimCorp, Nordea, Annalect/Omnicom, VELUX (Workday), BNP Paribas. Danske Bank, Pandora, Alm. Brand, Topdanmark, Danica Pension, AP Pension, Coloplast, Falck, Novonesis, DSV kun tjekket via websøgning i dag (ikke direkte hentning) grundet tidsbudget, ingen nye København-specifikke match fundet.
 
 Ingen ansøgningsmateriale genereret i dag, da ingen opslag bestod alle kriterier.
+
+## 2026-09-12
+
+Baggrund: tre parallelle søgespor kørt via underagenter (LinkedIn enkeltord +
+bredere niveau/indhold-søgninger, Jobindex RSS enkeltordssøgninger sammen med
+Indeed.dk/StepStone.dk/Glassdoor DK, samt direkte career-site-tjek af den
+fulde liste fra pkt. 20 plus aktiv søgning efter flere konsulenthuse jf.
+pkt. 24). Alle tre spors kandidatfund er efterfølgende egenhændigt
+genverificeret direkte mod selve LinkedIn-opslaget (ikke kun underagenternes
+referater), hvilket fangede en reel fejl, se JP/Politikens Hus nedenfor.
+
+**Flying Tiger Copenhagen — Assortment Analyst, IMEA (København)**
+- Lokation: Strandgade 71-73, 1401 København K (hovedkontor, Christianshavn)
+- Transport: Metro (Christianshavn, M1/M2), ca. 3-4 min fra Nørreport til Christianshavn plus kort gåtur, samlet et sted omkring 10 minutter, langt inden for 35-minuttersgrænsen, ingen bus nødvendig
+- Link: https://dk.linkedin.com/jobs/view/assortment-analyst-imea-at-flying-tiger-copenhagen-4462401268
+- Opslået: ca. 1 uge siden (verificeret aktivt)
+- Ansøgningsfrist: ikke angivet
+- Ansættelsestype: Fuldtid (bekræftet direkte på opslaget)
+- Erfaringsniveau: kræver 2-4 års erfaring inden for retail planning, merchandising, category management eller business analysis, inden for det lempede kriterium. NB: LinkedIns egen seniority-klassificering af selve opslaget står som "Erfaren", ikke "Entry level", samme mønster som er set før (fx DTU Dataspecialist 2026-08-31), en reel usikkerhed trods den ellers åbne kravtekst.
+- Sprog: Engelsk
+- Ansøgere: 200+ (høj konkurrence, værd at bemærke jf. pkt. 9)
+- Virksomhed: Flying Tiger Copenhagen (tidl. Tiger), grundlagt 1995, ejet af kapitalfonden EQT siden 2021, 1000+ butikker i 25+ lande, en etableret og indtjenende international retailkæde, ikke en startup eller venture-finansieret scaleup
+- Begrundelse: Rollen handler om at omsætte salgstrends og kunde-/forbrugeradfærd til konkrete assortment-anbefalinger, understøtte sæsonlanceringer og den kommercielle kalender, samt levere ugentlig/månedlig/kvartalsvis forretningsrapportering til regional og global ledelse, kernen i det EMF-uddannelsen dækker (kvantitativ/kvalitativ markedsanalyse, forbrugeradfærd) kombineret direkte med COWI-erfaringens tilbagevendende rapporteringscadence til stakeholders der ikke selv er analytikere. Avanceret Excel/PowerPoint er et krav, Power BI/Tableau er "preferred" ikke et hårdt krav, og der stilles intet SQL-, CRM-ekspert- eller Lean Six Sigma-krav.
+- Bemærk (ærlighed): Fabian har ingen specifik retail-/merchandising-/category management-erfaring, hans baggrund er HR-/finans-/kommerciel data, ikke detailhandel, så der er en reel brancheomstillings-risiko som kravteksten ikke fanger fuldt ud. 200+ ansøgere er betydelig konkurrence. Løn er ikke angivet i opslaget, risikoen for lav løn vurderes dog mindre end ved en lille virksomhed, da Flying Tiger er en stor, økonomisk sund international koncern.
+- CV og ansøgning genereret på engelsk (matcher opslagets sprog) og sendt.
+
+**Grænsetilfælde overvejet, ikke foreslået**
+
+- **Corpay — Commercial Excellence Specialist/Analyst, CRM (HubSpot) (København)**. Stærkt match på flere punkter: kræver eksplicit HubSpot CRM-erfaring (Fabians stærkeste CRM-kompetence fra Teknologiens Mediehus), indholdet er dashboards/KPI'er/segmentering (matcher COWI Power BI-arbejdet), lønnen er eksplicit angivet til 40.000-45.000 kr./md (rammer ønsket niveau direkte), og Corpay er en stor, børsnoteret (NYSE, via FLEETCOR/Corpay) global betalings-/fintechkoncern, klart ikke en startup. Fravalgt alligevel fordi opslaget eksplicit kræver "3-5+ years relevant experience", hvilket overstiger den lempede 2-4-års-grænse (pkt. 2) og efter samme målestok der tidligere har udløst et hårdt fravalg (fx DFDS Data Consultant, 3-5 år, 2026-09-10). 140 ansøgere er også reel konkurrence. Nævnes fordi løn- og indholdsmatchet er usædvanligt stærkt, til Fabians egen vurdering, ikke foreslået som et fuldt match. Præcis kontoradresse for netop denne rolle kunne ikke 100% bekræftes (Corpay One ApS' registrerede adresse, Bygmestervej 5, 2400 København NV, er inden for grænsen hvis den er korrekt).
+
+**Vigtig fejl fanget ved egen verifikation (ikke foreslået)**
+
+- **JP/Politikens Hus — Sales Operations Coordinator**. Underagentens researchreferat angav dette som et stærkt København-match (gættet adresse: Rådhuspladsen 37) med indhold der ellers rammer Revenue/Sales Operations-undtagelsen (CRM/booking-systemer, datakvalitet, procesforbedring, ikke salgstal) usædvanligt præcist, "Nyuddannet"-niveau, og "blandt de første 25 ansøgere". Ved egen direkte verifikation af selve LinkedIn-opslaget viste det sig imidlertid at rollens faktiske arbejdssted er Aarhus Havn ("En arbejdsplads i flotte lokaler direkte på Aarhus Havn"), ikke København, opslagets øverste lokations-tag ("København") var misvisende. Aarhus er langt uden for lokationskriteriet uanset hvor stærkt resten af matchet er, og opslaget er derfor fravalgt. Nævnes eksplicit fordi det er en påmindelse om at verificere underagenters research direkte mod selve kildeteksten, ikke kun referater, før noget behandles som et forslag.
+
+**Øvrige opslag fundet og frasorteret efter verifikation (udvalgte, alle tre spor)**:
+- Corpay (Commercial Excellence Specialist/CRM) — se grænsetilfælde ovenfor.
+- Centrum Personale A/S (Commercial Controlling and Reporting/Data Analyst) — rekrutteringsbureau for en unavngiven klient, kræver 3-5 år, 2-årig tidsbegrænset kontrakt, virksomhedstype ikke verificerbar, for mange usikkerheder.
+- Carlsberg Group (FP&A Analyst) — ansættelsestype fortsat "Andet", ikke bekræftet fuldtid, indhold er finans/FP&A ikke analytics/marketing.
+- RiskPoint Group (BI Developer, København) — kræver 5+ år, avanceret SQL på tværs af Postgres/MSSQL/Snowflake, et programmeringssprog og cloud-platformserfaring samt databasedesign, hårdt avanceret-programmering-fravalg.
+- Kvadrant Consulting (Management Consultant og Director-roller) — fortsat minimum 2 års specifik managementkonsulent-erfaring henholdsvis Director-niveau, uændret fra tidligere vurdering.
+- Basico (~20 opslag gennemgået) — næsten alle senior Manager/Director/CFO-spor, freelance-konsulent, eller uden for København (Aarhus/Lissabon); "IT Operations Consultant" (Hellerup) var fuldtid og rigtig lokation men indholdsmæssigt IT-drift/hardware-support uden data-/marketingmatch.
+- Alm. Brand (Data & BI Analytiker) — stærkt indholdsmatch, men ansøgningsfristen var allerede passeret.
+- Nykredit — kun en Aalborg-baseret kreditanalytikerrolle samt flere studenterjobs (Business Analytics/Management Control, HR Operations) fundet, intet nyt fuldtidsmatch i København.
+- PFA Pension (Investeringscontroller) — frist reelt allerede overskredet (13-09), samt indholdet læner mod investerings-/finansekspertise snarere end BI/marketing-data.
+- 1st Mile/KAR+CO (Financial and Market Analyst, Kongens Lyngby) — svagt indholdsmatch (finansiel modellering, ikke BI/marketing), meget lille firma (8 ansatte), usikker transport.
+- Realdania (Financial Controller) — kerneregnskab/controlling, ikke analytics.
+- Novo Nordisk (Business Analyst) — praktikstilling, hårdt fuldtidsfravalg.
+- Salling Group (Customer/loyalty Data Analyst + praktikversion) — Brabrand, Jylland, uden for lokationskriteriet.
+- Pandora (flere Data/Business Analyst-opslag) — alle direkte joblinks gav 404 ved verifikation, kunne ikke bekræftes som aktive.
+- DFDS (Data Consultant) — fortsat kræver 3-5+ år og teamledelse, uændret fra tidligere vurdering.
+- Radiant, ReD Associates — Radiant fortsat kun rene opsøgende salgsroller ("Senior GTM Specialist", "Sales Consultant"); ReD Associates har aktuelt ingen åbne stillinger.
+- Bonzer — eneste fundne rolle var HR-generalist, intet analytiker-/konsulentmatch.
+- En lang række offentlige/statsejede opslag hårdt fravalgt jf. pkt. 19 på tværs af alle tre spor (Politi, Vurderingsstyrelsen, Vejdirektoratet, Danmarks Statistik, Rigsrevisionen, Erhvervsstyrelsen, Forsvaret, Udviklings- og Forenklingsstyrelsen, Metroselskabet, Danmarks Nationalbank, DSB, Skatte- og Vækstministeriet, Udenrigsministeriet, Undervisningsministeriet, Københavns Kommune).
+- Alle Ballerup-baserede opslag sprunget over jf. pkt. 27 (Ambu, Atea, Siemens, Bosch Nordic, KMD Commercial Excellence Coordinator).
+- Netcompany sprunget helt over jf. det hårde firmafravalg, pkt. 26.
+- Øvrige allerede kendte/frasorterede opslag der dukkede op igen uden ny vurdering: Enalyzer, Cadeler, Verisure, LEMAN, NoA Marketing Science Analyst, OrderYOYO, Flatpay (BI Analyst og en ny "Funnel Optimisation Analyst", sidstnævnte er reelt en growth-marketing/konverteringsrolle, ikke et dataanalyse-indholdsmatch), Trustpilot, Scandinavian Tobacco Group, Coloplast (Senior Performance Intelligence Manager), LEO Pharma, Genmab, Totalkredit, SimCorp, Danske Bank (flere senior-roller samt allerede kendte Ballerup/øvrige roller), Matas, Skatteguiden, samt de store konsulenthuse (BCG Platinion, Deloitte, EY-Parthenon, PwC, Inverto|BCG, Alvarez & Marsal) nedprioriteret jf. pkt. 9. "Autumn 2027"/2027-graduate-programmer (Implement Consulting Group Graduates 2027, CapMan Student Analysts 2027) fravalgt jf. pkt. 4.
+
+**Nye konsulenthuse fundet (pkt. 24, til fremtidig direkte tjek, ingen aktuelt kvalificerende stillinger i dag)**: IRIS Group (København, etableret policy-/samfundsøkonomisk analysekonsulent, privat men klientgrundlaget er overvejende offentligt/policy, tvivlsomt indholdsmatch til den kommercielle profil, nævnt til orientering), Bridge Consulting A/S (København, generel konsulentvirksomhed inden for analyse/evaluering og strategi/transformation, størrelse/profil ikke verificeret endnu), Actief Hartmanns (rekrutterings-/interimvirksomhed, snarere en bemandingsvirksomhed end et strategi-/BI-konsulenthus, tvivlsomt match til Fabians konsulent-karrieremål, nævnt til orientering kun). Kopenhagen Konsulting bekræftet fortsat uden konkrete åbne stillinger ved dagens career-site-tjek.
+
+**Tekniske noter fra dagens tre søgespor:**
+- LinkedIn: enkeltord-`/jobs/search/`-formatet (`f_TPR=r1209600&f_JT=F`) fortsat pålideligt, returnerede konsekvent ~60 daterede resultater per søgeord. `site:linkedin.com/jobs/view`-søgning via WebSearch gav ofte forældede, år-gamle cachede opslag uden pålidelig dato, kun brugbart som opdagelsesmetode, skal altid efterverificeres via det direkte opslag. Det OR-kombinerede `jobs/search-results/?...&geoId=...`-format ramte fortsat en login-mur uden indhold, fjerde kørsel i træk med samme resultat.
+- Jobindex RSS: 28 enkeltordssøgninger kørt uden 429-fejl, samme vedvarende mønster med nul hits for enkelte fagudtryk (marketing analyst, BI analytiker). `geoarea=storkoebenhavn` fortsat upålidelig, en stor andel af de rå hits lå i Jylland/Fyn.
+- Indeed.dk og Glassdoor DK fortsat HTTP 403 på alle forsøg. StepStone.dk nu HTTP 404 på den direkte søgeresultatside. ofir.dk/jobsafari.dk sprunget over denne gang jf. den månedlige kadence (senest tjekket for 3-4 dage siden).
+- Career-site-sporet: bedst tilgængelige i dag var PFA Pension, PensionDanmark (Talent-Soft), Nykredit (via karrierevejviser.dk som sekundær kilde), Kopenhagen Konsulting, Kvadrant Consulting, Basico (karriere.basico.dk), ReD Associates (PinpointHQ), Annalect Nordics (delvist, viderestiller til omnicommedia.com). Fortsat JS-shell/utilgængelig ved direkte hentning: Pandora (career-søgeendpoint og individuelle joblinks gav alle 404), Falck (Oracle Cloud HCM SPA), AP Pension, Alm. Brand og Topdanmark's dedikerede karriereundersider, Danske Bank/Danica's fælles portal, bonzer.io (DNS-fejl). SimCorp, KMD, Coloplast, ISS, Novonesis, Demant, Maersk, Nordea, DAMVAD Analytics, Summit A/S, Oleto Associates, ZIN Executive Advisory, INVIXO, Commerzial P/S, Mindmill, Fellowmind blev kun tjekket via websøgning i dag, ikke direkte hentning, bør have en direkte WebFetch-omgang i en fremtidig kørsel hvis søgeresultater fortsat er uklare.
+- Vigtigst: underagenters researchreferater bør altid stikprøvekontrolleres direkte mod selve kildeopslaget før noget behandles som et forslag, se JP/Politikens Hus-fejlen ovenfor, hvor et referat angav en gættet København-adresse for en rolle der ved direkte verifikation viste sig at være i Aarhus.
