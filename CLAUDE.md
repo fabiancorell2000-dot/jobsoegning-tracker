@@ -529,6 +529,35 @@ Bonzer, Radiant, Kvadrant Consulting, DAMVAD Analytics, Summit A/S, Oleto
 Associates, ReD Associates, Bridge Consulting) bevares også, denne liste er
 en tilføjelse, ikke en erstatning.
 
+**Første fulde gennemgang (2026-09-13):** ingen af de 20 nye navne havde en
+verificerbar, aktivt åben stilling der bestod de hårde krav. Bemærkelsesværdig
+undtagelse: North Consulting (Amagertorv 8A, København K) har en stærk
+indholdsmæssig evergreen-profil ("Management Consultant, Commercial
+Excellence", nyuddannet-venlig, kommerciel), men siden angiver eksplicit
+"we do not currently anticipate additional hiring in 2026", så det er ikke en
+reel åben stilling, kun en mulig uopfordret-ansøgnings-kandidat. Flere navne
+(Chaos Consulting Group, Nine, Right People Group, Qvartz) viste sig enten
+slet ikke at matche den tilsigtede profil (teknisk/regnskab/anden branche)
+eller ikke længere at eksistere som selvstændig enhed (Qvartz opkøbt af Bain
+2020), værd at bekræfte med Fabian ved lejlighed om disse er de rigtige
+firmaer.
+
+### 29. LinkedIn-søgeteknik: filtrér direkte på firma-ID (`f_C=`)
+Fabian har vist endnu en søgeteknik, der filtrerer LinkedIns jobsøgeresultater
+direkte på en liste af firma-ID'er via `f_C=<id1>%2C<id2>%2C...` kombineret
+med `geoId=` for lokation, fx:
+
+    https://www.linkedin.com/jobs/search-results/?keywords=jobs&geoId=90009617&f_C=<id1>,<id2>,...
+
+Dette er potentielt en effektiv metode til at søge specifikt på tværs af
+pkt. 28's navngivne firmaliste i ét kald, i stedet for at tjekke hver
+career-side enkeltvis (mange af dem er JS-renderede og kan ikke hentes
+direkte, jf. de tekniske noter i `foreslaaede-jobs.md`). Begrænsning: kræver
+at man kender hvert firmas interne LinkedIn-firma-ID på forhånd, hvilket ikke
+er trivielt at slå op uden allerede at have et eksempel-link. Afprøv denne
+metode fremover når det er muligt at indhente ID'erne, som et supplement til
+career-site-tjekket, ikke en erstatning.
+
 ---
 
 ## Uændret — må ikke løsnes
