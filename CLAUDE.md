@@ -493,6 +493,44 @@ giver nye fakta i en samtale, ikke de enkelte genererede dokumenter.
 
 ---
 
+## Præciseringer 2026-09-13
+
+### 28. Fast, navngivet liste over konsulenthuse at tjekke hver kørsel
+Fabian har givet en konkret, tiered liste over konsulenthuse han altid vil
+have søgt stillinger hos. Denne liste erstatter/udvider den hidtidige ad
+hoc-liste i pkt. 24 og tjekkes direkte (career-site + LinkedIn/Jobindex) hver
+kørsel, uafhængigt af den generelle "nedprioriter meget søgte navne"-regel i
+pkt. 9, det gælder eksplicit ikke for denne liste, da Fabian selv har bedt om
+den. Alle almindelige hårde kriterier (fuldtid, indholdsmatch, erfaringsniveau,
+løn, lokation) gælder fortsat uændret for hver enkelt stilling.
+
+**Tier 2 — store managementkonsulenthuse**: Implement Consulting Group, PA
+Consulting, Valcon, Accenture, Deloitte Consulting, EY-Parthenon, KPMG
+Advisory, PwC Consulting, BearingPoint, Cognizant Consulting, Tata
+Consultancy Services. **Capgemini/Capgemini Invent er eksplicit undtaget**,
+skal ikke tjekkes eller foreslås.
+
+**Tier 3 — mellemstore danske huse**: Emendo Consulting Group, Mannaz,
+Mobilize Strategy Consulting, Carve Consulting, Intellishore, Efficio,
+Netcompany Advisory, Knowit Management Consulting, Devoteam Consulting.
+**NB Netcompany Advisory**: Fabian har bekræftet eksplicit (2026-09-13) at
+denne skal med på trods af det generelle Netcompany-firmafravalg i pkt. 26,
+en bevidst afgrænset undtagelse for netop denne enhed, ikke en ophævelse af
+pkt. 26 for resten af Netcompany-koncernen.
+
+**Tier 4 — boutique (10-50 ansatte, ofte mest relevante for nyuddannede)**:
+Copenhagen Consulting, Another Consulting Firm, North Consulting, Nordic
+Consulting Group, Thursday Consulting, Chaos Consulting Group, Right People
+Group, Nine, Copenhagen Data, Qvartz Alumni boutiques (flere mindre
+spin-outs, tjek enkeltvis hvis de kan identificeres).
+
+Konsulenthusene fra den oprindelige pkt. 24-liste (Kopenhagen Consulting,
+Bonzer, Radiant, Kvadrant Consulting, DAMVAD Analytics, Summit A/S, Oleto
+Associates, ReD Associates, Bridge Consulting) bevares også, denne liste er
+en tilføjelse, ikke en erstatning.
+
+---
+
 ## Uændret — må ikke løsnes
 
 - **Rutinen søger, ansøger eller kontakter aldrig nogen på Fabians vegne.**
