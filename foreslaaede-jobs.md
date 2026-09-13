@@ -2,6 +2,153 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-13
+
+Ingen forslag i dag, 0 opslag bestod alle kriterier. Tre parallelle søgespor
+kørt via underagenter, samme opdeling som seneste kørsler: LinkedIn (18
+enkeltord-søgninger inkl. hele titellisten samt bredere niveau+indhold-
+kombinationer, `f_TPR=r1209600&f_JT=F`), Jobindex RSS (30 citerede
+enkeltordssøgninger) sammen med Indeed.dk/StepStone.dk/Glassdoor DK
+(ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence, senest tjekket
+2026-09-11), samt direkte career-site-tjek af den fulde liste fra pkt. 20
+(minus Netcompany/Atea/Siemens, hårdt fravalgt) plus aktiv søgning efter
+flere konsulenthuse (pkt. 24). Konklusionen på tværs af alle tre spor: puljen
+er fortsat stærkt mættet, samme mønster som 2026-09-11/12 — stort set alle
+hits er allerede kendte firmaer/roller, og de få reelt nye opslag fundet
+fejlede alle et hårdt kriterium ved verifikation.
+
+**Nye opslag fundet i dag, alle frasorteret efter verifikation:**
+- MAP (VML MAP/WPP) — Business Process Consultant (København, "1 dag siden",
+  dukkede op to gange). Career-sidens egen udgave af titlen ser mere
+  nyuddannet-venlig ud, men begge faktiske LinkedIn-opslag kræver ved direkte
+  verifikation eksplicit 5-8 års erfaring med Business Architecture/Process
+  Consulting/Change Management, langt over det lempede 2-4-års-kriterium.
+- LIXIL/Grohe A/S — Sales Controller, Nordic & Baltic (København). Fremstod
+  som "8 minutter siden" i et søgeresultat, men ved direkte verifikation
+  reelt 3 uger gammelt og lukket for ansøgninger ("Modtager ikke længere
+  ansøgninger"), samt kræver 3-5 års erfaring.
+- CHANGE Lingerie — Business Controller (Farum). Posted for 5 måneder siden,
+  lukket, kræver international controller-erfaring og ledelse af et
+  2-personers polsk shared-service-team.
+- Onomondo — Growth Operations Specialist (København). Indholdsmæssigt
+  RevOps-nært, men Onomondo er en venture-finansieret IoT-scaleup (~$30M fra
+  Verdane/Maersk Growth/People Ventures), hårdt virksomhedstype-fravalg jf.
+  pkt. 1, uanset indholdsmatch.
+- Satair A/S (Airbus-datterselskab) — Data Analytics Specialist (Kastrup).
+  Ellers en rimelig profil (etableret, privat, luftfart), men søgeresultater
+  indikerede opslaget er 30+ dage gammelt, uden for 2-ugers-vinduet, kunne
+  ikke bekræfte et friskere genopslag.
+- Vivino — Data Analyst, Trust Office-teamet (København). Indholdsmatch
+  rimeligt (KPI-grundlag, datakvalitet), men Vivino er en venture-finansieret
+  scaleup (bl.a. Bessemer), hårdt virksomhedstype-fravalg jf. pkt. 1.
+- LOGSTOR — Pricing Analyst: reelt i Løgstør, Jylland, ikke København, trods
+  "Storkøbenhavn"-geoarea-tag.
+- DSV — Business Analyst, Processer/Systemer/Implementering: Horsens, Jylland.
+- VILA — Commercial Analyst: Skanderborg, Jylland.
+- Nykredit (talent-soft, side 1 af 68 gennemgået) — "Analytiker med interesse
+  for kredit, data og regulering" bekræftet Aalborg-baseret (frist samme dag,
+  13-09), samme mønster som Nykredits eneste ikke-København-rolle fundet
+  2026-09-12.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+- **PFA Pension — Investeringscontroller** (København, via career2.successfactors.eu).
+  Samme rolle som allerede vurderet grænsetilfælde 2026-09-09 (controlling-/
+  investeringsregnskabsindhold trækker væk fra BI/marketing-profilen), ikke
+  genforeslået som ny, men ansøgningsfristen er i dag (13-09) — nævnes til
+  Fabians egen vurdering hvis han selv vil genoverveje den inden fristen
+  udløber.
+- **Coloplast — Junior Assistant in Global Sales Excellence, Commercial
+  Development** (Humlebæk, bekræftet fortsat aktiv, ingen frist angivet).
+  Rimeligt indholdsmatch (kommerciel udviklingsstøtte), men Kystbanen
+  Nørreport→Humlebæk er 31 minutter togtid alene, og Coloplards hovedkontor
+  (Holtedam 1) ligger ikke umiddelbart ved stationen, så samlet dør-til-dør-
+  tid meget sandsynligt overstiger 35-minuttersgrænsen når gangtid lægges
+  til. Kunne ikke verificeres præcist nok til et sikkert fravalg, nævnes til
+  Fabians egen vurdering af den præcise gangafstand.
+
+**Øvrige opslag frasorteret uden ny vurdering (allerede kendte fra tidligere
+kørsler, samme begrundelser):** de store konsulenthuse (Deloitte, KPMG,
+BCG/BCG Platinion, Accenture/Halfspace, PA Consulting, Infosys) nedprioriteret
+jf. pkt. 9; en lang række offentlige/statslige opslag (Politi, Vejdirektoratet,
+Vurderingsstyrelsen, Skatte- og Vækstministeriet, DSB, Danmarks Statistik,
+Københavns Kommune, Rigsrevisionen, Forsvaret, DTU) hårdt fravalgt jf. pkt. 19;
+Ballerup-baserede opslag (Tryg, Ambu, Bosch Nordic, Atea, KMD) sprunget over
+jf. pkt. 27; Netcompany sprunget over jf. pkt. 26; Demant (D365-konsulent,
+ingeniør-/testroller uden BI/kommercielt match), Coloplast øvrige opslag
+(Senior Performance Intelligence Manager, Manager Pricing & Trade, flere
+senior-titler), Nordea (kun salg/rådgiver/kundeservice/aktuar/deltids-
+studenterrolle i København, "Digital Analyst"/"Customer Insight Analyst"
+begge lukkede), DFDS (Capacity Specialist er midlertidig 12-måneders
+barselsvikariat inden for sejlads/systemkonfiguration, ikke BI; Climate
+Reporting & Assurance Manager er en managertitel; Data Consultant fortsat
+kræver 3-5 år og teamledelse, uændret fra 2026-09-10), DSV (0 København-
+opslag i dag), KMD (0 opslag firmabredt), Falck (eneste fundne opslag var en
+fastholdelses-/kundeservicerolle, hårdt salgsfravalg), PensionDanmark (6
+opslag gennemgået, ingen match), Ørsted (Lead Commercial Analyst, allerede
+kendt lead-titel), Mindmill (alle 7 opslag er opsøgende B2B-telefonsalg i
+Viby J/Aarhus, forkert type og forkert lokation), INVIXO (17 opslag
+gennemgået, fortsat SAP/integration/data engineering med Python/Boomi/API/
+ABAP-krav, overstiger programmeringsgrænsen), Stretch Qonnect (eneste opslag
+er en Senior Data Engineer/Architect-rolle, senior og for teknisk), Oleto
+Associates og Bridge Consulting A/S (begge bekræftet 0 aktuelle opslag).
+
+**Nye konsulenthuse fundet (pkt. 24, til fremtidig direkte tjek)**: Stretch
+Qonnect (Kompagnistræde 21, København K, grundlagt 2013, ~25-50 ansatte,
+data-/BI-/AI-analysekonsulenthus med kontorer også i Malmö/Stockholm,
+etableret og privat, værd at tjekke periodisk for en lettere-stack-rolle end
+dagens Senior Data Engineer/Architect-opslag), BIWise A/S (Vester Voldgade 8,
+København V, grundlagt 2010, BI-/Data Engineering-/analysekonsulenthus for
+større danske klienter, etableret og privat, ingen konkrete opslag kunne
+bekræftes i dag ud over generisk "vi er altid interesserede"-tekst, værd at
+tjekke periodisk direkte). Copenhagen Search Partners P/S fundet men vurderes
+at være et executive search-/headhunting-firma snarere end et strategi-/BI-
+konsulenthus, formentlig et svagt indholdsmatch, nævnt kun til orientering.
+Oleto Associates og Bridge Consulting A/S bekræftet fortsat med 0 opslag.
+Ikke verificeret i dag (career-side utilgængelig): Commerzial P/S
+(DNS-fejl, anden kørsel i træk), ZIN Executive Advisory, DAMVAD Analytics
+(503, anden kørsel i træk), Summit A/S (404 på den hidtil antagne URL,
+kræver den korrekte URL identificeret før næste forsøg), Fellowmind
+(redirecter væk fra DK-karrieresiden til en global shell).
+
+**Tekniske noter fra dagens tre søgespor:**
+- LinkedIn: enkeltord-`/jobs/search/`-formatet fortsat pålideligt for alle 18
+  søgninger, konsistent ~60 daterede resultater per søgeord. Det OR-
+  kombinerede `jobs/search-results/?...&geoId=...`-format (pkt. 23) ramte
+  fortsat en login-mur, sjette kørsel i træk med identisk resultat — bør nu
+  betragtes som reelt ikke-brugbart i dette miljø fremfor at blive gentaget
+  hver kørsel.
+- Jobindex RSS: 30 enkeltordssøgninger kørt uden 429-fejl. Ny observation:
+  flere brede søgeord (business analyst, consultant, controller, analytiker,
+  data, junior, graduate, nyuddannet, BI, master data, data governance,
+  power bi, data quality, commercial) rammer alle nøjagtigt 20 hits, hvilket
+  tyder på at RSS-feedet afskærer resultater ved 20 poster per forespørgsel
+  uanset det reelle antal match — der kan altså være yderligere relevante
+  opslag for disse brede ord som feedet ikke returnerer. `geoarea=
+  storkoebenhavn` fortsat upålidelig, størstedelen af de rå hits lå i
+  Jylland/Fyn.
+- Indeed.dk og Glassdoor DK fortsat HTTP 403 på alle direkte hentningsforsøg
+  (WebSearch-snippets kan afsløre firma-/rollenavne, men selve siderne
+  forbliver blokerede). StepStone.dk's søgeresultat-URL'er giver nu
+  konsekvent HTTP 404 (tidligere vekslende mellem 404 og tom JS-shell); en
+  kategori-side (`/job/it/it-analyse`) loader, men er en statisk skabelon
+  uden indlejrede opslag, fortsat en blindgyde for direkte scraping.
+- Career-site-sporet: fuldt hentbare i dag via direkte WebFetch var Demant,
+  Nykredit, PFA Pension, PensionDanmark, DFDS, Nordea (search med
+  `locationsearch=`-parameter virker pålideligt), DSV, INVIXO, Stretch
+  Qonnect, Oleto Associates, Bridge Consulting samt Coloplast (kun via
+  karrierevejviser.dk som sekundær kilde, ikke primærsiden). Fortsat
+  JS-shell/utilgængelig: SimCorp, ISS, Maersk (Workday), Falck
+  (group.falck.com DNS-fejl, falck.com/careers en tom Oracle Cloud HCM SPA),
+  Coloplards egen søgeside. Ikke forsøgt med et fornyet direkte fetch-forsøg
+  i dag (kun websøgning, givet det vedvarende flerdages-mønster): Danske
+  Bank, SEB, Annalect/Omnicom, Implement Consulting Group, Alm. Brand,
+  Topdanmark, Danica Pension, AP Pension, Enalyzer, Ørsted (ud over det ene
+  Lead Commercial Analyst-fund) — bør have et fornyet direkte forsøg i en
+  fremtidig kørsel i tilfælde af at adgangen ændrer sig.
+
+Ingen ansøgningsmateriale genereret i dag, da ingen opslag bestod alle
+kriterier.
+
 ## 2026-08-28
 
 Opdatering: WebFetch virkede alligevel ved et senere forsøg samme dag (den tidligere blokering var tilsyneladende midlertidig), så research er nu gennemført med fuld verifikation af hvert opslag.
