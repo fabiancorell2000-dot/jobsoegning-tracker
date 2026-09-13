@@ -520,9 +520,16 @@ pkt. 26 for resten af Netcompany-koncernen.
 
 **Tier 4 — boutique (10-50 ansatte, ofte mest relevante for nyuddannede)**:
 Copenhagen Consulting, Another Consulting Firm, North Consulting, Nordic
-Consulting Group, Thursday Consulting, Chaos Consulting Group, Right People
-Group, Nine, Copenhagen Data, Qvartz Alumni boutiques (flere mindre
-spin-outs, tjek enkeltvis hvis de kan identificeres).
+Consulting Group, Thursday Consulting, Right People Group, Nine, Copenhagen
+Data, Qvartz Alumni boutiques (flere mindre spin-outs, tjek enkeltvis hvis de
+kan identificeres). **Chaos Consulting Group fjernet fra listen** (2026-09-13),
+viste sig at være en enkeltmands-bogføringsvirksomhed, ikke et konsulenthus,
+og Fabian har eksplicit bedt om at fravælge den type. Generel regel tilføjet:
+firmaer der ved verifikation viser sig reelt at være enkeltmandsvirksomheder
+(én ansat/ejer, ingen reel organisation) skal ikke tjekkes eller foreslås,
+uanset navnet lyder som et konsulenthus, det er for lille til at være en reel
+arbejdsgiver i denne sammenhæng (jf. ånden i pkt. 1's krav om en etableret
+virksomhed).
 
 Konsulenthusene fra den oprindelige pkt. 24-liste (Kopenhagen Consulting,
 Bonzer, Radiant, Kvadrant Consulting, DAMVAD Analytics, Summit A/S, Oleto
