@@ -2,6 +2,126 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-14
+
+Ingen forslag i dag, 0 opslag bestod alle kriterier. Tre parallelle søgespor
+kørt via underagenter, samme opdeling som seneste kørsler: LinkedIn (ni
+enkeltord-/titelsøgninger inkl. bredere niveau+indhold-kombinationer,
+`f_TPR=r1209600&f_JT=F`, samt direkte tjek af Efficio/Carve Consulting/
+Mobilize Strategy Consulting fra tier-listen), Jobindex RSS (15 citerede
+enkeltordsforespørgsler) sammen med Indeed.dk/StepStone.dk/Glassdoor DK
+(ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence, senest tjekket
+2026-09-11), samt direkte career-site-tjek af den fulde liste fra pkt. 20
+(minus Netcompany/Atea/Siemens/Tryg, hårdt fravalgt) plus konsulenthus-listen
+fra pkt. 28 (Carve, Intellishore, Efficio, Emendo, Bonzer, ReD Associates,
+Mobilize, Kvadrant, Thursday Consulting m.fl.). Konklusionen på tværs af alle
+tre spor: puljen er fortsat stærkt mættet, samme mønster som 2026-09-11/13 —
+stort set alle hits er allerede kendte firmaer/roller, og de få reelt nye
+opslag fundet fejlede alle et hårdt kriterium ved verifikation.
+
+**Nye opslag fundet i dag, alle frasorteret efter verifikation:**
+- Flying Tiger Copenhagen — Senior Insights Analyst (København, "2 dage
+  siden"). Samme stærke virksomhedsprofil som det allerede foreslåede
+  Assortment Analyst-opslag (2026-09-12), men eksplicit "Senior"-titel,
+  hårdt fravalg.
+- Accura Advokatpartnerselskab — AI Consultant, afdeling for AI & Viden
+  (Nordhavn, opslået i dag, god metroafstand, etableret privat ~550
+  ansatte). Indholdsmæssigt fristende (AI-agenter/automatiserede
+  workflows, minder om COWI Copilot-erfaringen), men kravteksten
+  forudsætter eksplicit IT-uddannelse og forståelse for underliggende
+  teknologi/kode — en teknisk IT-profil, ikke en business/EMF-profil.
+- Danske Bank — Business Analyst for GenAI Innovation Lab (København).
+  Stærkt indholdsmatch til Copilot/AI-agent-arbejdet hos COWI, men
+  bekræftet udløbet ved verifikation (~5 måneder gammel cache, "Modtager
+  ikke længere ansøgninger").
+- Danske Bank — Business Analyst, Customer Relationship Squad: link
+  arkiveret/udløbet ved verifikation, kræver desuden SQL/API og
+  IT-BA-erfaring, samme mønster som tidligere frasorterede Danske
+  Bank BA-roller.
+- Danske Bank — Business Analyst, Data Foundation (barselsvikariat):
+  tidsbegrænset, markedsdata-leverandørstyring (Bloomberg/LSEG/MSCI),
+  svagt indholdsmatch.
+- DSB — Customer Insights Analyst (Taastrup): stærkt KPI/data-match,
+  men statsejet, hårdt sektorfravalg jf. pkt. 19.
+- Metroselskabet — Asset Information Manager and Data Steward, og Amgros
+  — Senior Specialist: begge offentligt ejede, hårdt sektorfravalg
+  (Amgros desuden senior-titel).
+- Normal A/S — Business Analyst, LOGSTOR — Pricing Analyst, VILA —
+  Commercial Analyst, Moveero — Graduate AI & Business Systems Analyst:
+  alle Jylland-baserede, uden for lokationskriteriet.
+- EY — Graduate, Data & Analytics (Autumn 2027): start for langt ude
+  (pkt. 10), samt stor konsulentvirksomhed nedprioriteret.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+- **Thursday Consulting — "Økonomi & Forretningsanalyse", Strategy &
+  Operations** (Trekronergade 126H, Valby, S-tog). Et af de stærkeste
+  indholdsmatches set i nogen kørsel: business cases, avancerede
+  Excel-modeller, regnskabsanalyser, Power BI/R som en fordel, cand.merc.
+  fra CBS/KU + 2-4 års erfaring som konsulent/Business Analyst. Siden
+  angiver dog eksplicit "Vi rekrutterer ikke aktivt til denne stilling i
+  øjeblikket, men modtager meget gerne uopfordrede ansøgninger" — samme
+  evergreen-mønster som North Consulting (2026-09-13). Ikke et reelt
+  åbent opslag, derfor ikke foreslået, men nævnes som en stærk
+  uopfordret-ansøgnings-kandidat til Fabians egen vurdering.
+- **Kvadrant Consulting — Management Consultant**: kræver fortsat
+  eksplicit min. 2 års specifik managementkonsulent-erfaring, uændret fra
+  tidligere vurderinger.
+
+**Øvrige opslag frasorteret uden ny vurdering (allerede kendte fra tidligere
+kørsler, samme begrundelser):** de store konsulenthuse nedprioriteret jf.
+pkt. 9; offentlige/statslige opslag (Politi, PET, Forsvarets
+Efterretningstjeneste, Rigsrevisionen, Vejdirektoratet, Banedanmark, SKI,
+Erhvervsministeriet, DTU) hårdt fravalgt jf. pkt. 19; Ballerup-baserede
+opslag (Tryg, Atea) sprunget over jf. pkt. 27; Netcompany (alle roller)
+sprunget over jf. pkt. 26; PFA Pension (4 åbne stillinger, alle
+salg/studenterjob/Product Manager, ingen match), PensionDanmark (6 åbne
+stillinger, sygepleje/rådgiver/marketing-studenterjob/senior-titler, ingen
+match), DFDS (kun kendte Data Consultant/Climate Reporting Manager relevante
+i Danmark, to lovende titler fra det globale feed viste sig ved verifikation
+at tilhøre DFDS Polen), Carve Consulting/Intellishore/Efficio (udelukkende
+senior/manager/teknisk niveau), Emendo Consulting Group ("Junior
+Consultant"-titel er ingeniør-/byggeteknisk, ikke kommercielt match), Bonzer/
+ReD Associates/Mobilize Strategy Consulting (0 relevante åbne stillinger),
+Annalect (allerede søgt/foreslået), Nykredit (kun side 1 af 65 opslag
+gennemgået i dag, ingen match fundet), OrderYOYO, Trustpilot (Lead-titel),
+Corpay, ZURU Edge, Flatpay, Grohe A/S Sales Controller (allerede kendt/
+frasorteret 2026-09-13).
+
+**Tekniske noter fra dagens tre søgespor:**
+- LinkedIn: enkeltord-`/jobs/search/`-formatet fortsat pålideligt for alle
+  ni afprøvede søgeord, men resultatlisterne overlapper nu i meget høj grad
+  med tidligere kørslers pulje, næsten alle firmaer/roller allerede kendte.
+- Jobindex RSS: alle 15 forespørgsler kørt uden fejl, brede ord afskæres
+  fortsat ved ~20 poster, `geoarea=storkoebenhavn` fortsat upålidelig
+  (størstedelen af hits i Jylland/Fyn).
+- Indeed.dk og Glassdoor DK fortsat konsekvent HTTP 403 på direkte
+  WebFetch; StepStone.dk fortsat kun JS-shell uden indlejrede opslag.
+  WebSearch på alle tre giver kun forældede/generiske aggregatorsider.
+- DFDS' globale jobs.json blander alle lande uden pålideligt lokationsfelt;
+  korrekt Danmark-specifik kilde fundet i dag: `dfdsdenmark.teamtailor.com/
+  jobs.json` (JSON-feed, 19 opslag, fungerer pålideligt) — brug denne
+  fremover i stedet for det globale feed.
+- PFA Pensions hovedside viser ikke opslag direkte i HTML'en, men de fire
+  aktuelle stillinger kunne udtrækkes via `career_job_req_id`-parametre i
+  sidens kildekode (SuccessFactors).
+- Thursday Consultings career-side (Webflow) usædvanligt let at hente
+  direkte via curl, ingen JS-blokering.
+- Fortsat JS-shell/utilgængelig i dag: Danske Bank (404 på career-URL),
+  Implement Consulting Group (404), Knowit, Nordic Consulting Group,
+  Annalect/Omnicom (403), Enalyzer (ingen karriereside kunne lokaliseres),
+  Netcompany Advisory (kunne ikke findes som separat kategori adskilt fra
+  almindelig Netcompany Consulting).
+
+**Nye konsulenthuse verificeret i dag (reelle organisationer, til fremtidig
+tjek):** Thursday Consulting (~30 ansatte, Valby), Intellishore (80+
+ansatte, Østerbro), Mobilize Strategy Consulting (28 ansatte). "Another
+Consulting Firm" (fra pkt. 28's tier 4-liste) kunne ikke findes/verificeres
+som et eksisterende firma i dag — værd at bekræfte det præcise navn med
+Fabian ved lejlighed.
+
+Ingen ansøgningsmateriale genereret i dag, da ingen opslag bestod alle
+kriterier.
+
 ## 2026-09-13
 
 Ingen forslag i dag, 0 opslag bestod alle kriterier. Tre parallelle søgespor
