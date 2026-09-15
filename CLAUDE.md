@@ -3,7 +3,7 @@
 Denne fil læses automatisk ved starten af hver kørsel og supplerer den planlagte
 opgaves prompt. **Ved konflikt vinder denne fil**, da den er opdateret senest.
 
-Sidst opdateret: 2026-09-09
+Sidst opdateret: 2026-09-15
 
 ---
 
@@ -564,6 +564,66 @@ at man kender hvert firmas interne LinkedIn-firma-ID på forhånd, hvilket ikke
 er trivielt at slå op uden allerede at have et eksempel-link. Afprøv denne
 metode fremover når det er muligt at indhente ID'erne, som et supplement til
 career-site-tjekket, ikke en erstatning.
+
+---
+
+## Præciseringer 2026-09-15
+
+Baggrund: To dage i træk (2026-09-14, 2026-09-15) med 0 forslag. Gennemgang af
+de fundne-men-frasorterede opslag fra begge dage viste at det ikke er
+titeldækning eller kildedækning der er problemet (begge er nu meget bredt
+dækket) — det er to specifikke hårde filtre der gentagne gange har smidt
+indholdsmæssigt stærke matches ud: virksomhedstype-udelukkelsen (pkt. 1) og
+erfaringsloftet (pkt. 2). Fabian har bedt om at løsne begge, uden at gå til
+Ballerup eller Glostrup, og uden at åbne op for offentlig sektor igen.
+
+### 30. Virksomhedstype — drop lønantagelsen, vurdér i stedet konkret
+**Ændrer pkt. 1's kerneregel.** Den automatiske antagelse om at
+venture-finansierede scaleups betaler under markedsløn droppes. En
+virksomhed på Flatpays størrelse/stadie (etableret produkt, reel
+kundebase/omsætning, betydelig medarbejderstab — ikke en tidlig
+seed-startup med få ansatte) er fin, uafhængigt af finansieringstype.
+
+- Er lønnen angivet i opslaget: tjek den mod den almindelige grænse (pkt. 7,
+  eller 34.000+ for konsulentroller jf. pkt. 14) som for enhver anden
+  virksomhed. Kun lav løn er en dealbreaker, ikke finansieringsformen i sig selv.
+- Er lønnen ikke angivet: frasortér **ikke** automatisk på virksomhedstype
+  alene. Nævn det som en almindelig løn-usikkerhed i begrundelsen (samme
+  praksis som for enhver anden virksomhed uden angivet løn, jf. pkt. 7),
+  ikke som en særlig scaleup-risiko.
+- **Fortsat en reel bekymring, ikke fjernet:** et meget tidligt stadie
+  firma (få ansatte, nyligt stiftet, ingen tydelig kundebase/produkt-
+  modenhed) er stadig usikkert på både løn og stabilitet, og bør vurderes
+  med sund skepsis, ikke automatisk foreslås. Skellet er stadie/modenhed,
+  ikke selve det at være venture-finansieret.
+- Den øvre håndhævede regel fra pkt. 1 (etablerede virksomheder under 100
+  ansatte er fine, særligt del af en koncern) står uændret.
+
+Eksempler på opslag der tidligere er frasorteret alene på denne regel, og som
+nu skal revurderes hvis de dukker op igen (kun på virksomhedstype — øvrige
+kriterier gælder stadig): Flatpay, Vivino, Onomondo, OrderYOYO.
+
+### 31. Erfaringskrav — loftet hævet fra 2-4 til op til ca. 5 år ved stærkt match
+**Udvider pkt. 2.** Opslag der angiver "3-5 år" eller lignende som
+erfaringskrav må nu også foreslås, når det indholdsmæssige match ellers er
+stærkt — ikke kun "2-4 år" som hidtil. Baggrund: flere opslag med et
+usædvanligt præcist værktøjs- og indholdsmatch (fx Corpay Commercial
+Excellence Specialist/CRM, DFDS Data Consultant, LEMAN Group Business
+Controller & BI Analyst) er udelukkende blevet frasorteret på netop dette
+tal, ikke på titel, indhold eller andet.
+
+**Fortsat hårdt fravalg, uændret fra pkt. 2:** eksplicitte senior-, lead- og
+manager-titler, samt opslag der reelt kræver flere end ca. 5 års
+specialisterfaring eller beskriver et ledelses-/teamledelsesansvar (fx "leder
+et team af data engineers"). Et opslag der kræver "5+ år" alene, uden at
+være markeret som "3-5 år", er fortsat over grænsen og skal fravælges.
+
+### 32. Offentlig sektor — ingen ændring, bekræftet
+Fabian har eksplicit bekræftet at pkt. 19's hårde fravalg af offentlig
+sektor (styrelser, regioner, kommuner, universiteter, samt statsejede
+selskaber som DSB og lignende) **skal stå ved magt uændret**. Dette blev
+overvejet som en mulig løsning på lav volumen, men afvist direkte af
+Fabian 2026-09-15. Skal ikke tages op igen medmindre Fabian selv beder om det.
 
 ---
 
