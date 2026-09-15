@@ -625,6 +625,37 @@ selskaber som DSB og lignende) **skal stå ved magt uændret**. Dette blev
 overvejet som en mulig løsning på lav volumen, men afvist direkte af
 Fabian 2026-09-15. Skal ikke tages op igen medmindre Fabian selv beder om det.
 
+### 33. Virksomhedsstørrelse — nedre grænse fastholdt, selv efter pkt. 30
+Løsningen af virksomhedstype-reglen (pkt. 30) må **ikke** læses som at meget
+små virksomheder nu er i spil. En scaleup skal stadig have en reel,
+mærkbar organisation for at tælle som "etableret nok", ikke bare et par
+personer. Groft tommelfingermål: **mindst ca. 20-25 ansatte**, medmindre
+virksomheden er del af en større koncern (jf. Annalect-mønsteret i pkt. 1),
+i hvilket tilfælde koncernens samlede størrelse og modenhed tæller, ikke
+kun den lokale enheds egen headcount. En bekræftet enkeltmandsvirksomhed
+eller et 2-3 personers team skal fortsat ikke foreslås, uanset hvor godt
+det ellers matcher (samme princip som enkeltmandsvirksomheds-reglen for
+konsulenthuse, pkt. 28).
+
+### 34. Erfaringssignal — søg også opslag der ikke eksplicit nævner nyuddannet
+**Udvider pkt. 2/31.** Rutinen skal ikke kun vurdere opslag der eksplicit
+skriver "nyuddannet"/"entry level"/"graduate" eller lignende. Et opslag der
+slet ikke nævner et forventet erfaringsniveau, eller som er formuleret
+neutralt, skal også vurderes ud fra sit reelle indhold: ville Fabians
+faktiske profil, flere års reel erhvervserfaring (COWI, Skattestyrelsen,
+Teknologiens Mediehus — ikke bare studieprojekter), realistisk kunne
+komme til samtale på den konkrete kravtekst? Vurdér på kravenes substans
+(værktøjer, opgavetype, ansvarsniveau), ikke på om et bestemt label optræder
+i opslaget.
+
+Dette er en tilføjelse, ikke en erstatning: bliv ved med at aktivt søge og
+prioritere opslag der decideret skriver nyuddannet/graduate eller lægger op
+til det, det er fortsat den sikreste kategori. De almindelige erfaringslofter
+fra pkt. 2/31 (op til ca. 5 år, intet eksplicit senior/lead/manager, intet
+reelt flerårigt specialistkrav derover) gælder uændret for denne bredere
+kategori — det ændrer kun hvilke opslag der overhovedet kommer i betragtning,
+ikke hvor stor en erfaring der reelt accepteres.
+
 ---
 
 ## Uændret — må ikke løsnes
