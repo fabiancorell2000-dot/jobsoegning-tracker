@@ -2,6 +2,49 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-15
+
+Ingen forslag i dag, 0 opslag bestod alle kriterier. Samme mætningsmønster som
+2026-09-11 til 2026-09-14: tre parallelle søgespor kørt via underagenter
+(LinkedIn: 18 enkeltord-titelsøgninger + de bredere niveau+indhold-kombinationer
+samt en eksplicit gennemgang af hele tier 2-4-konsulenthuslisten fra pkt. 28;
+Jobindex RSS: 28 citerede enkeltordssøgninger, sammen med fornyede forsøg på
+Indeed.dk/StepStone.dk/Glassdoor DK; career-site-tjek af den fulde liste fra
+pkt. 20 plus alle konsulenthustiers fra pkt. 24/28). Ofir.dk/jobsafari.dk
+sprunget over jf. den månedlige kadence (senest tjekket 2026-09-11).
+
+**Nye opslag fundet i dag, alle frasorteret efter verifikation:**
+- Bostik A/S (Junior Supply Chain Analyst) — Nørre Aaby, Fyn, uden for lokationskriteriet.
+- Ellab A/S (Business Intelligence Engineer) — Hillerød, ~40 min, over 35-min-grænsen (pkt. 25).
+- NDI Group A/S (Business Controller) — Brørup, Jylland.
+- EG A/S (Consultant) — Aarhus N, samt opslaget er ca. 2,5 uger gammelt, i yderkanten af tidsvinduet.
+- Autorola Group A/S (Financial Controller) — Odense C, Fyn.
+- F&H Group A/S (Buyer Coordinator, produktdata) — Viborg/Aarhus N, Jylland.
+- Brands of Scandinavia A/S (Sales Optimization Coordinator) — Kolding, Jylland.
+- Fiskars Group (Business Controller, Operations & Technology, Frederiksberg) — god lokation og etableret ikke-startup virksomhed, men kræver eksplicit "4+ years of experience in finance business partnering and controlling within supply chain", et reelt flerårigt specialistkrav ud over det lempede niveau. Power BI kun nævnt som en fordel.
+- PA Consulting — Consultant Analyst, Risk, Compliance & Financial Crime Prevention (Nordhavn): lokation/senioritet/virksomhedstype består fint, men indholdet er AML/hvidvask-/regulatorisk compliance-konsulentarbejde, et fagområde uden overlap til Fabians profil.
+- Valcon — "Junior consultant, 1-2 dage om ugen" (København): eksplicit deltid, hårdt fuldtidskrav overtrådt.
+- Valcon — "Graduate Technology Consultant" (København): den specifikke søgeresultat-URL gav 404 ved direkte verifikation i dag (formentlig forældet indeks-link), kunne ikke bekræftes som aktiv. Bør genforsøges i en fremtidig kørsel; givet "Technology" i titlen er den formentlig IT-/udviklertung snarere end forretnings-/datafokuseret.
+
+**Grænsetilfælde overvejet, ikke foreslået (til Fabians egen vurdering)**
+
+- **Impact Fund Denmark — People Analytics & Rewards Specialist** (Østbanegade 135, København Ø, S-tog nær Østerport/Nordhavn, langt inden for 35-min-grænsen). Fuldtid, 39 timer/uge, opslået 18 timer før tjek, ansøgningsfrist 23. september, 33 ansøgere, dansk opslag. Indholdsmæssigt et af de stærkeste matches set i noget kørsel: medarbejderdata-analyse, lønbenchmarking, dashboard-udvikling og engagement survey-analyse, næsten identisk med det faktiske COWI-arbejde (Power BI-dashboards på medarbejderdata, Engagement Survey/Workplace Assessment Survey for 7.500+ medarbejdere). Kravet er "et par års relevant erhvervserfaring" (inden for det lempede kriterium), avanceret Excel, ingen SQL/CRM/avanceret programmeringskrav, Power BI kun nævnt som en fordel.
+  - Ærlig årsag til fravalg: Impact Fund Denmark er det omdøbte tidligere IFU (Investeringsfonden for Udviklingslande), en selvejende statslig udviklingsfinansieringsinstitution oprettet ved lov, altså reelt statsejet. Det er ikke en styrelse/region/kommune/universitet i ordets snævre forstand, men efter samme præcedens som DSB-vurderingen (pkt. 19, 2026-09-08) er det behandlet som omfattet af det hårde offentlig sektor-fravalg frem for at afgøre tvivlen selv. Nævnes eksplicit fordi indholdsmatchet er usædvanligt stærkt og fristen er kort (23. september) — Fabian kan selv vælge at se bort fra denne fortolkning, hvis han er uenig.
+- **Kvadrant Consulting — Management Consultant (GTM Practice, AI-first commercial growth)**: ny konkret rolle fundet på career-siden i dag, men ikke re-verificeret som adskilt fra det tidligere dokumenterede mønster (Kvadrants Management Consultant-roller kræver typisk min. 2 års specifik managementkonsulent-erfaring), formentlig samme standing fravalg.
+- **Nykredit — "Bliv specialist i Quality Assurance Data"**: fortsat aktiv på career-siden, men er samme rolle som allerede foreslået og sendt til Fabian 2026-09-05, ikke et nyt forslag.
+
+**Øvrige opslag frasorteret uden ny vurdering (allerede kendte fra tidligere kørsler, samme begrundelser):** Tryg (Ballerup, pkt. 27, alle tre roller), Siemens A/S (Ballerup, pkt. 27), Atea Danmark (Ballerup, pkt. 27), Netcompany (alle roller, pkt. 26, bekræftet fortsat ingen separat "Netcompany Advisory"-enhed synlig i listen), DSB (begge roller, statsejet + Taastrup), VILA, LOGSTOR, DSV, Normal A/S, Privathospitalet Mølholm, Moveero, Søstrene Grene/PRO&CO (alle Jylland/Fyn), Københavns Lufthavne (avanceret SQL/Databricks), Accura (IT-/teknisk profil), Totalkredit (leder-titel), CereNord (senior), Metroselskabet (offentlig), Danske Bank Student Assistant People Analytics (deltid), Salling Group (Jylland + praktik), EY Graduate Data & Analytics Autumn 2027 (for langt ude), Radiant (fortsat rene opsøgende salgsroller, i dag "Sales Team Lead"), en lang række offentlige/statslige opslag (Banedanmark, Politi/PET, Rigsrevisionen, Vejdirektoratet, Erhvervsministeriet, Skatteankestyrelsen, Grønlands Selvstyre m.fl.) hårdt fravalgt jf. pkt. 19, samt de store konsulenthuse (PA Consulting, Accenture, Deloitte, EY-Parthenon, KPMG, Implement, BCG/BCG Platinion) der udelukkende havde senior-/manager-/direktørtitler, tekniske (SAP/D365/Workday/sikkerhed) roller, eller Autumn 2027-graduateprogrammer.
+
+**Nye konsulenthuse/virksomheder fundet, ingen kvalificerende opslag i dag:** Right People Group (bekræftet reel IT-/forretningskonsulent-bemandingsvirksomhed, 46 ansatte, København Ø, career-side viser dog "No projects found", værd at genbesøge periodisk). Nordic Consulting Group (ncg.dk) bekræftet at være et internationalt udviklingskonsulenthus (bistands-/udviklingssektor-projekter), ikke et kommercielt BI-/managementkonsulenthus — formentlig en fejlmatch med den tilsigtede type fra pkt. 28's tier 4-liste, værd at bekræfte det præcise firmanavn med Fabian.
+
+**Tekniske noter fra dagens tre søgespor:**
+- LinkedIn: enkeltord-`/jobs/search/`-formatet (`f_TPR=r1209600&f_JT=F`) fortsat fuldt pålideligt, ingen blokering. Puljen er nu stærkt mættet, samme ~60-90 firmaer/opslag går igen på tværs af søgeord.
+- Jobindex RSS: alle 28 enkeltordssøgninger gennemført (kun 2 midlertidige 429-fejl, løst ved gentagelse), 277 unikke opslag efter dedup. Brede søgeord afskæres fortsat ved præcis 20 poster, ingen kendt paginering. `geoarea=storkoebenhavn` fortsat upålidelig, størstedelen af rå hits i Jylland/Fyn.
+- Indeed.dk og Glassdoor DK fortsat konsekvent HTTP 401/403 på al direkte hentning, samt på specifikke `/viewjob?jk=`-URL'er fundet via WebSearch (ikke kun søgeresultatsider). StepStone.dk's søgeside giver nu HTTP 200 (tidligere 404/timeout), men er bekræftet en ren JS-shell uden indlejret jobdata selv efter fjernelse af script/style-tags; StepStone.dk beskriver desuden sig selv som "Danmarks eneste jobsite for ledere", strukturelt et svagt match til en nyuddannet-profil selv hvis den blev skrapbar. Efter nu 4+ kørsler i træk med identisk blokeringsmønster anbefales Indeed.dk/StepStone.dk/Glassdoor DK nedgraderet til samme månedlige kadence som ofir.dk/jobsafari.dk fremover, medmindre adgangsmetoden ændrer sig.
+- Career-site-sporet: fuldt hentbare i dag var DFDS (dfdsdenmark.teamtailor.com/jobs.json, Danmark-specifikt JSON-feed), Nykredit, PensionDanmark, PFA Pension, Netcompany, Kvadrant Consulting, Kopenhagen Konsulting, Right People Group, PA Consulting (delvist, pagineret). karrierevejviser.dk bekræftet som brugbar sekundær kilde for ellers JS-blokerede primærsider (Danske Bank, Ørsted, SEB, Coloplast), bør bruges mere systematisk fremover ved 403/404 på primærsiden. Fortsat JS-shell/utilgængelig: Danske Bank, Pandora, Maersk, ISS, Novonesis, Coloplast (403), Demant, SimCorp, KMD, DSV, Implement Consulting Group, SEB, Nordea, Emendo, Bonzer, Radiant, ReD Associates, Bridge Consulting, Summit A/S, DAMVAD Analytics, Copenhagen Data. Ørsteds hovedside for ledige stillinger var dog fuldt hentbar (8 opslag, alle senior/lead). Det OR-kombinerede LinkedIn `f_C=`-firma-ID-format ikke afprøvet i dette spor.
+
+Ingen ansøgningsmateriale genereret i dag, da ingen opslag bestod alle kriterier.
+
 ## 2026-09-14
 
 Ingen forslag i dag, 0 opslag bestod alle kriterier. Tre parallelle søgespor
