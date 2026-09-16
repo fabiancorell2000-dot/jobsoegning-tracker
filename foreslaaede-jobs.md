@@ -2,6 +2,143 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-16
+
+Første kørsel under de løsnede kriterier fra pkt. 30-34 (tilføjet efter to dage i
+træk, 09-14 og 09-15, med 0 forslag). Tre parallelle søgespor kørt via
+underagenter, samme opdeling som seneste kørsler: LinkedIn (enkeltord-titelsøgninger,
+OR-kombinerede søgninger, niveau+indhold-søgninger, samt den fulde tier
+2-4-konsulenthusliste fra pkt. 28), Jobindex RSS (32 citerede enkeltordsforespørgsler)
+sammen med Indeed.dk/StepStone.dk/Glassdoor DK, samt career-site-tjek af den fulde
+liste fra pkt. 20 plus konsulenthustiers fra pkt. 24/28. Resultat: **2 forslag i dag**,
+begge fra LinkedIn-sporet, CV og ansøgning genereret og sendt til Fabian for begge.
+
+**Forslag 1: Danske Bank — Junior Business Analyst**
+- Lokation: København (Danske Bank hovedkontor, Holmens Kanal/Bernstorffsgade-området, S-tog/metro)
+- Link: https://www.linkedin.com/jobs/view/4467717361
+- Opslået: ~20 timer før tjek. Ansøgningsfrist: 30. september 2026 (men "review on ongoing basis, apply ASAP")
+- Fuldtid: bekræftet. Team: Regulatory Control Systems Squad. Sprog: engelsk.
+- Løn: ikke angivet (almindelig risiko, ikke afklaret på et gæt, jf. pkt. 7).
+- Begrundelse: stærkt match til brobygger-rollen mellem forretning og IT, kravene er
+  bredt formuleret (analytisk relevant uddannelse, nysgerrighed på finans/teknologi,
+  SQL/finans/AI kun som "advantageous") uden krav om avanceret SQL eller specifik
+  IT-erfaring. Minder om det analytiske data-undersøgelses- og
+  stakeholder-oversættelsesarbejde Fabian laver hos COWI (Power BI, datastrukturer,
+  samarbejde med Payroll/Finance/HR) og KPI-arbejdet hos Skattestyrelsen. Ærlig
+  svaghed: 182 ansøgere allerede, en del konkurrence, om end forventeligt for
+  Danmarks største bank. Opslaget navngiver to kontaktpersoner uden at angive hvem
+  der er relevant modtager, så ansøgningen er stilet til teamet i stedet for at gætte.
+
+**Forslag 2: Corpay — Commercial Excellence Specialist, CRM/HubSpot**
+- Lokation: København NV, Bygmestervej 5 (Bispebjerg S-station, ~7 min gang, ingen bus)
+- Link: https://dk.linkedin.com/jobs/view/commercial-excellence-specialist-crm-hubspot-at-corpay-4437020948
+- Opslået: ~1 uge før tjek. Ansøgningsfrist: ikke angivet.
+- Fuldtid: bekræftet. Team: Commercial Excellence Team (International Vehicle Payments). Sprog: engelsk.
+- Løn: DKK 40.000-45.000/md eksplicit angivet, klarer grænsen med god margin.
+- Begrundelse: direkte match til HubSpot-CRM-erfaringen fra Teknologiens Mediehus
+  (fuld salgscyklus, kundedata) kombineret med Power BI/rapporterings-siden fra
+  COWI, en usædvanlig præcis kombination af de to profiler Fabian faktisk har.
+  Corpay (tidligere FLEETCOR) er en stor, etableret global betalingsvirksomhed, ikke
+  en startup. Denne specifikke stilling blev frasorteret i en tidligere kørsel
+  (09-12/09-13) udelukkende fordi kravet om "3-5+ års erfaring" dengang lå over det
+  daværende loft på 2-4 år, se pkt. 31 i CLAUDE.md, der eksplicit nævner netop dette
+  opslag som et eksempel der bør genovervejes efter loftet blev hævet til ~5 år.
+  Ærlig svaghed: 144 ansøgere allerede, og 3-5 år er i den øvre ende af det nu
+  accepterede erfaringsniveau.
+
+**Ansøgningsmateriale genereret og sendt for begge:** CV og ansøgning på engelsk
+(matcher begge opslags sprog), begge kvalitetstjekket ved to adskilte gennemlæsninger
+(indhold/fakta, derefter sprog/layout) af de renderede PDF-billeder. Filer:
+`Fabian_Hansen_CV_DanskeBank.docx`, `Fabian_Hansen_Ansogning_DanskeBank.docx`,
+`Fabian_Hansen_CV_Corpay.docx`, `Fabian_Hansen_Ansogning_Corpay.docx`.
+
+**Nykredit — "Specialist i Quality Assurance Data" dukkede op igen i dagens
+LinkedIn-søgning**, men er samme rolle som allerede foreslået og sendt til Fabian
+2026-09-05, ikke et nyt forslag (bekræftet uændret flere gange siden).
+
+**Impact Fund Denmark — People Analytics & Rewards Specialist dukkede op igen**
+(samme opslag som 09-15's grænsetilfælde). Fravalgt af samme grund som i går:
+behandlet som omfattet af det hårde offentlig sektor-fravalg (tidligere IFU,
+statslig udviklingsfinansieringsinstitution), en vurdering Fabian eksplicit
+bekræftede skulle stå ved magt uændret samme dag (pkt. 32). Ingen ny vurdering.
+
+**Borderline-kandidater overvejet, ikke foreslået:**
+- **Copenhagen Offshore Partners — Junior Analyst for Procurement Excellence**
+  (Orientkaj 22, Nordhavn, metro, opslået for 4 dage siden, fuldtid, eksplicit intet
+  erfaringskrav, etableret privat selskab under Copenhagen Infrastructure Partners).
+  Ikke foreslået: indholdet er reelt indkøbs-/leverandøradministration snarere end
+  BI/rapportering/CRM, kun svagt overlap til Fabians faktiske profil, og løn er
+  ikke angivet. Nævnes for fuldstændighedens skyld, ikke en klar afvisning.
+- **KAR+CO / 1st Mile ApS — Market, Financial and Business Analyst for the Green
+  Transition** (Kongens Lyngby). Rimeligt indholdsmatch, men virksomheden har kun
+  ca. 10 specialister (under pkt. 33's gulv på ~20-25 medmindre del af en koncern)
+  og lokationen (Diplomvej 381, DTU Science Park-området) kunne ikke bekræftes som
+  gangafstand fra Kgs. Lyngby station uden busskifte (pkt. 25's no-bus-regel). Begge
+  usikre, men tilstrækkeligt til ikke at foreslå.
+- **AP Pension — Risikoanalytiker til Risikostyring**: lokation/sektor fin, men
+  kravene kunne ikke fuldt verificeres (career-portal renderede ikke jobdetaljer),
+  og det ligner et kvantitativt risiko-/aktuar-match snarere end Fabians
+  BI/rapporterings-profil.
+- **North Consulting — Management Consultant, Commercial Excellence**: fortsat samme
+  evergreen-status som 09-13 ("we do not currently anticipate additional hiring in
+  2026"), ingen ændring.
+- **Flatpay — Funnel Optimisation Analyst** og **OrderYOYO — Business Analyst**:
+  begge nu i spil på virksomhedstype efter pkt. 30 (Flatpay/OrderYOYO nævnt
+  eksplicit som revurderes-eksempler), men begge kræver reelt Python til
+  data-transformation/modellering (OrderYOYO også regression/klassifikation/
+  clustering-modeller), et avanceret programmeringskrav der ligger uden for Fabians
+  profil uafhængigt af virksomhedstype-spørgsmålet. Fortsat fravalgt, nu på et andet
+  grundlag end tidligere.
+
+**Øvrige nye opslag fundet og frasorteret efter verifikation (alle spor):**
+Danmarks Skibskredit (Operations Transformation Manager, erfaren/leder-profil),
+Inact ApS (Business Consultant, udløbet), ECIT Solutions (Solution Manager,
+leder-/5+-års-profil), KMD (Executive Assistant & Commercial Excellence
+Coordinator, Ballerup), Coor Service Management (Data Management Lead,
+leder-titel), Stadsing/MyDefence (Nørresundby/Jylland), PowerCon (Hobro/Jylland),
+Tryg x2 (fortsat Ballerup), Lidl og KnowledgeCotton Apparel (begge reelt Aarhus C
+trods Storkøbenhavn-tag), Norlys (Copenhagen-mulighed, men SQL/Snowflake/dbt "at a
+high level", avanceret dataingeniør-profil), Københavns Lufthavne (samme
+SQL/Databricks-mønster som tidligere), EIFO (statsejet + senior), Annalect Nordics
+Data Science Consultant (R/Python/SAS/VBA/SQL-krav), Ascendis Pharma D365 Business
+Analyst (IT-platformsrolle), LEMAN Group BI Analyst (Greve Strand, ~43 min, over
+35-min-grænsen), PA Consulting Defence-rolle (sikkerhedsgodkendelse + senior),
+Idura GRC Analyst (senior). Desuden en lang række allerede kendte
+senior/leder-titler, offentlige opslag (Politi, PET, Rigsrevisionen,
+Vejdirektoratet, Banedanmark, en række kommuner/regioner, DSB, Metroselskabet,
+Amgros, EIFO), Ballerup-opslag og Netcompany-roller (fortsat ingen synlig
+"Netcompany Advisory"-enhed), alle uden ny vurdering.
+
+**Konsulenthus-tier 2-4-gennemgang (pkt. 28):** ingen nye kvalificerende opslag.
+Kvadrant (fortsat min. 2 års managementkonsulent-krav på begge roller), PFA
+Pension, Maersk, Intellishore, Carve Consulting, BearingPoint, EY-Parthenon
+(Autumn 2027 bekræftet), Cognizant Consulting, Devoteam (0 opslag), TCS (403)
+gennemgået, alle uden match. Mannaz's career-URL kunne ikke lokaliseres, følg op
+en anden gang. Nye boutique-konsulenthuse søgt efter: Commerzial P/S (DNS-fejl 3.
+kørsel i træk) og Mindmill (bekræftet ren outbound-telesalg i Jylland) allerede
+kendte, ingen genuint nye navne fundet i dag.
+
+**Tekniske noter fra dagens tre søgespor:**
+- LinkedIn: enkeltord-`/jobs/search/`-formatet fortsat pålideligt. `/jobs/view/<id>`
+  fungerer godt til verifikation (fuld kravtekst, løn, frist, ansøgertal). Det
+  OR-kombinerede `/jobs/search-results/?...geoId=...&f_C=...`-format (pkt. 23/29)
+  ramte login-væggen i dag, kun den almindelige `/jobs/search/`-sti virkede.
+  Firmanavn-OR-søgninger skal have `location=`-parameter med, ellers defaulter de
+  til amerikanske resultater. `linkedin.com/company/<navn>/jobs/` giver 404, ikke en
+  brugbar genvej.
+- Jobindex RSS: alle 32 forespørgsler gennemført uden fejl i dag. `geoarea=
+  storkoebenhavn` fortsat upålidelig. Indeed.dk og Glassdoor DK fortsat konsekvent
+  HTTP 403 (nu 5+ kørsler i træk), StepStone.dk fortsat ingen brugbar søge-URL.
+  Anbefaling fastholdt: nedgradér disse tre til månedlig kadence som ofir.dk/
+  jobsafari.dk, medmindre adgangsmetoden ændrer sig.
+- Career-sites: karrierevejviser.dk fortsat en pålidelig sekundær kilde for
+  JS-shell-blokerede primærsider (virkede i dag for Pandora, SEB, ISS, Novonesis,
+  Danske Bank, Coloplast, KMD, Maersk, Topdanmark, Alm. Brand, AP Pension), anbefales
+  som fast første fallback fremover. Nykredits talent-soft-endpoint og DFDS'
+  Danmark-specifikke teamtailor.com/jobs.json fortsat pålidelige. Annalect (503) og
+  copenhagenconsulting.dk (503) fortsat utilgængelige. Nordeas career-URL'er gav 404
+  i dag, den korrekte søge-URL bør findes til en fremtidig kørsel.
+
 ## 2026-09-15
 
 Ingen forslag i dag, 0 opslag bestod alle kriterier. Samme mætningsmønster som
