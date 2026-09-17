@@ -2,6 +2,144 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-17
+
+Tre parallelle søgespor kørt via underagenter (LinkedIn, Jobindex RSS/Indeed/
+StepStone/Glassdoor, career-sites inkl. konsulenthus-tier 2-4). Før dagens søgning
+blev der fundet og rettet en driftsfejl: lokal `main`-branch var 10 commits bagud
+af en tidligere kørsel der committede i detached HEAD-tilstand uden at pushe,
+dette er nu synkroniseret med origin (ingen indholdsmæssig ændring, kun en
+git-hygiejnefejl fra en tidligere kørsel). **Resultat: 2 forslag i dag**, begge fra
+LinkedIn-sporet, CV og ansøgning genereret og sendt til Fabian for begge.
+
+**Forslag 1: WPP Media — People Operations & Analytics**
+- Lokation: Holmbladsgade 133, 2300 København S. Transport: metro (M3 fra Nørreport
+  med omstigning ved Kongens Nytorv til Vermlandsgade, ca. 25-30 min i alt, ingen bus).
+- Link: https://www.linkedin.com/jobs/view/4465583997
+- Opslået: ~1 dag før tjek. Ingen frist angivet. Fuldtid bekræftet. Sprog: dansk.
+- Erfaringsniveau: Entry level, og opslaget skriver eksplicit "Du behøver ikke have
+  mange års erfaring" (verificeret ordret ved selvstændigt WebFetch-tjek af rutinen,
+  ikke kun underagentens rapport).
+- Løn: ikke angivet (almindelig risiko, jf. pkt. 7).
+- Navngiven kontaktperson: Johan Hillers, Talent Lead.
+- Begrundelse: direkte match til People Analytics-titlen (en af de eksplicit
+  prioriterede titler). Opslagets ønske om nysgerrighed på AI til rapportering og
+  procesoptimering matcher usædvanligt præcist Fabians daglige arbejde med at bygge
+  AI-agenter i Microsoft Copilot hos COWI, samt vedligehold af medarbejderdata og
+  datastrukturen bag Engagement Survey for 7.500+ medarbejdere. Ærlig svaghed:
+  opslaget læner mere mod HR-drift/systemadministration (brugeradgange,
+  onboarding/offboarding) end egentlig BI-analyse, Power BI nævnes ikke eksplicit i
+  opslaget, kun generel Excel og "People Analytics-rapportering" som én af flere
+  opgaver. 37 ansøgere.
+
+**Forslag 2: TDC Erhverv (Nuuday) — Data Governance Specialist**
+- Lokation: Teglholmsgade 1, København. Transport: metro (M4 fra Nørreport med
+  omstigning ved Kongens Nytorv til Enghave Brygge, ca. 25-27 min i alt, ingen bus).
+- Link: https://dk.linkedin.com/jobs/view/data-governance-specialist-at-tdc-erhverv-4467704849
+- Opslået: ~1 dag før tjek. Frist: 30/11/2026 (lang frist, tyder på løbende rekruttering).
+  Fuldtid bekræftet. Sprog: engelsk.
+- Erfaringsniveau: LinkedIns egen tag er "Entry-level (Nyuddannet)", men selve
+  kravteksten er vagt formuleret ("sufficient years' experience in data management
+  and data governance") uden et konkret tal. Vurderet efter pkt. 34 (indhold frem
+  for label) som acceptabelt, men det er den svageste del af matchet, se nedenfor.
+- Løn: ikke angivet.
+- Navngiven kontaktperson: Paul Makkar.
+- Begrundelse: direkte match til Data Governance Analyst-titlen (en af de eksplicit
+  prioriterede titler), og indholdet (support til Data Domain Owners/Data Stewards,
+  datakvalitet, semantisk modellering) minder om Fabians ejerskab af datastrukturen
+  bag COWI's Engagement Survey og Workplace Assessment Survey samt det tværlande-
+  stakeholder-samarbejde med HR/løn/finans. Ærlig svaghed: "sufficient years'
+  experience"-formuleringen er vag og kunne reelt dække et mere erfarent profil end
+  tiltænkt, det svageste af de to forslag i dag, men underbygget af LinkedIns egen
+  entry-level-tag og ingen eksplicit års-tal.
+
+**Ansøgningsmateriale genereret og sendt for begge:** CV og ansøgning på hhv. dansk
+(WPP Media) og engelsk (TDC Erhverv), matcher begge opslags sprog. Begge sæt
+kvalitetstjekket ved to adskilte gennemlæsninger af de renderede PDF-billeder
+(indhold/fakta, derefter sprog/layout). Én rettelse undervejs: TDC-ansøgningens
+første udkast fremstillede SQL som en central, daglig aktivitet i sig selv
+("I query, transform and model data in SQL..."), i strid med `profile.json`s
+eksplicitte SQL-fremstillingsregel, rettet til at have Power BI/datamodellering som
+kernen og SQL som understøttende, før filen blev sendt. Filer:
+`Fabian_Hansen_CV_WPPMedia.docx`, `Fabian_Hansen_Ansogning_WPPMedia.docx`,
+`Fabian_Hansen_CV_TDCErhverv.docx`, `Fabian_Hansen_Ansogning_TDCErhverv.docx`.
+Bemærk driftsfejl rettet i dagens kørsel: containeren manglede `libreoffice-writer`
+og `poppler-utils` (kun `libreoffice-core` var forudinstalleret), præcis det
+scenarie README'en advarer om, begge blev installeret før rendering.
+
+**Near-miss overvejet grundigt, ikke foreslået (lokationsusikkerhed):**
+- **Spejder Sport A/S — Merchandiser Analyst til beklædning og outdoor-udstyr**
+  (Lejrvej 13, Kirke Værløse). Indholdsmæssigt usædvanligt stærkt match (analytisk,
+  Excel VLOOKUP/SUMIFS/pivot, Business Central/Power BI som plus, intet eksplicit
+  erfaringskrav, etableret privat 80 år gammel virksomhed), men Lejrvej 13 ligger i
+  selve Kirke Værløse-bebyggelsen, ca. 2 km/20+ min gang fra Værløse S-station uden
+  bekræftet direkte gangrute, sandsynligvis kræver bus, hvilket ville bryde pkt. 25's
+  no-bus-regel og samlet ligge over 35-minuttersgrænsen. Opslaget nævner selv en
+  planlagt fremtidig flytning tættere på København/en metrostation, men det er
+  fremtid, ikke nutid. Link: https://www.jobindex.dk/vis-job/h1699220, opslået
+  16/9, frist 22/9 (løbende). Nævnes for Fabians egen vurdering givet den stramme
+  frist, men ikke medtaget som et forslag af rutinen selv, da transporten ikke
+  kunne bekræftes inden for grænsen.
+
+**Øvrige nye opslag fundet og frasorteret efter verifikation (alle tre spor):**
+DLF Seeds A/S Business Analyst (Smørum/Kildedal, lokationstiming ikke bekræftet
+under 35 min), Zeppelin Danmark og EG A/S Business Analyst-roller (begge Jylland),
+Resights Business Analyst og Business Analyst (Sabbatår) (målgruppe gymnasieelever/
+sabbatår, for ungt profil, intet BI/rapporterings-indhold), IN Groupe MitID Business
+Analyst (Java/Spring Boot-udviklerprofil), LEGO Associate Manager Insights &
+Analytics (specifikke social-listening-værktøjer Fabian ikke har) og LEGO Master
+Data Manager (12-14 måneders tidsbegrænset kontrakt, SAP-krav), StockRate Asset
+Management Analytiker (Hørsholm, kræver bus fra Kokkedal), Centrum Personale
+anonym forsikrings-/kapitalforvaltningsstilling (arbejdsgiver ikke oplyst, sektor/
+lokation/virksomhedsstørrelse kunne ikke verificeres), Altandetlige.dk/Banedanmark
+strategisk planlægnings-roller (offentlig, hård fravalg). Implement Consulting
+Group "AI Business Analyst" overvejet som grænsetilfælde (teknisk AI-implementering/
+workshop-facilitering snarere end Fabians BI/data-analytiker-profil, nævnes for
+Fabians egen vurdering). Danske Bank Investment Banking Analyst (ny i dag, kunne
+ikke fuldt verificeres pga. 403, formentlig finans-/MSc-tungt profil, ikke forfulgt
+videre). AP Pension Risikoanalytiker fortsat uverificerbar (jobbank.dk 403, samme
+som 09-16). Nykredit Quality Assurance Data-rollen og Impact Fund Denmark People
+Analytics-rollen dukkede op igen, ingen ny vurdering (allerede foreslået hhv.
+fravalgt under det hårde offentlig sektor-fravalg). En lang række allerede kendte
+frasorteringer (senior/leder-titler, Ballerup, Netcompany, offentlig sektor
+inkl. Politi/PET/Forsvaret/Skatteankestyrelsen/Fødevarestyrelsen/DTU/Region
+Midtjylland, samt tidligere set virksomheder uden nye opslag) uden ny vurdering.
+
+**Nye konsulenthuse fundet (pkt. 24's opfordring til aktivt at finde flere):**
+Zangenberg Analytics (kun en udløbet deltids-studenterrolle fundet), Copenhagen
+Economics (kun uopfordret-ansøgning åben), Innologic (ingen aktive opslag fundet),
+samt ChangeGroup/Voluntås/Hildebrandt & Brandi identificeret men ikke fuldt
+verificeret i dag, flag til en fremtidig kørsel.
+
+**Tekniske noter fra dagens tre søgespor:**
+- LinkedIn: enkelt-søgeord-formatet (`/jobs/search/?keywords=...&f_TPR=...&f_JT=F`)
+  og `/jobs/view/<id>`-verifikation fortsat pålidelige. Det OR-kombinerede
+  `/jobs/search-results/?...geoId=...`-format (pkt. 23/29) ramte login-væggen igen i
+  dag, samme mønster som alle tidligere forsøg siden det blev introduceret, overvej
+  at nedprioritere denne teknik fremover medmindre noget ændrer sig.
+  `linkedin.com/jobs/view/<id>` redirecter ofte 301 til en slugget
+  `dk.linkedin.com/...`-URL, kræver et ekstra fetch-trin.
+- Jobindex RSS: alle ~37 enkeltord-forespørgsler gennemført uden fejl.
+  `geoarea=storkoebenhavn` fortsat upålidelig, størstedelen af rå hits er
+  Jylland/Fyn eller offentlig sektor. Bekræftet pagineringsloft på 20 hits pr.
+  bredt enkeltordssøgning.
+- Indeed.dk og Glassdoor DK: fortsat konsekvent HTTP 403 på direkte WebFetch (nu 6+
+  kørsler i træk). StepStone.dk: nu HTTP 200 men bekræftet ren JS-skal uden
+  indlejret jobdata (samme fund som 09-15). Alle tre fortsat reelt ubrugelige via
+  automatiseret hentning.
+- Career-sites: karrierevejviser.dk (`karrierevejviser.dk/en/companies/<id>/jobs/<slug>/`)
+  bekræftet som en effektiv primær genvej for JS-skal-blokerede career-sites, virkede
+  i dag for Danske Bank, Ørsted, PensionDanmark, Alm. Brand, AP Pension, ISS, Falck,
+  DSV, KMD, SimCorp, Demant, Coloplast, Novonesis, anbefales som fast første skridt
+  fremover. PFA Pensions eget site (pfa.dk) var direkte hentbart i dag, brug denne
+  fremfor SuccessFactors-linket. Pandoras career-site: kun
+  sapcareerssite.pandoragroup.com/go/Digital-&-Technology/ bekræftet levende, øvrige
+  deep links 404'er trods friske søgeresultater. Annalect (503) og North Consulting
+  (DNS-fejl i dag, anden fejltype end tidligere "ingen ansættelse i 2026") fortsat
+  utilgængelige. Devoteam fuldt afklaret via SmartRecruiters, kun Aarhus-opslag
+  lige nu. Netcompany Advisory fortsat ikke lokaliserbar som selvstændig enhed,
+  samme fund som alle tidligere kørsler.
+
 ## 2026-09-16
 
 Første kørsel under de løsnede kriterier fra pkt. 30-34 (tilføjet efter to dage i
