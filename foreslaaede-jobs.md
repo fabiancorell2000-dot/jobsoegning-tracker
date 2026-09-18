@@ -2,6 +2,103 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-18
+
+Fire parallelle søgespor kørt via underagenter (LinkedIn, Jobindex RSS +
+Indeed/StepStone/Glassdoor + ofir.dk/jobsafari.dk, career-sites for den
+navngivne liste af etablerede virksomheder, career-sites/LinkedIn/Jobindex for
+den fulde konsulenthus-liste inkl. tier 2-4). **Resultat: 0 forslag i dag.**
+Ingen opslag bestod alle hårde krav på tværs af nogen af de fire spor, derfor
+intet CV/ansøgningsmateriale genereret i dag.
+
+**Mønster på tværs af alle fire spor:** jobpoolen er stærkt mættet efter nu
+8+ sammenhængende kørsler med denne metodik, samme genkommende virksomheder/
+opslag dukker op dag efter dag, allerede logget og frasorteret. Ingen af
+sporene fandt nye virksomheder eller titler, der ikke allerede er dækket.
+
+**Bemærkelsesværdige near-misses, alle korrekt frasorteret på et hårdt
+kriterium (ingen handling påkrævet, kun til log):**
+- Deloitte — Management Consultant, Strategy & Performance: stærkt
+  nyuddannet-match, men graduate-intake med startdato 1. september 2027 (jf.
+  pkt. 4).
+- KPMG — Salesforce Consultant, Customer & Growth: kun ~1 års krav, men
+  kræver Salesforce-certificering/hands-on Salesforce-implementering, uden
+  for profilen (HubSpot, ikke Salesforce).
+- Nykredit — Funktionschef til Data og Indsigter: stærkt indholdsmatch, men
+  eksplicit lederstilling.
+- Nordea — Sr. Marketing Automation Specialist: "Sr."-titel, hårdt fravalgt.
+- Coloplast — Statistical Programmer: kræver SAS/Python/PySpark på
+  specialistniveau, uden for profilen.
+- Novonesis — Master Data Lead: eksplicit "Lead"-titel.
+- Radiometer — Digital Transformation Specialist: kræver ingeniør-
+  kandidatgrad plus SQL/Python/JavaScript på specialistniveau.
+- Pandora — to Business Analyst-opslag (Data & Reporting; Data &
+  Analytics) fundet via søgning, men begge dybe links gav HTTP 404, og
+  SAP-karrieresiden kunne ikke renderes direkte, kunne ikke verificeres som
+  reelt aktive (samme mønster som alle kørsler siden 09-11). Nævnes til
+  Fabians egen manuelle vurdering, hvis han selv vil tjekke.
+- Flatpay BI Analyst dukkede op igen via Jobindex, men er samme opslag som
+  allerede foreslået tidligere (ikke en ny kandidat).
+- Øvrige gennemgåede og frasorterede: Gnosis by Lesaffre, Coop Danmark,
+  Telenor, GANNI, Astek, Nord Collection (alle manager-titler), Trustpilot
+  Associate Data Scientist (kunne ikke verificeres, sandsynligvis
+  specialist-fravalg), Accenture Martech-konsulent (usikker platformsmatch,
+  ikke forfulgt pga. stort-brand-nedprioritering), PA Consulting (kun
+  director-/forsvars-/offentlig-roller), Valcon (graduate-intake udsolgt,
+  kun senior rolle tilbage), Knowit/Kopenhagen Konsulting/BearingPoint/
+  Emendo/Intellishore/EY-Parthenon/Devoteam (alle kun senior/lead-titler),
+  Mannaz/Bridge Consulting/Copenhagen Data/Carve Consulting (ingen åbne
+  stillinger lige nu), DFDS Digital Integration Analyst (udløbet, HTTP 410).
+
+**Tekniske noter (til fremtidige kørsler):**
+- Jobindex RSS: fungerer fuldt ud, alle enkeltords-/kortfraseforespørgsler
+  kørte uden fejl. `geoarea=storkoebenhavn` filtrerer fortsat ikke pålideligt
+  (Jylland/Fyn-hits blandet ind). Brede forespørgsler ("junior", "analyst",
+  "konsulent") lofter ved præcis 20 hits pr. hentning, ingen paginering
+  tilgængelig.
+- Indeed.dk: fortsat HTTP 403 på alle direkte hentninger (nu 7+
+  sammenhængende kørsler), kun indirekte WebSearch-snippets tilgængelige.
+- StepStone.dk: forsiden renderer nu indhold, men selve søgeresultatsiderne
+  er stadig en JS-skal uden individuelle opslag i den hentede HTML, fortsat
+  reelt ubrugelig. Selvbeskriver sig desuden som primært for
+  "ledere"/executives, strukturelt skævt mod senior-roller.
+- Glassdoor DK: fortsat HTTP 403 på direkte hentning.
+- ofir.dk: tjekket (månedlig kadence), fortsat HTTP 410 på direkte
+  forespørgsels-URL, samme fejl som alle tidligere kørsler.
+- jobsafari.dk: tjekket (månedlig kadence), fortsat permanent redirect til
+  Jobindex' forside, reelt nedlagt.
+- karrierevejviser.dk fungerede igen i dag som pålidelig fallback for
+  JS-skal-blokerede career-sites (Danske Bank, Ørsted, PensionDanmark, SEB,
+  PFA, Alm. Brand, Topdanmark, AP Pension, Nordea, Maersk, DSV, SimCorp, KMD,
+  Coloplast, ISS, Falck, Novonesis, Demant) — anden kørsel i træk det
+  bekræftes nyttigt, værd at bruge som førstevalg fremover ved JS-blokerede
+  sider.
+- SEB, Topdanmark, KMD, Falck: karrierevejviser.dk bekræfter 0 åbne
+  stillinger firmabredt lige nu.
+- Implement Consulting Group: SmartRecruiters-listen
+  (careers.smartrecruiters.com/ImplementConsultingGroup) renderede fuldt og
+  pålideligt i dag, brug denne fremover frem for implementconsultinggroup.com
+  (som giver 404).
+- Kopenhagen Konsulting: career-siden er flyttet til
+  kopenhagenkonsulting.hr-on.com (via kopenhagenkonsulting.com/karriere),
+  virkede fint i dag, tidligere logget som 503-blokeret.
+- Mannaz career-side er flyttet til career.hitalento.com/mannaz-a-s/, ingen
+  åbne stillinger lige nu.
+- LinkedIns OR-kombinerede søgeteknik (pkt. 23/29,
+  /jobs/search-results/?...geoId=...) ramte login-mur igen i dag, nu 7.
+  sammenhængende kørsel med samme resultat. Overvej at nedprioritere denne
+  teknik fremover til fordel for enkelt-søgeord-formatet, som fortsat
+  virker pålideligt.
+
+**Forslag til fremtidig kadence (kun til Fabians overvejelse, ingen ændring
+foretaget af rutinen selv):** Konsulenthus-listen (pkt. 24/28) og de 25
+navngivne etablerede virksomheder (pkt. 20) er nu tjekket grundigt 8+ dage i
+træk med identiske nul-resultater og samme genkommende fravalgsårsager
+(senior-titler, offentlig sektor, specialist-krav, 2027-startdatoer). Kunne
+overvejes tjekket hver 2.-3. dag i stedet for hver kørsel, for at frigive
+søgekapacitet til andre spor — men dette er en observation til Fabians egen
+beslutning, ikke en ændring rutinen har foretaget selv.
+
 ## 2026-09-17
 
 Tre parallelle søgespor kørt via underagenter (LinkedIn, Jobindex RSS/Indeed/
