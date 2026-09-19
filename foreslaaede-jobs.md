@@ -2,6 +2,119 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-19
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste
+kørsler (LinkedIn; Jobindex RSS + Indeed.dk/StepStone.dk/Glassdoor DK;
+career-sites for den navngivne etablerede virksomhedsliste pkt. 20 samt
+konsulenthus-tier 2-4 pkt. 28, inkl. aktiv søgning efter nye boutique-
+konsulenthuse jf. pkt. 24). Ofir.dk/jobsafari.dk sprunget over jf. den
+månedlige kadence (senest tjekket 2026-09-18). **Resultat: 0 forslag i dag.**
+Ingen opslag bestod alle hårde krav på tværs af nogen af de tre spor, derfor
+intet CV/ansøgningsmateriale genereret. Nu 11. sammenhængende kørsel med 0-2
+forslag/dag, puljen er fortsat stærkt mættet.
+
+**Grænsetilfælde overvejet, ikke foreslået (til Fabians egen vurdering):**
+- **NielsenIQ — Analytical Consultant** (København/Ørestad, metro, ingen bus).
+  Link: https://dk.linkedin.com/jobs/view/analytical-consultant-at-nielseniq-4468033576.
+  Opslået ~8 timer før tjek, "vær blandt de første 25 ansøgere" (lav
+  konkurrence-signal, jf. pkt. 9). Erfaring: 1-2 år inden for
+  retail/FMCG/markedsanalyse/analytics, komfortabelt inden for det hævede
+  loft. Etableret privat, global markedsanalysevirksomhed, intet
+  virksomhedstype-problem. Indholdsmæssigt et reelt match: omsætter
+  retail-/FMCG-data til indsigter, præsentationer og anbefalinger til kunder,
+  tæt på Fabians Power BI/storytelling-med-data-arbejde hos COWI. **Tre
+  uafklarede risici, derfor ikke et rent forslag:** (1) 11 måneders
+  tidsbegrænset kontrakt, ikke en fastansættelse, (2) rollen sidder i
+  NielsenIQs Customer Success-organisation, og opslaget efterspørger
+  "analytical/sales experience i client-facing roller" og evne til at "build
+  trust and drive engagement" — kunne ikke fra opslaget alene afklare om
+  Fabian ville blive målt på kunde-/relationsmål, hvilket ville være i strid
+  med pkt. 8's hårde salgs-/Customer Success-fravalg (Revenue/Sales
+  Operations Analyst-undtagelsen dækker ikke tydeligt denne rolletype), (3)
+  lønspand angivet til 384.500-530.849 kr./år (~32.041-44.237 kr./md), hvor
+  konsulent-grænsen på 34.000+ kun er sikret i den øvre del af spandet, ikke
+  hele vejen. Nævnes eksplicit pga. den lave konkurrence og friske opslag,
+  men rutinen har ikke selv afgjort tvivlen på et hårdt kriterium (pkt. 8).
+
+**Øvrige nye opslag fundet og frasorteret efter verifikation (alle tre spor):**
+StockRate Asset Management (Analytiker til Operations, Hørsholm — ingen
+direkte togforbindelse fra Nørreport, samlet transport vurderet over
+35-minuttersgrænsen selv efter Kokkedal-omstigning), Blue Water Shipping
+(Product Owner, HR Platforms, Esbjerg/Aarhus), Riis Retail (Masterdata
+Specialist, Kolding), Grant Thornton (Business Analyst, udløbet opslag fra
+november 2025), Danmarks Skibskredit (nyt "Junior Data & AI
+Analyst"-studenterjob, deltid/studenterrolle, fuldtidskrav overtrådt),
+Valcon Medical A/S (uafhængig virksomhed, ikke Valcon-konsulenthuset, trods
+navnesammenfald), Nykredit "Business Analyst i Banking Technology" (viste
+sig at være en lederstilling i Aalborg), Implement Consulting Group (8 friske
+Graduate-opslag, alle del af 2027-intaget, samme startdato-fravalg som
+tidligere), Obsidian (PPC/Google Ads-konsulentrolle, reelt marketing-
+eksekvering ikke data/analyse, løn 32-40k under konsulentgrænsen i den lave
+ende), Deloitte Management Consultant Strategy & Performance og Alvarez &
+Marsal Analyst (begge 2027-startdatoer, allerede kendt fravalgsmønster).
+Desuden en lang række allerede kendte frasorteringer (offentlig sektor inkl.
+Skatte- og Vækstministeriet/Banedanmark/Vurderingsstyrelsen/Fødevarestyrelsen/
+Finanstilsynet/ATP/Politi/PET/DSB/Københavns Kommune/Udenrigsministeriet/
+Forsvaret/DTU, Ballerup-opslag hos Tryg/Atea/Siemens/Aprismo, alle almindelige
+Netcompany-enheder uden for Netcompany Advisory-undtagelsen, samt Resights,
+Centrum Personale og Idura, alle uden ny vurdering).
+
+**Konsulenthus-tier 2-4 samt boutique-søgning (pkt. 24/28):** Tata Consultancy
+Services har ingen København-opslag. Kopenhagen Konsulting kun senior-/
+principal-titler. Another Consulting Firm og Copenhagen Consulting Company
+har ingen aktive opslag på LinkedIn lige nu. Kvadrant Consulting uændret
+(kun management consultant-krav om min. 2 års konsulenterfaring, en
+lederstilling, samt en deltids-studenterrolle). Emendo/Intellishore/Efficio/
+Mannaz/Devoteam/Knowit/BearingPoint/PA Consulting gav 0 relevante hits via
+Jobindex RSS i dag. **Nye boutique-konsulenthuse undersøgt (fundet via en
+Djøfbladet-rangliste), ingen gav et aktuelt kvalificerende opslag i dag, men
+to er verificerede reelle organisationer værd at holde øje med fremover:**
+Zangenberg Analytics (Pilestræde 52A, København K, reelt lille
+finans-IT-/sourcing-konsulenthus, men eneste åbne opslag er en deltids-
+studenterrolle med udløbet frist) og Hildebrandt & Brandi (etableret
+ledelseskonsulenthus, ingen konkrete graduate-/juniorpslag lige nu, kun
+uopfordrede ansøgninger). Prokura (mulig sammenhæng til Kearney, uafklaret,
+career-side gav 403), Innologic (ingen bekræftede opslag), ChangeGroup
+(freelance-konsulent-markedsplads, ikke en direkte arbejdsgiver) og Voluntås
+(kunne ikke verificeres som en reel organisation) gav ingen brugbart resultat.
+
+**Tekniske noter (til fremtidige kørsler):**
+- LinkedIn: den direkte `/jobs/search/?keywords=...&f_TPR=r1209600&f_JT=F`-metode
+  fortsat klart mest pålidelig og informationsrig. WebSearch
+  `site:linkedin.com/jobs`-forespørgsler fortsat mere støjfyldte/mindre
+  pålidelige, brug primært den direkte søgemetode fremover. `f_C=`-teknikken
+  (pkt. 23/29) ikke afprøvet i dag efter 7+ tidligere mislykkede forsøg.
+- Jobindex RSS: fortsat pålidelig for indholds-/niveauord, men bekræftet i
+  dag at firmanavns-forespørgsler (fx "Valcon", "Kvadrant", "BearingPoint")
+  stort set altid giver 0 `<item>`-elementer, RSS-feedet indekserer
+  tilsyneladende ikke pålideligt på arbejdsgivernavn. Brug fremover kun
+  indholds-/niveauord i RSS-forespørgsler, ikke firmanavne.
+- Indeed.dk: fortsat konsekvent HTTP 403 på direkte hentning, kun svage
+  aggregator-snippets via WebSearch, stadig ubrugelig som direkte kilde.
+- StepStone.dk: søgesider fortsat en JS-skal, men WebSearch fandt i dag
+  enkelte hentbare `/jobannonce/`- og `/vis-job/`-links, hvoraf flere
+  301-redirecter direkte til den tilsvarende Jobindex `h`-nummererede side
+  (deler tilsyneladende backend/opslagspulje med Jobindex for nogle
+  annoncer). Marginalt mere brugbar end tidligere antaget, værd at afprøve
+  igen, men lavt udbytte i dag (1 udløbet, 2 senior, 1 irrelevant).
+- Glassdoor DK: fortsat HTTP 403 på direkte hentning, kun generiske
+  aggregator-landingssider via WebSearch, ikke brugbar som direkte kilde.
+- Career-sites: karrierevejviser.dk fortsat den mest konsekvent nyttige
+  fallback for JS-skal-blokerede primærsider. PFA Pensions eget site
+  (pfa.dk) gav 404 i dag, brug karrierevejviser.dk som førstevalg for PFA
+  fremover. Thursday Consultings career-side gav HTTP 503 i dag (tidligere
+  "usædvanligt let at hente" 2026-09-12), muligvis forbigående, prøv igen.
+  Annalect/Omnicom fortsat HTTP 503 (nu mange sammenhængende kørsler),
+  samt Netcompany Advisory fortsat ikke lokaliserbar som separat enhed,
+  begge kandidater til at nedgraderes til månedlig kadence ligesom
+  ofir.dk/jobsafari.dk, hvis mønstret fortsætter.
+- Implement Consulting Group (SmartRecruiters): et cachet
+  Graduate-opslag viste en tilsyneladende inkonsistent frist ("26 October
+  2025" for "Graduates 2026"), sandsynligvis et indekseringsartefakt fra
+  sidste års kohorte-side. Værd at genverificere direkte (ikke via
+  søgecache) i en fremtidig kørsel, da konsulentroller er højt prioriteret.
+
 ## 2026-09-18
 
 Fire parallelle søgespor kørt via underagenter (LinkedIn, Jobindex RSS +
