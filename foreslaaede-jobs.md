@@ -2,6 +2,29 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-20 (Fabians eget valg)
+
+**NielsenIQ — Analytical Consultant** (grænsetilfælde logget 2026-09-19, se
+nedenfor) opgraderet til et reelt forslag efter Fabian selv direkte bad om
+CV og ansøgning til stillingen, uanset den uafklarede tvivl om pkt. 8
+(salgs-/Customer Success-fravalg) som rutinen selv ikke turde afgøre i går.
+Dette er Fabians egen afgørelse af tvivlsspørgsmålet, ikke rutinens. CV
+(engelsk, `targetTitle: "Analytical Consultant"`, matcher opslagets sprog)
+og ansøgning (engelsk, hilsen "Dear Retailer Vertical Team," efter opslagets
+nævnte team, ingen navngiven kontaktperson) genereret og sendt. Ansøgningens
+brødtekst skrevet bevidst i en personlig, mindre "AI-poleret" tone efter
+Fabians eksplicitte ønske, varieret sætningslængde, konkrete detaljer fra
+selve opslaget (Retailer Vertical-teamet, FMCG-detailhandel, client
+trust/NPS), ingen tænkestreger eller kolon i brødteksten. Begge dokumenter
+kvalitetstjekket ved to adskilte gennemlæsninger af de renderede
+PDF-billeder (indhold/fakta, derefter sprog/layout), ingen fejl fundet, CV
+fylder 2 sider uden splittede blokke, ansøgning fylder 1 side. Filer:
+`Fabian_Hansen_CV_NielsenIQ.docx`, `Fabian_Hansen_Ansogning_NielsenIQ.docx`.
+De tre uafklarede risici fra i går (11 måneders tidsbegrænset kontrakt,
+Customer Success-tvivlen, lønspand der kun delvist klarer konsulentgrænsen)
+er ikke ændret af dette, kun nævnt her for sporbarhedens skyld, det er
+stadig Fabians eget bevidste valg at ansøge på trods af dem.
+
 ## 2026-09-19
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste
