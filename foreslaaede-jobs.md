@@ -2,6 +2,46 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-20
+
+Ét søgespor kørt via underagent (LinkedIn 72-timers-vindue for at fokusere på
+faktisk nye opslag ud over den allerede grundigt tjekkede 2-ugers-pulje;
+Jobindex RSS enkeltord; spotcheck af Nykredit/Enalyzer career-sites; Indeed.dk
+forsøgt). **Resultat: 0 forslag i dag.** Ingen opslag bestod alle hårde krav,
+derfor intet CV/ansøgningsmateriale genereret. Nu 12. sammenhængende kørsel
+med 0-2 forslag/dag, puljen fortsat stærkt mættet.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+- **UNICEF Danmark — Data Analysis Consultant** (København, Jobindex, opslået
+  18/9). Ved verifikation via UN-jobportaler (unjobs.org/untalent.org) viste
+  det sig at være en tidsbegrænset UN-individuel konsulentkontrakt (typisk
+  ~10-12 måneder/261 dage), ikke en almindelig fastansættelse. Supply
+  chain-data/dashboard-indholdet havde et vist overlap, men vurderet for
+  usikkert på det hårde fuldtidskrav til at foreslås.
+- NielsenIQ — Analytical Consultant dukkede op igen (samme opslag som
+  grænsetilfælde 2026-09-19: 11 mdr. tidsbegrænset kontrakt, Customer
+  Success-organisation, lønspand delvist under grænsen), ingen ny vurdering
+  nødvendig.
+
+**Øvrige mønstre:** Implement Consulting Group (7 nye "Graduate Management
+Consultant"-opslag, alle 2027-intag, samme fravalg som tidligere), Netcompany
+(flere opslag, hårdt firmafravalg uden for Netcompany Advisory), betydelig
+mængde offentlig sektor (Politi/PET, Forsvaret, Banedanmark,
+Vurderingsstyrelsen, Finanstilsynet, Fødevarestyrelsen, Skattestyrelsen, DTU,
+Hvidovre Kommune, Rigspolitiet, Roskilde Universitet m.fl., hårdt fravalgt
+jf. pkt. 19), Ballerup-opslag (Atea, Aprismo, Tryg, Ambu, Energinet, fravalgt
+jf. pkt. 27), samt en lang række tekniske/irrelevante roller (data
+engineering, SAP/D365-konsulenter, biostatistik).
+
+**Tekniske noter:**
+- Enalyzers career-side gav i dag HTTP 404 (tidligere tilgængelig), URL'en
+  ser ud til at være ændret/nedlagt, bør genfindes i en fremtidig kørsel.
+- Indeed.dk fortsat konsekvent HTTP 403, uændret fra alle tidligere kørsler.
+- Ikke nået i dagens kørsel pga. tidsprioritering: Annalect, DFDS, PFA, den
+  fulde konsulenthus-tier 2-4-liste, ofir.dk/jobsafari.dk/StepStone/Glassdoor
+  (alle på reduceret kadence jf. pkt. 22, bør genoptages i en kommende
+  kørsel for fuld dækning).
+
 ## 2026-09-19
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste
