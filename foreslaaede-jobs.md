@@ -2,6 +2,127 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-21
+
+Tre parallelle søgespor kørt via underagenter (LinkedIn; Jobindex RSS +
+Indeed.dk/StepStone.dk/Glassdoor DK; career-sites for den navngivne
+etablerede virksomhedsliste pkt. 20 samt den fulde konsulenthus-liste tier
+2-4 pkt. 24/28, inkl. aktiv søgning efter nye boutique-konsulenthuse).
+ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence (senest tjekket
+2026-09-18, ikke forfaldent endnu). **Resultat: 0 forslag i dag.** Ingen
+opslag bestod alle hårde krav på tværs af nogen af de tre spor, derfor intet
+CV/ansøgningsmateriale genereret. Nu 13. sammenhængende kørsel med 0-2
+forslag/dag, puljen fortsat stærkt mættet.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+- **LEMAN — Group Business Controller & BI Analyst** (Greve Strand). Stærkt
+  indholdsmatch (Power BI, SQL, variance-/performance-analyse, "ca. 3-5 års
+  erfaring", en af de tre navngivne eksempler i pkt. 31), men **uafklaret
+  lokationsmodsigelse mellem tidligere kørsler**: 2026-09-16 vurderede
+  transporten til ~43 min (over 35-minuttersgrænsen, fravalgt på lokation),
+  mens dagens beregning (Greve St. 4 min gang fra kontoret, S-tog til Hovedbanegården
+  ~22 min) lander på ~29 min (inden for grænsen). Kunne ikke selv afgøre
+  hvilket estimat er korrekt ud fra åbne kilder, og en forkert godkendelse
+  ville spilde reel indsats på ansøgningsmateriale til et job der måske
+  fejler et hårdt kriterium. **Anbefales tjekket manuelt af Fabian selv**
+  (fx via rejseplanen.dk for en reel dør-til-dør-tid) — indholdsmatchet er
+  usædvanligt stærkt, så det er værd at afklare. Link:
+  https://dk.linkedin.com/jobs/view/group-business-controller-bi-analyst-at-leman-4463427500
+- Verisure — Junior Business Controller (Glostrup): tematisk match
+  (finansiel rapportering/analyse, "junior"), lokation sandsynligvis lige
+  inden for 35-minuttersgrænsen, men hverken Jobindex- eller
+  Workday-siden viste den fulde kravtekst, så fuldtid, erfaringskrav og løn
+  kunne ikke verificeres. Nævnes til Fabians egen vurdering, ikke foreslået.
+- Implement Consulting Group — AI Business Analyst (Gentofte): "newly
+  graduated to more experienced" i opslaget, men modstridende signaler
+  (aggregator-sites tagger den internt som "Senior", og de efterspurgte
+  AI/GenAI-kompetencer lyder mere teknisk/specialiseret end Fabians praktiske
+  Copilot-agent-erfaring). Uafklaret tvivl, ikke foreslået.
+- DFDS — Data Consultant, Group Finance & Decarbonization: samme opslag som
+  navngivet i pkt. 31 (tidligere fejlagtigt fravalgt kun på erfaringskrav),
+  men ved fornyet gennemlæsning kræver rollen reelt at lede tværfaglige
+  leveranceteams af Data Engineers/BI-analytikere på tværs af lande —
+  rammer pkt. 31's eksplicitte teamledelses-eksempel. Korrekt fravalgt,
+  blot på et andet kriterium end tidligere.
+- Mpya Finance — Business Controller (København Ø): lokation fin, men
+  virksomhedens egen beskrivelse retter sig mod "senior accounting
+  economist, controller, CFO" — reel seniorstilling trods umarkeret titel.
+- AP Pension — Risikoanalytiker: niveau fint, men kræver
+  aktuar-/forsikringsmatematik-baggrund, uden for EMF-profilen.
+- Bonzer — Junior Consultant, Client Management: "junior"-titel, men rollen
+  er reelt kunderelations-/retentionarbejde for et SEO-bureau, samme type
+  som det hårde CS-fravalg.
+- Kvadrant Consulting — Management Consultant (Commercial
+  Transformation/GTM): kræver eksplicit min. 2 års erfaring fra
+  managementkonsulent- eller intern konsulentrolle, som Fabians interne
+  data-/rapporteringsroller ikke opfylder.
+
+**Nye konsulenthuse/virksomheder identificeret (til pkt. 24's voksende liste):**
+- Thursday Consulting (Valby, ~32 ansatte, reel etableret organisation):
+  to evergreen-opslag ("Økonomi & Forretningsanalyse", "Strategi &
+  Procesoptimering") med stærkt indholdsmæssigt match, men begge angiver
+  eksplicit "Vi rekrutterer ikke aktivt til denne stilling i øjeblikket".
+  Ingen reel åben stilling nu, men værd at genbesøge.
+- Commerzial P/S: kun 14 ansatte, under pkt. 33's ~20-25-grænse, ikke del af
+  en koncern. Ikke tilføjet.
+- Mindmill (~50 ansatte): alle åbne roller er reelt opsøgende
+  cold calling/mødebooking under konsulent-/sælgertitler, hårdt fravalgt
+  jf. pkt. 24. Ikke tilføjet, flagget så den ikke genovervejes uden denne
+  kontekst.
+- Oleto Associates (allerede på listen): bekræftet kun 2-10 ansatte via
+  CVR, kan nu fejle pkt. 33's størrelsesgulv (indført efter firmaet blev
+  tilføjet). Flagget til Fabians egen vurdering, ikke fjernet af rutinen selv.
+
+**Øvrige mønstre:** Implement Consulting Group (7 Graduate-opslag, alle
+2027-intag), Netcompany (almindelige enheder uden for Advisory-undtagelsen,
+ingen separat identificerbar Netcompany Advisory-opslag fundet i dag),
+Ballerup-opslag (Tryg, Ambu, Aprismo, Atea), stor mængde offentlig sektor
+(Politi/PET, Forsvarets Efterretningstjeneste, Banedanmark, Vejdirektoratet,
+Skatteankestyrelsen, Skattestyrelsen, Erhvervsministeriet, Fødevarestyrelsen,
+Økonomistyrelsen, DTU, Sund & Bælt, kommuner), samt en lang række
+senior/lead/manager-titlede eller specialist-tunge roller (BEC, Centrica,
+Coloplast, Flying Tiger, ZS, LEGO, Scandinavian Tobacco, Ascendis Pharma, PA
+Consulting, Marsh, KPMG, Deloitte, Alvarez & Marsal, Gartner, Devoteam
+"5+ år"). Impact Fund Denmark (tidligere IFU) genbekræftet som statsejet
+udviklingsfinansieringsinstitution, dermed hårdt fravalgt trods usædvanligt
+stærkt indholdsmatch (Power BI/medarbejderdata), deadline 23/9 under alle
+omstændigheder. Sweco HR-konsulent (frisk, fuldtid, "et par års erfaring")
+fravalgt på indhold — reelt HR-administration, ikke data/BI. Onomondo
+Growth Operations Specialist genvurderet under den løsnede pkt. 30-regel,
+men fortsat fravalgt på indhold (HubSpot marketing-automation-opbygning,
+ikke dataanalyse). StockRate Asset Management Analytiker (Hørsholm) dukkede
+op igen, samme lokationsfravalg som 2026-09-19, ingen ny vurdering.
+
+**Tekniske noter:**
+- Jobindex RSS: fuldt funktionel med enkeltords-forespørgsler (16 kørt),
+  `geoarea=storkoebenhavn` fortsat upålidelig (Jylland/Fyn-hits blandet ind).
+- Indeed.dk og Glassdoor DK: fortsat konsekvent HTTP 403.
+- StepStone.dk: nu HTTP 200, men fortsat en ren JS-skal uden indlejret
+  jobdata, ingen brugbare dybe links fundet i dag.
+- ofir.dk/jobsafari.dk: ikke forfaldne til månedligt tjek (senest 09-18),
+  sprunget over som planlagt.
+- LinkedIn: enkeltords-søgning (`/jobs/search/?keywords=...&f_TPR=r1209600&f_JT=F`)
+  samt OR-kombinerede forespørgsler på samme `/jobs/search/`-endpoint
+  virkede fint uden login-mur i dag. `/jobs/search-results/?...&geoId=...`
+  (den strikte pkt. 23/29-form) ramte login-mur igen, `f_C=`-teknikken ikke
+  forsøgt givet den lange historik af fejlslagne forsøg.
+- karrierevejviser.dk fortsat pålidelig for hele pkt. 20-listen, stabile
+  firma-ID'er noteret til fremtidig brug (Nykredit, Danske Bank, Ørsted,
+  PensionDanmark, PFA, Maersk, Nordea, SimCorp, KMD, Coloplast, DSV, DFDS,
+  SEB, Pandora, AP Pension, ISS, Falck, Novonesis, Demant, Alm. Brand,
+  Topdanmark).
+- Enalyzers career-side fortsat utilgængelig (404/redirect til
+  webflow-underdomæne der også 404'er), URL-struktur uafklaret, bør
+  genfindes via LinkedIn-firmaside eller Google cache i en fremtidig kørsel.
+- DAMVAD Analytics career-side fortsat HTTP 503 (flere kørsler i træk),
+  kandidat til månedlig kadence ligesom ofir.dk/jobsafari.dk hvis mønstret
+  fortsætter.
+- branchekompas.dk fundet som nyttigt værktøj til at finde boutique-
+  konsulenthuse pr. kategori, værd at bruge igen for andre kategorier
+  (BI/data, strategi) i fremtidige kørsler.
+- proff.dk/cvrapi.dk/krak.dk nyttige til hurtigt at verificere ansatte-antal
+  mod pkt. 33's størrelsesgulv ved nye firmaer.
+
 ## 2026-09-20
 
 Ét søgespor kørt via underagent (LinkedIn 72-timers-vindue for at fokusere på
