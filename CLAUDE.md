@@ -720,6 +720,21 @@ manager-/senior-/lead-titler (pkt. 2/31, se også "Uændret"-sektionen) skal
 stå ved magt uændret. Ingen indholdsmæssig ændring, nævnt her udelukkende
 for at bekræfte at det ikke er en del af dagens skærpelser.
 
+### 39. Opslagsdato udvidet til ca. 3 uger
+Erstatter pkt. 17's "inden for ca. 2 uger" med **inden for ca. 3 uger**,
+efter Fabians ønske om at øge det daglige antal forslag (pkt. 35). Samme
+princip som ved den oprindelige udvidelse i pkt. 17: kravet om at opslaget
+rent faktisk skal være aktivt/åbent (ikke udløbet) er fortsat vigtigere end
+selve alderen og gælder uændret, denne udvidelse fanger blot stadig-åbne
+opslag der ligger lige uden for den tidligere 2-ugers-grænse.
+
+**Teknisk konsekvens for LinkedIn-søgninger (pkt. 23/29):** `f_TPR=r1209600`
+svarer til præcis 14 dage (2 uger). Brug fremover `f_TPR=r1814400` (21 dage)
+som standard-vindue i stedet, både for enkeltords-søgningerne og de
+OR-kombinerede søgninger. For Jobindex RSS og øvrige kilder uden et
+tilsvarende parameter: fortsæt med at tjekke hvert opslags egen dato
+manuelt som hidtil, blot mod den nye ~3-ugers-grænse.
+
 ---
 
 ## Uændret — må ikke løsnes
