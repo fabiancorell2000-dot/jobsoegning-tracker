@@ -3,7 +3,7 @@
 Denne fil læses automatisk ved starten af hver kørsel og supplerer den planlagte
 opgaves prompt. **Ved konflikt vinder denne fil**, da den er opdateret senest.
 
-Sidst opdateret: 2026-09-15
+Sidst opdateret: 2026-09-22
 
 ---
 
@@ -655,6 +655,67 @@ fra pkt. 2/31 (op til ca. 5 år, intet eksplicit senior/lead/manager, intet
 reelt flerårigt specialistkrav derover) gælder uændret for denne bredere
 kategori — det ændrer kun hvilke opslag der overhovedet kommer i betragtning,
 ikke hvor stor en erfaring der reelt accepteres.
+
+---
+
+## Præciseringer 2026-09-22
+
+Baggrund: Fabian har givet direkte feedback efter dagens kørsel (2 forslag,
+det første siden 2026-09-16). Tempoet på 0-2 forslag/dag over de seneste to
+uger er for lavt til hans smag. Han ønsker fremover 2-3 forslag/dag, og har
+samtidig skærpet to konkrete regler for at gøre kriterierne mere entydige,
+så mindre søgetid spildes på gråzone-vurderinger (fx transporttidstvister
+eller om en lille virksomhed tæller som "etableret nok") og mere tid kan
+bruges på at søge bredt.
+
+### 35. Måltal: 2-3 forslag om dagen
+Fremover er målet 2-3 forslag/dag, ikke 0-2. "0 forslag er et fuldt gyldigt
+resultat" (se "Uændret" nederst i filen) gælder stadig som princip — det er
+fortsat forbudt at opdigte eller presse svage matches igennem bare for at
+ramme et tal — men rutinen skal aktivt bruge den fulde bredde af kilder og
+søgestrenge hver kørsel for at finde det antal reelle matches der faktisk
+findes, ikke stoppe ved de første par hits eller ved den mindste usikkerhed.
+Punkt 36-37 nedenfor er tænkt som et middel til dette: mindre tid brugt på
+uafklarede gråzonesager, mere tid brugt på faktisk at søge bredt.
+
+### 36. Lokation — Glostrup tilføjet til det hårde fravalg, ny navngiven nordgrænse: Lyngby
+Udvider pkt. 25/27. Fabian "gider stadig ikke" til Glostrup, samme
+trivselsbegrundelse som Ballerup (pkt. 27), ikke en afstandsvurdering.
+**Glostrup fravælges derfor fremover hårdt, ligesom Ballerup**, uanset at det
+bestod den generelle 35-minuttersregel (pkt. 25). Dette gælder med
+tilbagevirkende kraft for dagens Verisure-forslag (Junior Business
+Controller, Glostrup, 2026-09-22): det forslag står ikke længere ved magt.
+
+Fabian foretrækker fremover retning nord/nordvest (Hellerup,
+Nordsjælland-korridoren) frem for vest/sydvest. **Lyngby (Kongens Lyngby)
+tilføjes som den nye, navngivne yderste grænse i den retning** — intet
+længere ude mod nord/nordvest end Lyngby kommer i betragtning. Dette
+bekræfter i praksis det eksisterende Hillerød-fravalg (pkt. 25) og gør
+grænsen tydeligere end det løse 35-minutters-skøn alene, så en fremtidig
+kørsel ikke behøver bruge tid på at beregne transporttider for byer nord for
+Lyngby. Øst/sydøst (København K/Ø/S, Amager, Frederiksberg) og den
+eksisterende, strengt afgrænsede Roskilde-undtagelse (pkt. 3) er ikke
+berørt af denne opdatering.
+
+### 37. Virksomhedsstørrelse for startups — kun København K + 50-200 ansatte
+Præciserer pkt. 30/33 specifikt for tidlige/mindre virksomheder af
+startup-typen (ikke øvrige etablerede mindre virksomheder, som fortsat
+følger pkt. 33's generelle ~20-25-gulv, fx Annalect-mønsteret). **En "helt
+lille" startup accepteres fremover kun hvis BÅDE (a) virksomheden ligger i
+København K, OG (b) den har mellem 50 og 200 ansatte.** Ligger den uden for
+København K, eller har den færre end 50 eller flere end 200 ansatte, gælder
+den fortsat som for tidligt stadie/for usikker og skal ikke foreslås, uanset
+hvor stærkt det indholdsmæssige match ellers er. Dette er en skærpelse af
+den bredere formulering i pkt. 30 for netop denne kategori (tidlige
+startups), ikke en løsning af den — formålet er en klar, hurtigt afgørbar
+tommelfingerregel frem for en case-by-case vurdering af "er det egentlig en
+etableret nok scaleup" hver gang.
+
+### 38. Manager/senior-fravalg bekræftet uændret
+Fabian har eksplicit bekræftet at det eksisterende hårde fravalg af
+manager-/senior-/lead-titler (pkt. 2/31, se også "Uændret"-sektionen) skal
+stå ved magt uændret. Ingen indholdsmæssig ændring, nævnt her udelukkende
+for at bekræfte at det ikke er en del af dagens skærpelser.
 
 ---
 
