@@ -697,19 +697,22 @@ Lyngby. Øst/sydøst (København K/Ø/S, Amager, Frederiksberg) og den
 eksisterende, strengt afgrænsede Roskilde-undtagelse (pkt. 3) er ikke
 berørt af denne opdatering.
 
-### 37. Virksomhedsstørrelse for startups — kun København K + 50-200 ansatte
+### 37. Virksomhedsstørrelse for startups — kun centralt København + 50-200 ansatte
 Præciserer pkt. 30/33 specifikt for tidlige/mindre virksomheder af
 startup-typen (ikke øvrige etablerede mindre virksomheder, som fortsat
 følger pkt. 33's generelle ~20-25-gulv, fx Annalect-mønsteret). **En "helt
-lille" startup accepteres fremover kun hvis BÅDE (a) virksomheden ligger i
-København K, OG (b) den har mellem 50 og 200 ansatte.** Ligger den uden for
-København K, eller har den færre end 50 eller flere end 200 ansatte, gælder
-den fortsat som for tidligt stadie/for usikker og skal ikke foreslås, uanset
-hvor stærkt det indholdsmæssige match ellers er. Dette er en skærpelse af
-den bredere formulering i pkt. 30 for netop denne kategori (tidlige
-startups), ikke en løsning af den — formålet er en klar, hurtigt afgørbar
-tommelfingerregel frem for en case-by-case vurdering af "er det egentlig en
-etableret nok scaleup" hver gang.
+lille" startup accepteres fremover kun hvis BÅDE (a) virksomheden ligger
+centralt i København, OG (b) den har mellem 50 og 200 ansatte.** "Centralt
+i København" dækker København K, København Ø og Frederiksberg (præciseret
+2026-09-22, anden runde — oprindeligt formuleret som kun København K, men
+udvidet efter Fabians ønske til også at omfatte Østerbro og Frederiksberg).
+Ligger den uden for dette område, eller har den færre end 50 eller flere
+end 200 ansatte, gælder den fortsat som for tidligt stadie/for usikker og
+skal ikke foreslås, uanset hvor stærkt det indholdsmæssige match ellers er.
+Dette er en skærpelse af den bredere formulering i pkt. 30 for netop denne
+kategori (tidlige startups), ikke en løsning af den — formålet er en klar,
+hurtigt afgørbar tommelfingerregel frem for en case-by-case vurdering af
+"er det egentlig en etableret nok scaleup" hver gang.
 
 ### 38. Manager/senior-fravalg bekræftet uændret
 Fabian har eksplicit bekræftet at det eksisterende hårde fravalg af
