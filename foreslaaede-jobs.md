@@ -2,6 +2,169 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-22
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
+LinkedIn (enkeltords-/titelsøgninger, OR-kombinerede søgninger, niveau+indhold-søgninger,
+samt tier 2-4-konsulenthuslisten fra pkt. 28); Jobindex RSS (22 citerede
+enkeltordsforespørgsler) sammen med fornyede forsøg på Indeed.dk/StepStone.dk/
+Glassdoor DK; career-site-tjek af den fulde liste fra pkt. 20 og konsulenthustiers fra
+pkt. 24/28, denne gang med særligt fokus på at genbesøge specifikke opslag der tidligere
+kun blev fravalgt på virksomhedstype (pkt. 30) eller det gamle 2-4-års erfaringsloft
+(pkt. 31), nu hvor kriterierne er løsnet. ofir.dk/jobsafari.dk sprunget over jf. den
+månedlige kadence (senest tjekket 2026-09-18). **Resultat: 2 forslag i dag**, det første
+siden 2026-09-16. CV og ansøgning genereret og sendt til Fabian for begge.
+
+**Forslag 1: Verisure — Junior Business Controller**
+- Lokation: Glostrup (S-tog linje B/Bx, ~22 min fra Nørreport til Glostrup St., ingen
+  busskifte, tidligere verificeret inden for grænsen i denne rutines egen historik
+  09-06/09-09). Denne specifikke rolle stod som uafklaret grænsetilfælde 2026-09-21
+  (kravtekst kunne ikke hentes den dag), fuldt verificeret i dag via direkte hentning
+  af selve opslaget.
+- Link: https://dk.linkedin.com/jobs/view/business-controller-at-verisure-4468536816
+- Opslået: ~22 minutter før tjek. Ansøgningsfrist: ikke angivet, løbende vurdering.
+  "Vær blandt de første 25 ansøgere" (lavt konkurrence-signal, pkt. 9).
+- Fuldtid: bekræftet. Sprog: dansk (kræver flydende dansk og engelsk).
+- Løn: ikke angivet (almindelig risiko, jf. pkt. 7, ikke en dealbreaker).
+- Begrundelse: kræver "1-2 års erfaring fra FP&A, Business Controlling, Audit,
+  Consulting" ELLER nyuddannet med relevant studiejob/praktik, altså eksplicit
+  nyuddannet-venlig. Kernekravene er avanceret Excel og evnen til at omsætte komplekse
+  data til klare indsigter for stakeholdere, hvilket matcher KPI-rapporteringen hos
+  Skattestyrelsen og dataanalysen/stakeholder-oversættelsen hos COWI direkte. Power BI
+  er kun nævnt som en fordel, ikke et krav, hvilket faktisk sænker risikoen frem for at
+  øge den. Verisure er en stor, etableret europæisk hjemmesikkerhedsvirksomhed, ikke en
+  startup. Ærlig svaghed: titlen er "Business Controller" frem for en BI-/analysetitel,
+  så det daglige arbejde kan i praksis læne mere mod klassisk finansiel controlling end
+  ren Power BI-rapportering.
+
+**Forslag 2: North Consulting — Management Consultant, Commercial Excellence**
+- Lokation: Amagertorv 8A, 1160 København K (gåafstand fra Nørreport, ~15 min, ingen
+  bus). Denne præcise rolle er den samme der er nævnt som evergreen/ikke-aktivt-
+  rekrutterende i denne rutines logs 2026-09-13 og 2026-09-16 ("we do not currently
+  anticipate additional hiring in 2026"). Ved direkte hentning af den live side i dag
+  er den disclaimer væk, og siden fremstår nu som et reelt, aktivt åbent opslag under
+  "Students & Graduates". Dette lukker den tidligere uafklarede status.
+- Link: https://www.north.consulting/position-consultant-coms
+- Ansøgningsfrist: ikke angivet, løbende vurdering. Sprog: engelsk.
+- Fuldtid: ikke eksplicit mærket på siden, men fremstår som et almindeligt
+  karriere-konsulenthire uden deltids-/studiejobsprog, behandlet som fuldtid med dette
+  som en mindre ærlighedsforbehold.
+- Løn: ikke angivet (almindelig risiko, jf. pkt. 7).
+- North Consulting er et etableret boutique-konsulenthus (~47-51 ansatte, stiftet 2016),
+  komfortabelt over pkt. 33's størrelsesgulv, ikke en startup.
+- Begrundelse: kræver "1-2 års erfaring fra en konsulentvirksomhed eller kommerciel
+  erfaring fra en C25-virksomhed" ELLER er eksplicit åben for studerende der
+  dimitterer i 2026, altså inden for det lempede erfaringsniveau. Indholdet er
+  kommerciel transformation, CRM/Salesforce-drevet løsningsdesign og analyse af
+  salgs-/serviceprocesser, hvilket matcher HubSpot-CRM-erfaringen fra Teknologiens
+  Mediehus (fuld salgscyklus) og det analytiske stakeholder-arbejde fra COWI/
+  Skattestyrelsen. Ingen opsøgende cold calling i indholdet, så pkt. 24's
+  salgs-/telefonsalgsfravalg gælder ikke. Ærlig svaghed: rollen nævner slet ikke
+  Power BI eller SQL, den læner mere mod CRM/kommerciel strategi end BI/rapportering,
+  så det er et godt, men ikke perfekt værktøjsmatch til Fabians stærkeste kompetence.
+
+**Ansøgningsmateriale genereret og sendt for begge:** CV og ansøgning på dansk for
+Verisure (matcher opslagets sprog) og på engelsk for North Consulting (matcher
+opslagets sprog), begge kvalitetstjekket ved to adskilte gennemlæsninger (indhold/fakta,
+derefter sprog/layout) af de renderede PDF-billeder, korrekt 2-siders/1-siders layout
+uden afkoblede punkter. Filer: `Fabian_Hansen_CV_Verisure.docx`,
+`Fabian_Hansen_Ansogning_Verisure.docx`, `Fabian_Hansen_CV_NorthConsulting.docx`,
+`Fabian_Hansen_Ansogning_NorthConsulting.docx`.
+
+**Uafklaret grænsetilfælde fra 2026-09-21 lukket:**
+- **LEMAN — Group Business Controller & BI Analyst** (Greve Strand): den modstridende
+  lokationsvurdering fra 2026-09-16 (~43 min) vs. 2026-09-21 (~29 min) er afklaret i
+  dag. Geokodning af LEMANs adresse (Ventrupvej 6, 2670 Greve) viser en luftlinje på
+  ~2,5 km fra Greve station, hvilket i praksis kræver enten en 30+ min gåtur eller et
+  busskifte, ikke "4 min gang" som 09-21-estimatet fejlagtigt antog. Kombineret med
+  ~22-25 min togtid fra Nørreport overstiger den samlede transporttid klart
+  35-minuttersgrænsen (pkt. 25), og et busskifte er under alle omstændigheder udelukket
+  (pkt. 25's no-bus-regel). **Bekræftet fravalgt på lokation**, det oprindelige
+  09-16-estimat var korrekt. Betragtes fremover som afgjort, ikke et åbent
+  manuelt-tjek-punkt.
+
+**Andre grænsetilfælde overvejet under de løsnede kriterier, ikke foreslået:**
+- **DLF B.V. — Business Analyst, Global Procurement** (Smørum, ved Kildedal
+  S-station linje C). Stærkt indholdsmatch (avanceret Excel, PowerPoint, "demonstreret
+  erfaring med Power BI eller lignende BI-værktøjer", nyuddannet-niveau, 95 ansøgere,
+  fuldtid bekræftet, klart etableret global markedsleder inden for såsæd, intet
+  virksomhedstype-problem). Fravalgt udelukkende på transportusikkerhed: Kildedal
+  station er ~30 min fra Nørreport med S-tog linje C, og selvom DLF's bygning ligger
+  lige ved siden af stationen, er den samlede dør-til-dør-tid tæt på eller lige over
+  35-minuttersgrænsen afhængig af den præcise gangafstand, ikke tydeligt under grænsen
+  som Glostrup-sagen. Station ligger desuden i den vestlige del af Måløv i Ballerup
+  Kommune, selvom DLF's egen adresse er i Smørum/Egedal Kommune, ikke Ballerup selv,
+  så det er ikke omfattet af det hårde Ballerup-fravalg (pkt. 27), men tæt nok til at
+  anbefale et manuelt tjek via rejseplanen.dk, hvis Fabian selv vil forfølge den.
+- **Resights — Business Analyst** (3 næsten identiske opslag). Virksomheden i sig selv
+  klarer nu pkt. 30/33's grænse (~55 ansatte, profitabel uden VC-finansiering), men
+  indholdet er en generisk "Strategy & Operations"-rotationsrolle rettet mod
+  ambitiøse gymnasieelever/sabbatår-studerende i mindst én variant, ikke tydeligt
+  rettet mod en færdiguddannet cand.merc.-kandidat. Intet konkret Power BI/data-match
+  i teksten. Fravalgt på indholdsmatch.
+- **Flatpay — BI Analyst** (tidligere fravalgt på virksomhedstype): det specifikke
+  tidligere loggede opslag er nu lukket ("no longer accepting applications"). Flatpay
+  som virksomhedstype er ikke længere diskvalificeret jf. pkt. 30, men intet aktuelt
+  åbent BI Analyst-opslag består i dag.
+- **Vivino — Data Analyst, Trust Office**: opslaget er væk fra Vivinos egen career-side
+  ("no matching jobs" for København), intet at genvurdere.
+- **Onomondo — Growth Operations Specialist**: fortsat fravalgt, nu på indhold
+  (HubSpot marketing-automation-opbygning, ikke dataanalyse) snarere end
+  virksomhedstype, uændret fra 2026-09-21.
+- **OrderYOYO — Business Analyst/FP&A**: fortsat fravalgt, kræver eksplicit Python
+  (pandas, scikit-learn, klassifikations-/regressions-/clustering-modeller), et hårdt
+  avanceret-programmering-fravalg uafhængigt af virksomhedstype.
+- **DFDS — Data Consultant, Group Finance & Decarbonization**: fortsat fravalgt, kræver
+  reelt ledelse af tværfaglige leveranceteams af data engineers/BI-analytikere, rammer
+  pkt. 31's teamledelses-eksempel, ikke erfaringsårs-loftet.
+- **Impact Fund Denmark — People Analytics & Rewards Specialist**: fortsat aktiv, men
+  det hårde offentlig sektor-fravalg (tidligere IFU, statslig
+  udviklingsfinansieringsinstitution) er genbekræftet uændret, ingen ny vurdering af
+  selve sektor-spørgsmålet. Ansøgningsfristen (23/9) er under alle omstændigheder
+  overskredet nu.
+- **Thursday Consulting — "Økonomi & Forretningsanalyse"**: fortsat samme evergreen-tekst
+  som ved sidste tjek ("Vi rekrutterer ikke aktivt til denne stilling i øjeblikket"),
+  ingen ændring, i modsætning til North Consulting hvor den tilsvarende disclaimer er
+  fjernet.
+- **Opacity ApS — Pay Transparency Advisor**: interessant indholdsvinkel
+  (løn-/HR-data), men bekræftet kun 5 ansatte, stiftet 2023 via CVR/Proff, fejler
+  pkt. 33's størrelsesgulv og fremstår som et reelt tidligt-stadie firma.
+- **Kopenhagen Consulting**: 4 åbne roller, alle eksplicit senior/principal-niveau.
+
+**Øvrige mønstre, ingen ny vurdering nødvendig:** Netcompany (almindelige enheder,
+fortsat ingen separat identificerbar Netcompany Advisory-opslag), Ballerup-opslag
+(Tryg, Ambu, Atea, Aprismo, UL Solutions, Bosch Nordic, Schneider Electric, Sentia),
+offentlig/statslig sektor (Københavns Kommune, Vejdirektoratet, Banedanmark,
+Fødevarestyrelsen, SKI, Vurderingsstyrelsen, Skatte- og Vækstministeriet, DTU,
+Forsvaret, Politi/PET, Finanstilsynet, Udenrigsministeriet, Hjemrejsestyrelsen),
+eksplicitte senior/lead/manager-titler (Flying Tiger Senior Business Analyst, Centrica,
+Scandinavian Tobacco, ZS, Coloplast, Trustpilot, Ørsted, Pandora, Ascendis Pharma,
+Lunar, Nordea, LEGO Associate Manager, Airshoppen, EPTA Group, Accobat, KPMG,
+Trackunit, Novonesis, Basico, Lagkagehuset), Implement Consulting Group og
+Alvarez & Marsal (alle 2027-intag), deltids-/studiejobs (North-East Family Office,
+Templafy), samt en lang række allerede kendte firmaer uden ny match (AL Sydbank
+Økonom/Aabenraa, Bostik/Fyn, Kvadrant Consulting, Mpya Finance, AP Pension
+Risikoanalytiker, Bonzer, Corpay – allerede foreslået 09-16).
+
+**Tekniske noter:**
+- LinkedIn: enkeltords-`/jobs/search/`-formatet fortsat pålideligt (22 forespørgsler
+  kørt). Det strikte OR-kombinerede `/jobs/search-results/?...&geoId=...`-format ramte
+  login-mur igen (nu 8.+ gang i træk uden succes), anbefales droppet fremover.
+  Søgning på konsulenthusnavn som keyword filtrerer ikke pålideligt til den
+  arbejdsgiver, career-site/Jobindex-spor er mere effektive til pkt. 24/28-listen.
+- Jobindex RSS: 22 enkeltords-forespørgsler gennemført uden fejl, `geoarea=
+  storkoebenhavn` fortsat upålidelig (fx AL Sydbank/Aabenraa, Bostik/Fyn slap igennem
+  filteret). Flere indholdsord (people analytics, performance analyst, marketing
+  analyst, insight analyst, category analyst) gav 0 hits, samme mønster som hver
+  kørsel siden 09-06/07.
+- Indeed.dk og Glassdoor DK: fortsat konsekvent HTTP 403. StepStone.dk: HTTP 200, men
+  fortsat ren JS-skal uden indlejret jobdata.
+- Nominatim (OpenStreetMap) geokodning via curl brugt til at afgøre LEMAN-
+  lokationstvisten, en genbrugelig teknik til fremtidige lokationstvister når
+  rejseplanen/Google Maps ikke kan hentes direkte.
+- `north.consulting` og `thursday.consulting` begge direkte curl-bare uden
+  JS-rendering, nyttigt at huske fremover.
+
 ## 2026-09-21
 
 Tre parallelle søgespor kørt via underagenter (LinkedIn; Jobindex RSS +
