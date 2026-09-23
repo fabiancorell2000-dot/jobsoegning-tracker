@@ -2,6 +2,176 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-23
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
+LinkedIn (enkeltords-/titelsøgninger, niveau+indhold-søgninger, samt konsulenthus-tier
+2-4-listen fra pkt. 28); Jobindex RSS (enkeltordsforespørgsler) sammen med fornyede
+forsøg på Indeed.dk/StepStone.dk/Glassdoor DK; career-site-tjek af den fulde liste
+fra pkt. 20 og konsulenthustiers fra pkt. 24/28, inkl. aktiv søgning efter flere
+boutique-konsulenthuse. ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence
+(senest tjekket 2026-09-18). **Resultat: 1 forslag i dag.** CV og ansøgning genereret
+og sendt til Fabian.
+
+Et par kandidater fra LinkedIn-sporet krævede ekstra krydstjek mod filens egen
+historik, og det viste sig at et af de to indledningsvist rapporterede "kvalificerede"
+fund (Flatpay BI Analyst, samme LinkedIn-link `4461086207`) reelt er identisk med et
+opslag der allerede blev foreslået 2026-09-01 (samme SQL-forbehold ordret), blot med
+et LinkedIn-tidsstempel der vildledende viste "20 timer siden" i dag. Ikke gentaget
+som et nyt forslag, jf. reglen om at udelukke alt der allerede står i denne fil.
+
+**Forslag 1: NoHo Partners Denmark A/S — Business Controller**
+- Firma: Dansk datterselskab af NoHo Partners Plc (finsk børsnoteret restaurant-/
+  hospitality-koncern i Norden, fx Cock's & Cows), NoHo Partners Denmark alene har
+  ca. 500 ansatte. Etableret, privat, klart ikke startup/scaleup.
+- Lokation: Ny Vestergade 7, 1471 København K, gåafstand/kort metro fra Nørreport,
+  klart inden for 35-minuttersgrænsen (pkt. 25), ingen bus.
+- Link: https://dk.linkedin.com/jobs/view/business-controller-s%C3%B8ges-til-noho-partners-denmark-a-s-i-hjertet-af-k%C3%B8benhavn-at-noho-partners-denmark-4470298454
+  (samme opslag også på Jobindex: https://www.jobindex.dk/vis-job/h1700598)
+- Opslået: ~20 timer før tjek (22-09-2026). Ansøgningsfrist: ikke angivet, løbende
+  vurdering.
+- Fuldtid: bekræftet. Sprog: dansk (kræver flydende dansk og godt engelsk).
+- Løn: ikke angivet (almindelig risiko jf. pkt. 7, ikke en dealbreaker for en
+  etableret privat virksomhed af denne størrelse).
+- Erfaring: "2-5 års erfaring fra en lignende rolle", inden for det hævede loft
+  (pkt. 31). Ingen leder-/teamansvar nævnt, individuel bidragyder-rolle.
+- Begrundelse: Kerneopgaverne er controlling, rapportering, analyser,
+  procesudvikling, "rapporteringsværktøjs-optimering", ad hoc-analyser og
+  investeringscases, direkte match til Excel-baseret dataanalyse/rapportering, som
+  er Fabians stærkeste kompetence (COWI, Skattestyrelsen). Excel fremhæves
+  eksplicit, e-conomic nævnt som en fordel, ikke et krav. Titlen er "Business
+  Controller" uden senior-/lead-/manager-kvalifikation.
+- Bemærk (ærlighed): Ligesom ved det tidligere Verisure-forslag er dette en klassisk
+  controller-titel snarere end en BI-/analysetitel, og det daglige arbejde kan læne
+  mod bogføring/regnskabsafstemning ("månedlig regnskabskontrol med ekstern
+  bogholder") frem for ren Power BI-rapportering, Power BI nævnes slet ikke i
+  opslaget.
+- CV og ansøgning genereret på dansk (matcher opslagets sprog), kvalitetstjekket ved
+  to adskilte gennemlæsninger (indhold/fakta, derefter sprog/layout) af de
+  renderede billeder, en anglicisme ("guestfacing") rettet til "gæstevendt" i
+  ansøgningen under tjekket, korrekt 2-siders CV/1-siders ansøgning uden afkoblede
+  punkter. Filer: `Fabian_Hansen_CV_NoHoPartners.docx`,
+  `Fabian_Hansen_Ansogning_NoHoPartners.docx`.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+- **The Tech Collective (Implement Consulting Group) — AI Business Analyst**
+  (Hellerup/København K, Tier 2 på pkt. 28's konsulenthusliste). Link:
+  https://dk.linkedin.com/jobs/view/ai-business-analyst-at-the-tech-collective-4469012415.
+  Opslået ~18 timer før tjek, 33 ansøgere, frist 2. oktober, eksplicit fuldtid og
+  "nyuddannet til mere erfaren". Dette er tredje gang denne (eller en meget
+  lignende, samme firma/samme Hellerup/Gentofte-område) stilling dukker op og
+  vurderes usikker (tidligere logget som grænsetilfælde 2026-09-17 og 2026-09-21,
+  begge gange med samme kernebekymring: eksterne aggregatorsider tagger den internt
+  som "Senior", og de efterspurgte GenAI-kompetencer ("forstå generativ AI
+  tilstrækkeligt til at samarbejde med udviklere") lyder som en reel, ikke-triviel
+  teknisk dybde ud over Fabians praktiske brugererfaring med Copilot-agenter hos
+  COWI. Opslaget åbner selv eksplicit for en ikke-teknisk vej ("kommunikations-/
+  digital baggrund med selvlært AI-viden"), som Fabian passer på, men givet den
+  gentagne, uændrede tvivl på tværs af tre uafhængige tjek holdes den fortsat som et
+  grænsetilfælde til Fabians egen vurdering frem for et fuldt forslag.
+- **Centrum Personale A/S (rekrutteringsbureau) — Commercial Controlling and
+  Reporting / Data Analyst** for en unavngiven klient beskrevet som "one of the most
+  trusted insurance and asset management companies in the world" med Nordic-
+  hovedsæde på Frederiksberg C. Denne præcise, anonyme stilling er allerede nævnt
+  tidligere (logget under "øvrige mønstre" 2026-09-17: "arbejdsgiver ikke oplyst,
+  sektor/lokation/virksomhedsstørrelse kunne ikke verificeres"). I dag lykkedes det
+  faktisk at verificere sektor (privat, forsikring/kapitalforvaltning), lokation
+  (Frederiksberg C, fint) og størrelse (beskrives som en global, velkendt aktør,
+  ikke en lille virksomhed), samt indhold (KPI'er, dashboards,
+  rapporteringsprocesser, avanceret Excel, Power BI som fordel, 3-5 års erfaring,
+  matcher Skattestyrelsen/COWI godt), men **ikke selve arbejdsgiverens navn**
+  (2-årig tidsbegrænset kontrakt med mulighed for forlængelse, ikke en
+  fastansættelse). Ansøgningsreglerne (materials/README.md) kræver konkret,
+  specifik motivation for "lige DEN virksomhed", hvilket er reelt umuligt at skrive
+  ærligt uden at opdigte noget, når arbejdsgiverens identitet ikke er kendt.
+  Fravalgt fra et fuldt forslag på den præcise grund, ikke på indholdsmatchet, som
+  ellers er solidt. Link: https://dk.linkedin.com/jobs/view/commercial-controlling-and-reporting-data-analyst-at-centrum-personale-a-s-4463980495.
+  Nævnes til Fabians egen vurdering, hvis han selv vil søge direkte uden et
+  tilpasset ansøgningsudkast fra rutinen.
+- **Nykredit — Treasury & Risk Insights-rolle** (Nordhavn, frisk, opslået
+  2026-09-22, fundet via Jobindex RSS på "power bi"). Kunne ikke hentes i fuld
+  tekst (JS-renderet Jobindex-side), men et separat websøgningsfund beskriver den
+  som en "senior data analyst"-rolle. Lokation er fin, men senioritetsniveauet
+  kunne ikke bekræftes 100% sikkert, og rammer muligvis det hårde senior-fravalg
+  (pkt. 2/31/38). Anbefales tjekket manuelt af Fabian selv
+  (jobindex.dk/vis-job/h1700639) før der bruges tid på ansøgningsmateriale.
+- **Collectia A/S — BI Reporting Specialist** (Brøndby/Abildager 11). Stærkt
+  SQL-/rapporteringsindhold, men gangafstand fra nærmeste S-station (Brøndbyøster)
+  kunne ikke verificeres pålideligt, muligvis over 35-minuttersgrænsen eller kræver
+  bus, samme type usikkerhed som den tidligere LEMAN-sag. Anbefales et manuelt
+  rejseplanen.dk-tjek, hvis Fabian selv vil forfølge den.
+- **1st Mile ApS (rekrutteret af KAR+CO) — Market, Financial and Business
+  Analyst** (Kongens Lyngby, inden for nordgrænsen pkt. 36). Fravalgt på
+  virksomhedsstørrelse: kun 4 ansatte ifølge Proff/CVR, under pkt. 33's gulv, ikke
+  del af en koncern.
+- **Annalect Nordics — Consultant for Data Science Consultancy Team** (på den gode
+  virksomhedsliste, pkt. 18/20). Nyuddannet-venlig, men kernekravet er statistisk
+  modellering primært i R (Python/SAS/VBA/SQL som alternativer), reel
+  programmerings-/statistikdybde ud over Fabians akademiske R/SPSS-niveau. Fravalgt
+  på kompetencekrav Fabian ikke har.
+- **dentsu — Web Analytics Consultant** (København K). Kræver JavaScript, Google
+  Tag Manager, BigQuery, serverside tracking, klart teknisk webudviklings-/data
+  engineering-arbejde uden for profilen. Fravalgt på kompetencekrav.
+- **SameSystem — Business Intelligence Consultant** (København). Eksplicit mærket
+  "Erfaren", Sisense (ikke Power BI) som primært BI-værktøj, del af
+  Customer Success-teamet med vægt på kundemøder, uklart om det rammer det hårde
+  CS-fravalg. For usikker kombination af signaler til at foreslå.
+
+**Øvrige mønstre, ingen ny vurdering nødvendig:** Implement Consulting Group
+(8 "Graduate Management Consultant"-opslag, alle Graduates 2027-intag, fravalgt jf.
+pkt. 4), Kopenhagen Konsulting (4 opslag, alle senior/lead-niveau), Carve Consulting
+(kun ServiceNow/Senior Operational Excellence-roller), PensionDanmark (8 opslag,
+ingen match), Netcompany almindelige enheder (hårdt firmafravalg uden for Advisory),
+LEMAN (fortsat bekræftet fravalgt på lokation), DLF Business Analyst (samme
+transport-usikkerhed som 2026-09-22), Resights Business Analyst (samme
+"sabbatår"-indhold), Coop Danmark (Kategoriplanlægger og Demand Planner, begge
+indholds-/uddannelsesmæssigt uden for profilen), Idura GRC Analyst (specialiseret
+compliance-krav), RDT Business Analyst (offentlig klient), Nordic Hospitality
+Partners/NoHo Nordea/Danske Bank/SEB (First Year/Senior Analyst i Investment
+Banking, specialiseret finansprofil), samt en lang række offentlig sektor
+(Politi/PET, Forsvaret, Banedanmark, Fødevarestyrelsen, Vurderingsstyrelsen, SKI,
+DTU, Skatteankestyrelsen) og eksplicitte senior/lead/manager-titler, hårdt fravalgt
+uændret.
+
+**Nye konsulenthuse identificeret, ingen tilføjet til listen endnu:** Szpirt &
+Company, Comentor, 4C, CloserConsulting (kun fundet i en generel oversigtsartikel,
+ikke selv verificeret, værd at undersøge nærmere i en fremtidig kørsel før evt.
+tilføjelse), RM Consult (viste sig at være et freelance-konsulentnetværk, ikke en
+direkte arbejdsgiver, ikke egnet til listen, samme type som tidligere fravalgte
+ChangeGroup).
+
+**Tekniske noter:**
+- LinkedIn: enkeltords-`/jobs/search/?keywords=...&f_TPR=r1814400&f_JT=F`-formatet
+  fortsat pålideligt uden login-mur. Vigtigt fund i dag: en første WebFetch uden
+  eksplicit URL-anmodning gav kun titel/firma/tid, ikke selve linket, en mere
+  specifik opfølgende prompt var nødvendig for at få de fulde `dk.linkedin.com/
+  jobs/view/...`-links, værd at huske til fremtidige kørsler. OR-kombineret
+  `/jobs/search-results/?...&geoId=...`-teknik ikke forsøgt denne gang, givet 8+
+  sammenhængende mislykkede forsøg tidligere.
+- Jobindex RSS: fungerede teknisk fint med enkeltord, men ekstremt støjet, "data
+  analyst"/"konsulent" gav overvejende offentlig sektor/irrelevant støj,
+  "business controller" gav den mest brugbare liste og var kilden til
+  NoHo-fundet. `geoarea=storkoebenhavn` fortsat upålidelig (Jylland/Fyn-hits, fx
+  Skanderborg, Horsens, Kolding, blandet ind).
+- Jobindex enkeltopslag (`vis-job`): fortsat JS-renderet, kun en kort
+  `og:description`-meta-tekst kan hentes uden headless browser, WebSearch efter
+  samme opslag på andre aggregatorer (freehire.me, aijobs.net) ofte nødvendigt for
+  fyldestgørende kravtekst.
+- Indeed.dk og Glassdoor DK: fortsat konsekvent HTTP 403. StepStone.dk: nu HTTP 404
+  på flere forsøgte URL-strukturer (tidligere HTTP 200 med tom JS-skal), yderligere
+  forværring.
+- Annalect/Omnicom: `annalect.com/careers/` redirecter nu til en generisk
+  `omnicommedia.com`-forside uden Danmark-indhold, værre end det tidligere HTTP 503,
+  sandsynligvis reelt nedlagt som selvstændig career-side.
+- karrierevejviser.dk bekræftet som en statistik-/profilside-struktur, ikke selv en
+  jobliste, mest nyttig som hurtig "har firma X overhovedet åbne stillinger"-
+  indikator. branchekompas.dk's forsøgte underside gav HTTP 404, bør genforsøges med
+  korrekt sti.
+- Alm. Brand og Topdanmarks career-side-URL'er gav begge HTTP 404 (forældede),
+  DFDS's career-side fortsat en ren JS-skal.
+- Nominatim/OpenStreetMap direkte curl-adgang nu blokeret ("Access denied"),
+  WebSearch brugt i stedet til afstandsverifikation.
+
 ## 2026-09-22
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
