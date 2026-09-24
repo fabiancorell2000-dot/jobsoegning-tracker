@@ -2,6 +2,111 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-24
+
+Tre parallelle søgespor kørt via underagenter: LinkedIn (enkeltords-/titelsøgninger,
+niveau+indhold-søgninger, samt fuld gennemgang af konsulenthus-tier 2-4-listen fra
+pkt. 28); Jobindex RSS (enkeltordsforespørgsler for ~25 fagudtryk) sammen med fornyede
+forsøg på Indeed.dk/StepStone.dk/Glassdoor DK samt ofir.dk/jobsafari.dk; career-site-tjek
+af den fulde liste fra pkt. 20 samt aktiv søgning efter flere konsulenthuse. Alle
+kandidatfund fra de tre spor er efterfølgende egenhændigt genverificeret direkte mod
+selve kildeopslaget (ikke kun underagenternes referater), hvilket fangede to reelle fejl
+og udelukkede yderligere to som dubletter, se nedenfor. **Resultat: 0 forslag i dag.**
+Ingen opslag bestod alle hårde krav ved egen verifikation, derfor intet
+CV/ansøgningsmateriale genereret.
+
+**Grænsetilfælde og fejl fanget ved egen verifikation, ikke foreslået:**
+
+- **Privat Psykiatrisk Center ApS — Business Analyst** (Axeltorv 6, 1609 København V,
+  opslået 23-09, aktivt). Indholdsmæssigt det stærkeste fund i dag: analytisk
+  sparringspartner tæt på CEO/ledelse, rapportering/dashboards/business cases,
+  erfaringskrav "2-5 år" inden for det hævede loft, privat sundhedsvirksomhed (~100
+  ansatte, ingen offentlig overenskomst, ikke en startup-problematik). Fravalgt
+  alligevel: ansættelsestype (fuldtid/deltid) er slet ikke angivet noget sted i selve
+  opslaget, hverken i den rå tekst, på virksomhedens egen career-side, eller i en
+  websøgning efter en evt. krydspostering med et klarere jobtype-felt. Jf. den hårde
+  regel om at droppe opslaget helt hvis fuldtid er uklart. Værd for Fabian at tjekke
+  direkte hvis interesseret, i tilfælde af at ansættelsestypen fremgår ved selve
+  ansøgningen.
+- **Royal Canin (Mars) — SRM Analyst North Europe.** LinkedIn-opslaget viser
+  "København" som lokation, men det bekræftede jobopslag på Evenbreak
+  (samme rolle, Mars' egen rekrutteringspartner) angiver eksplicit arbejdsstedet som
+  London, Storbritannien, ikke København, opslagets LinkedIn-lokationstag var
+  misvisende. En ren geo-tag-fejl, samme mønster som JP/Politikens Hus-fejlen
+  fundet 2026-09-12. Fravalgt på lokation.
+- **LEMAN A/S — Group Business Controller & BI Analyst** (Ventrupvej 6, 2670 Greve).
+  Uddannelseskravet er ved verifikation "cand.merc., HD eller tilsvarende" (ikke
+  specifikt revisor-/cand.merc.aud.-baggrund, som en af underagenternes research
+  fejlagtigt antog). Erfaringskrav "3-5 år" er inden for loftet, og Greve ligger
+  formentlig lige inden for 35-minuttersgrænsen (S-tog + gang, ingen bus), men tæt på
+  kanten. Fravalgt alligevel, fordi rollen reelt er beskrevet som "50/50 focus on
+  business controlling and BI", hvor controlling-halvdelen (budgettering, forecasting,
+  formel variansanalyse på koncernniveau) er en disciplin Fabian ikke har direkte
+  professionel erfaring med, til forskel fra hans faktiske Power BI-/datastrukturerings-
+  profil. Vurderet som et reelt indholdsmæssigt hul, ikke kun et tal, ikke en ren
+  formssag. Nævnes fordi lokations- og uddannelsesindvendingerne mod den ikke holdt ved
+  nærmere tjek, kun det reelle rolleindhold gjorde.
+- **Deloitte — Management Consultant, Technology Strategy & Transformation team**
+  (København, Tier 2-listen pkt. 28, frist 27-10-2026, fuldtid bekræftet, "1-5 years of
+  experience", nyuddannet-niveau). Består alle hårde krav teknisk set, men
+  kerneindholdet er IT-strategi/enterprise-arkitektur/IT-transformation, som ligger
+  længere fra Fabians faktiske profil (data/BI/HR-master data/marketing) end de fleste
+  andre konsulentspor der er foreslået eller overvejet tidligere. Samme forsigtige
+  vurdering som rutinen selv lagde for Deloittes People-Centred-rolle 2026-09-17 (kun
+  foreslået dengang fordi Fabian selv bad om det, ikke rutinens egen anbefaling).
+  Nævnes til Fabians egen overvejelse, ikke foreslået som et stærkt match af rutinen selv.
+- **Resights ApS — Business Analyst (Strategy & Operations)** (København, ~50 ansatte,
+  profitabel, ingen VC-finansiering, består virksomhedstype/-størrelse fint). Fravalgt
+  fordi selve rollebeskrivelsen ikke nævner et eneste konkret værktøj eller
+  dataopgave (intet Power BI, Excel, SQL eller rapportering), kun en bred
+  "high ambition, 0-to-1, entrepreneurial execution"-generalistprofil. For usikkert et
+  match til at vurdere det som reelt stærkt, for vagt formuleret til at skrive en
+  specifik, ærlig ansøgning ud fra.
+- **Centrum Personale A/S — Commercial Controlling and Reporting / Data Analyst**
+  (anonym forsikrings-/kapitalforvaltningsslutkunde, København). Samme uafklarede
+  usikkerheder som ved forrige vurdering (2026-09-12): 2-årig tidsbegrænset kontrakt
+  frem for fast ansættelse fra start, samt slutkundens virksomhedstype/-størrelse kan
+  ikke verificeres da den er anonym i opslaget. Fortsat ikke foreslået.
+
+**Dubletter fundet, ikke gentaget som nye forslag:**
+- **Flatpay — BI Analyst.** Dukkede op igen i to søgespor (LinkedIn-link
+  `4461086207` samt et separat link på Flatpays eget jobboard,
+  `jobs.flatpay.com/jobs/8289231`), men er samme firma+titel som allerede foreslået
+  2026-09-01 (samme SQL-forbehold), jf. reglen om at udelukke alt der allerede står i
+  denne fil.
+- **Deloitte — Analyst/Consultant, People-Centred Management Consulting & Digital
+  Transformation** (samme LinkedIn-link `4463345462`). Allerede foreslået 2026-09-17,
+  CV og ansøgning allerede genereret og sendt dengang. Ingen ny vurdering.
+
+**Øvrige mønstre og allerede kendte fravalg, ingen ny vurdering:** Netcompany (hårdt
+firmafravalg, ingen "Netcompany Advisory"-opslag fundet i dag), alle Ballerup- og
+Glostrup-opslag (Tryg, Atea, Siemens, Verisure m.fl.), en lang række offentlige/
+statsejede opslag (jf. pkt. 19), Implement Consulting Groups graduate-spor (fortsat
+2027-intag, jf. pkt. 4), Valcon (kun deltidsopslag/udløbede links fundet), BearingPoint/
+Intellishore/Emendo/Mannaz/Carve/Devoteam/PA Consulting (ingen junior/nyuddannet-relevante
+åbne stillinger fundet i København ved dagens tjek), Nykredit ("Byg fremtidens
+dataløsninger", bekræftet senior-rolle), AP Pension (Risikoanalytiker, senior-rolle),
+KMD (Commercial Excellence Manager, leder-titel), PFA Pension (kun studenter-/
+praktikstillinger aktive p.t.).
+
+**Tekniske noter fra dagens tre søgespor:**
+- LinkedIn: enkeltord-`/jobs/search/`-formatet (`f_TPR=r1814400&f_JT=F`) fortsat
+  pålideligt uden login-mur, samt "guest"-varianten af `/jobs/search?...` (uden
+  `search-results/`) virkede også uden login i et af sporene, en mulig forbedring at
+  følge op på. Det OR-kombinerede `jobs/search-results/?...&geoId=...`-format (pkt.
+  23/29) ramte fortsat konsekvent en login-mur, uændret begrænsning.
+- Jobindex RSS: fungerede teknisk uden fejl for alle testede enkeltord, men `marketing
+  analyst` og `people analytics` gav tomme feeds i dag.
+- Indeed.dk og Glassdoor DK fortsat HTTP 403. StepStone.dk fortsat HTTP 404 på direkte
+  søgeside. ofir.dk fortsat HTTP 410. jobsafari.dk fortsat permanent redirect til
+  Jobindex forside. Alle fire fortsat reelt ubrugelige uden ændret adgangsmetode.
+- Vigtigst i dag: to af tre underagenters research indeholdt reelle fejl der først
+  blev fanget ved egen direkte verifikation af selve kildeopslaget (Royal Canins
+  faktiske London-lokation bag en misvisende "København"-geotag, samt en fejlagtig
+  antagelse om LEMANs uddannelseskrav). Bekræfter fortsat vigtigheden af altid selv at
+  stikprøvekontrollere underagenters fund direkte mod kilden, ikke kun referater, før
+  noget behandles som et forslag.
+
 ## 2026-09-23
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
