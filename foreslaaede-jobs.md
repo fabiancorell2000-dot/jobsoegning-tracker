@@ -2,6 +2,139 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-25
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
+LinkedIn (enkeltords-/titelsøgninger, niveau+indhold-søgninger, samt konsulenthus-tier
+2-4-listen fra pkt. 28); Jobindex RSS (enkeltordsforespørgsler for 15 fagudtryk) sammen
+med fornyede forsøg på Indeed.dk/StepStone.dk/Glassdoor DK; career-site-tjek af den fulde
+liste fra pkt. 20 samt konsulenthustiers fra pkt. 24/28. ofir.dk/jobsafari.dk sprunget
+over jf. den månedlige kadence (senest tjekket 2026-09-18, ikke forfaldent). **Resultat:
+1 forslag i dag.** CV og ansøgning genereret og sendt til Fabian.
+
+**Forslag 1: SS&C Technologies — Associate Data Analyst**
+- Firma: SS&C Technologies, NASDAQ-noteret global finans-software/services-koncern med
+  tusinder af medarbejdere. Etableret, privat, intet virksomhedstype- eller
+  størrelsesproblem.
+- Lokation: Bredgade 23B, 3. sal, 1260 København K, gåafstand/kort metrotur fra
+  Nørreport, klart inden for 35-minuttersgrænsen (pkt. 25), ingen bus. Hybrid, kun ca.
+  6 dage på kontoret om måneden.
+- Link: https://dk.linkedin.com/jobs/view/associate-data-analyst-at-ss-c-technologies-4471615369
+- Opslået: ~16 timer før tjek (24-09-2026). Ansøgningsfrist: ikke angivet, løbende
+  vurdering.
+- Fuldtid: bekræftet ("Employment Type: Full-time"), verificeret direkte på selve
+  opslaget. Sprog: engelsk.
+- Løn: ikke angivet i opslaget (almindelig risiko jf. pkt. 7, ikke en dealbreaker for
+  en stor etableret finanskoncern).
+- Erfaring: intet eksplicit årstal angivet, titlen "Associate" og et bredt
+  uddannelseskrav (Finance/Economics/Business/Statistics/Mathematics/Data
+  Science/Law) peger på et entry-level/nyuddannet-niveau, intet leder-/
+  senior-krav nogen steder (jf. pkt. 34, vurderet på reelt indhold).
+- Begrundelse: Kernekravet er "Advanced proficiency in Microsoft Excel" og evnen til
+  at analysere komplekse datasæt med høj nøjagtighed, direkte match til Fabians
+  stærkeste kompetence fra COWI og Skattestyrelsen. SQL/Python/R er nævnt som en
+  fordel, ikke et krav (rammer fint inden for grundlæggende-SQL-reglen, pkt. 6/10).
+  Rollens fokus på datavalidering og præcis dokumentation matcher godt Fabians
+  erfaring med at eje datastrukturen og kvalitetssikringen bag COWI's Engagement
+  Survey for 7.500+ medarbejdere.
+- Bemærk (ærlighed): Fagområdet (securities litigation-analytics, skadesberegning,
+  institutionelle investorer, retsdokumenter) er et domæne Fabian ikke har berørt
+  før, ingen jura- eller investeringsbaggrund, og Power BI nævnes slet ikke i
+  opslaget, kun Excel. Det er derfor et stærkt værktøjsmæssigt match (Excel,
+  dataanalyse, præcision) men et mere usikkert indholdsmæssigt/domænemæssigt match
+  end hans typiske BI-/rapporteringsprofil.
+- CV og ansøgning genereret på engelsk (matcher opslagets sprog), kvalitetstjekket
+  ved to adskilte gennemlæsninger af de renderede billeder. Under første
+  gennemlæsning blev to problemer fanget og rettet før afsendelse: SQL-fremstillingen
+  i ansøgningen overtrådte oprindeligt `skillFramingNotes.sql`-reglen (fremstillede
+  SQL som den centrale aktivitet i stedet for en understøttende), og
+  slutningen af sidste afsnit indeholdt en implicit svaghedserkendelse ("excited
+  about learning the securities litigation domain"), som blev fjernet, jf. reglen
+  om aldrig at skrive en mangel ind i selve ansøgningsteksten. Begge dele rettet,
+  regenereret og genverificeret ved en fornyet gennemlæsning før afsendelse. Korrekt
+  2-siders CV/1-siders ansøgning, ingen afkoblede punkter. Filer:
+  `Fabian_Hansen_CV_SSC.docx`, `Fabian_Hansen_Ansogning_SSC.docx`.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+- **Fiskars Group — Business Controller, Operations & Technology** (Frederiksberg).
+  God lokation og etableret virksomhed, men kræver eksplicit "4+ years of experience
+  in finance business partnering and controlling within supply chain", et reelt
+  flerårigt specialistkrav i et domæne uden for Fabians profil. Allerede tidligere
+  fravalgt (linje ~1131), ikke gentaget som nyt.
+- **Norse Consulting — Consultant** (København). Indholdsmæssigt god fit
+  (procurement/strategi/transformation, eksplicit entry-level spor), men firmaet er
+  ifølge egen hjemmeside stiftet 21. januar 2026, under 9 måneder gammelt.
+  Medarbejderantal kunne ikke verificeres, men en så ny virksomhed opfylder
+  højst sandsynligt ikke pkt. 33's ~20-25-gulv eller pkt. 37's startup-undtagelse
+  (kræver 50-200 ansatte). Fravalgt på virksomhedsstørrelse/-modenhed.
+- **NielsenIQ — Analytical Consultant** (København). Løn angivet til
+  384.500-530.849 kr./år (≈32.000-44.000 kr./md, midtpunkt tæt på/under
+  36-37k-grænsen), 11-måneders tidsbegrænset kontrakt (ikke fastansættelse fra
+  start), og kravet nævner "analytical and client-facing sales experience" samt
+  retail/FMCG/market research-erfaring. Kombinationen af kortvarig kontrakt, mulig
+  lav løn og et salgsorienteret element gør matchet for usikkert.
+- **DHL Freight Denmark — Business Controller** (Brøndby). Kræver "several years as
+  a Business Controller" eller en revisorbaggrund, uklart om dette er inden for det
+  hævede 3-5-års-loft. Lokation ikke hårdt udelukket, men transporttid ikke
+  præcist verificeret. Fravalgt primært på erfaringsusikkerheden.
+- **Portfolio Analyst, Tryg Forsikring A/S** (Jobindex h1701261/1701548). Lokation
+  bekræftet Klausdalsbrovej 601, **Ballerup**. Hårdt fravalgt jf. pkt. 27, uanset
+  indhold.
+- **Business Controller, Semler Gruppen** (Jobindex h1699953). Lokation bekræftet
+  **Greve**, uden for lokationskriteriet, og generisk controller-indhold uden
+  Power BI/data-vinkel retfærdiggør ikke en eventuel Roskilde/Greve-undtagelse.
+- **Group Finance BI Specialist, MAKEEN Energy** (Jobindex h1700442) — **Randers SV**,
+  Jylland. Fravalgt på lokation.
+- **Dataanalytiker for Brugeraktivering, DR (Danmarks Radio)** (Jobindex r14010724),
+  København S. Hårdt fravalgt, offentligt medie/public service (pkt. 19).
+
+**Øvrige mønstre og allerede kendte fravalg, ingen ny vurdering:** Business Controller,
+DHL Freight (Banemarksvej, Brøndby, samme firma som ovenfor men anden titel, sparsom
+kravtekst), Business Applications Consultant, Caljan A/S (Hasselager, Aarhus), junior
+projektleder, Randstad A/S (Værløse, fin lokation men fiberinfrastruktur-projektledelse
+uden data-/BI-match), Nykredit ("Byg fremtidens dataløsninger", bekræftet senior,
+samme opslag som 2026-09-22), NoHo Partners (allerede foreslået/sendt 2026-09-23),
+Verisure Business Controller (Glostrup, hårdt fravalgt jf. pkt. 36), KMD Commercial
+Excellence Manager (leder-titel), Mpya Business Controller (senior-profil), Grohe
+Sales Controller (udløbet), Flatpay BI Analyst (allerede foreslået 2026-09-01),
+Centrum Personale (allerede logget grænsetilfælde), LEMAN (bekræftet fravalgt på
+lokation), Danske Bank almindelige enheder (kun én global Data Analyst-rolle fundet,
+lokation Litauen, ikke København), Ørsted (kun senior/lead-titler eller elevprogrammer),
+Pandora (Manager-titel eller for gamle opslag), PFA Pension/PensionDanmark (kun
+studenter-/praktikstillinger eller ingen match), Danica Pension/Alm. Brand/Topdanmark/
+AP Pension/Nordea (ingen match, Nordea kun senior + graduate 2027-intag), Maersk/DSV/
+DFDS (DSV-fund er i Warszawa, ikke København, øvrige ingen match), SimCorp/KMD/
+Netcompany Advisory (ingen nye opslag, Netcompanys fulde 200+ stillingsliste tjekket
+eksplicit for "Advisory"), Coloplast/ISS/Falck/Novonesis/Demant (ingen verificerbare
+København-baserede analyst-opslag, en "Junior Data Analyst" hos issgovernance.wd1
+bekræftet at være ISS STOXX/Governance, ikke det danske ISS A/S, falsk positiv), SEB
+Financial Controller (udløbet, HTTP 410), Implement Consulting Group (Junior
+Consultant-opslag med udløbne frister fra marts/april, øvrige Graduate-spor fortsat
+2027-intag), samt hele konsulenthus-tier 2-4-listen (Kopenhagen Consulting, Bonzer,
+Radiant, Kvadrant, DAMVAD, Summit A/S, Oleto Associates, ReD Associates, Bridge
+Consulting, Emendo, Mannaz, Mobilize, Carve, Intellishore, Efficio, Knowit, Devoteam,
+Copenhagen Consulting, Another Consulting Firm, North Consulting, Nordic Consulting
+Group (bekræftet et udviklingskonsulenthus, ikke kommerciel analytics-boutique),
+Thursday Consulting, Valcon, BearingPoint) — ingen nye kvalificerende opslag ud over
+tidligere logget.
+
+**Tekniske noter:**
+- LinkedIn: enkeltords-guest-søgning (`/jobs/search/?keywords=...&f_TPR=r1814400&f_JT=F`)
+  fortsat pålideligt uden login-mur eller captcha i dag.
+- Jobindex RSS: alle 15 enkeltordsforespørgsler kørt uden fejl, men "marketing
+  analyst", "people analytics" og "pricing analyst" gav 0 hits. `geoarea=storkoebenhavn`
+  fortsat upålidelig (mange hits i Jylland/Randers/Aarhus/Hasselager/Odense).
+- Indeed.dk: fortsat konsekvent HTTP 403. StepStone.dk: nu HTTP 404 på direkte
+  søge-URL, den ene hentbare kategoriside er en ren JS-skal. Glassdoor DK: HTTP 301,
+  redirecter til generisk global forside uden Danmark-indhold. Alle tre fortsat
+  reelt ubrugelige.
+- Danske Banks reelle Oracle-rekrutteringssystem (ejqi.fa.ocs.oraclecloud.eu) kan
+  hentes direkte og er en mere pålidelig kilde end søgemaskine-snippets, som i dag
+  konsekvent viste forældede/udløbede titler ved direkte opfølgning (Pandora, PFA,
+  SEB, Implement).
+- Flere career-sider fortsat rene JS-skaller: Maersk (vacancies), Pandora
+  (jobs-oversigt), Falck (redirecter til Oracle uden indhold).
+
 ## 2026-09-24
 
 Tre parallelle søgespor kørt via underagenter: LinkedIn (enkeltords-/titelsøgninger,
