@@ -2,6 +2,147 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-26
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
+LinkedIn (enkeltords-/titelsøgninger, niveau+indhold-søgninger, tier 2-4-konsulenthuslisten
+fra pkt. 28, samt et 3-dages sortByDate-vindue som supplement til det brede 21-dages vindue);
+Jobindex RSS (20 enkeltordsforespørgsler) sammen med fornyede forsøg på Indeed.dk/StepStone.dk;
+career-site-tjek af den fulde liste fra pkt. 20 samt konsulenthustiers fra pkt. 24/28.
+ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence (senest tjekket 2026-09-18, ikke
+forfaldent). **Resultat: 1 forslag i dag.** CV og ansøgning genereret og sendt til Fabian.
+
+**Forslag 1: AL Sydbank — Data Enabler til Data Enablement**
+- Firma: AL Sydbank, dannet december 2025 ved fusion af Sydbank, Arbejdernes Landsbank og
+  Vestjysk Bank. Danmarks femtestørste bank, ca. 4.200 medarbejdere, hovedsæde i Aabenraa men
+  denne stilling er slået op med lokation København. Klart etableret, privat, intet
+  virksomhedstype- eller størrelsesproblem.
+- Lokation: København (opslagets egen lokationsangivelse, verificeret direkte ved WebFetch på
+  selve LinkedIn-opslaget, uafhængigt bekræftet metrolokation Sluseholmen 3, 2450 København SV,
+  ca. 7-8 min fra Nørreport med metro M4, ingen bus). Klart inden for 35-minuttersgrænsen (pkt. 25).
+  NB: en anden søgeagent fandt samme dags AL Sydbank-opslag for Data Governance Specialist/Data
+  Architect/AI Adoption Specialist og vurderede dem til primær base Aabenraa, det er IKKE samme
+  stilling som dette forslag, kun samme virksomhed samme dag. Data Enabler-opslaget blev
+  verificeret separat og direkte, lokation København bekræftet i selve opslagsteksten.
+- Link: https://dk.linkedin.com/jobs/view/data-enabler-til-data-enablement-at-al-sydbank-4470098567
+- Opslået: ~20 timer før tjek (25-09-2026). Ansøgningsfrist: ikke angivet. "Blandt de første 25
+  ansøgere" (lavt konkurrence-signal, pkt. 9).
+- Fuldtid: bekræftet. Sprog: dansk.
+- Erfaring: LinkedIns egen klassificering er "Nyuddannet", ingen eksplicit års-krav i teksten.
+- Løn: ikke angivet i opslaget (almindelig risiko jf. pkt. 7, men en stor etableret bank med
+  4.200 ansatte gør det til en lav risiko sammenlignet med en lille virksomhed).
+- Begrundelse: Rollen handler om at hjælpe forretningsområder med at blive mere datadrevne,
+  skabe overblik og fælles begreber på tværs af data, facilitere workshops der bygger bro
+  mellem forretning og teknik, og drive fremdrift i tværfaglige datainitiativer, et tæt
+  indholdsmæssigt match til Fabians faktiske arbejde hos COWI (ejerskab af datastrukturen og
+  kvalitetssikringen bag Engagement Survey og Workplace Assessment Survey for 7.500+
+  medarbejdere på tværs af Danmark, Norge, Sverige og Island, samarbejde med HR/løn/finans).
+  Ingen SQL- eller Power BI-krav i selve opslaget (Databricks nævnes kun som bankens egen
+  platform, ikke et kandidatkrav), hvilket faktisk sænker risikoen frem for at øge den. Intet
+  CRM-, Lean Six Sigma- eller avanceret programmeringskrav.
+- Bemærk (ærlighed): Rollen er bredere "data enablement/forandringsledelse" end ren
+  BI-/rapporteringsanalyse, så den trækker mere på stakeholder-/procesdelen af Fabians profil
+  end på det rene Power BI-håndværk. Banken er samtidig midt i en stor, kompleks
+  post-fusionsintegration (marts 2026: 84 medarbejdere fratrådte som led i tilpasningen), hvilket
+  kan betyde organisatorisk usikkerhed i en periode, uden at det i sig selv diskvalificerer
+  opslaget.
+- CV og ansøgning genereret på dansk (matcher opslagets sprog), kvalitetstjekket ved to adskilte
+  gennemlæsninger af de renderede billeder (indhold/fakta først, sprog/layout bagefter), ingen
+  fejl fundet ved nogen af gennemlæsningerne. Korrekt 2-siders CV (alle blokke samlet uden
+  sidespring)/1-siders ansøgning. Filer: `Fabian_Hansen_CV_ALSydbank.docx`,
+  `Fabian_Hansen_Ansogning_ALSydbank.docx`.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+- **Thursday Consulting — "Management Konsulent, Strategy & Operations" og "IT Management
+  Konsulent, Technology"** (København K, tier 4-listen). Begge kræver eksplicit "typisk 3-5 år
+  fra et konsulenthus eller en intern rolle i forretningsudvikling/strategi/proces/transformation"
+  og er af LinkedIn selv tagget "Erfaren", samme mønster som tidligere fravalgte Kvadrant
+  Consulting-sager, kravet er specifik forudgående konsulent-/strategirolle-erfaring, ikke bare
+  et antal år.
+- **Accenture Song — Management Consultant, Commercial Excellence** (tier 2-listen). Kræver
+  "2-4 år som konsulent eller lignende rolle inden for strategi/digital transformation" samt
+  hands-on erfaring med Salesforce/Adobe/Google/Azure-platforme, samme
+  specifik-konsulentrolle-mønster plus CRM-platformsdybde ud over HubSpot.
+- **Accenture Nordics — Strategy Analyst / Management Consulting Analyst** (tier 2-listen).
+  Graduate-program med opstart september 2027, langt over 1-2-måneders-grænsen for
+  graduate-programmer (pkt. 4/9).
+- **Kvadrant Consulting — Management Consultant (Commercial Transformation & Strategy)**
+  (København, del af børsnoterede Elixirr Group). Kræver eksplicit "minimum 2 years in
+  management consulting or in-house consulting role", en specifik konsulenterfaring Fabian ikke
+  har.
+- **ZURU Edge — Sales Analyst, Nordics & Benelux** (København). Stærkt værktøjsmatch (Excel,
+  Power BI, 1-2 års erfaring), men rollen er eksplicit beskrevet som en vej mod Key Account
+  Management med ca. 30 procent reelt kommercielt salgsspor (kundekonti, nye
+  produktlisteringer/distribution, forhandlingsstøtte), ikke en ren data/proces-målt
+  Sales/Revenue-Ops-rolle. Hårdt fravalgt jf. salgsrolle-reglen.
+- **Danske Bank — Analyst, Corporate & Sustainability Advisory DK & NO**. Formelle krav bestås,
+  men indholdet er kreditanalyse/kapitalstruktur-rådgivning uden nogen Excel/SQL/Power BI-
+  nævnelse, et reelt indholdsmæssigt hul til Fabians BI-/master data-profil.
+- **RiskPoint Group — Business Intelligence Developer** (København, 325+ ansatte, etableret).
+  Hårdt fravalgt: kræver "excellent understanding of SQL" som kernedisciplin plus et
+  programmeringssprog (Python/Go/Java), rammer direkte det hårde avanceret-SQL/
+  programmeringsfravalg.
+- **AL Sydbank — Data Governance Specialist / Data Architect / AI Adoption Specialister**
+  (samme virksomhed/dag som forslag 1, men andre stillinger). Fravalgt på primær lokation
+  (Aabenraa/Peberlyk) og på krav om reel forudgående erfaring med data governance/arkitektur.
+- **Pandora — Business Analyst, Data & Reporting** (Copenhagen V). Meget stærkt indholdsmæssigt
+  match (Excel, Power BI, Power Query, datavalidering), men kunne IKKE bekræftes som et aktivt
+  opslag, alle dybe joblinks giver HTTP 404 ved direkte hentning (samme mønster i hver kørsel
+  siden 2026-09-11), og rollen findes ikke på LinkedIn. Ikke foreslået uden bekræftet
+  verifikation, værd at Fabian selv tjekker manuelt på careers.pandoragroup.com.
+- **NielsenIQ — Analytical Consultant**: allerede logget grænsetilfælde 2026-09-25
+  (løn/kontrakt-usikkerhed), uændret.
+- **Onomondo — Growth Operations Specialist**: allerede fravalgt to gange tidligere i denne fil,
+  fortsat på indhold (avanceret HubSpot marketing-automation-opbygning, ikke dataanalyse).
+- **Lagkagehuset — Group Business Controller**: kunne ikke bekræftes som en reel
+  København-baseret rolle, søgeresultater peger på primært UK-fokus. Fravalgt på usikkerhed.
+- **JP/Politikens Hus — Strategic Finance Partner (Business Media)**: bekræftet basestation
+  New York, USA, ikke København. Fravalgt på lokation.
+- **Valcon — Graduate Consultant 2026**: graduate-intag vurderet udsolgt/for langt ude
+  (ansøgningsvindue lukker 31. januar, opstart efter 1-2-måneders-grænsen).
+- **Netcompany Consulting — Associate Consultant**: reelt en udviklerrolle (kræver
+  ingeniør-/CS-baggrund, objektorienteret programmering), ikke et data/BI/marketing-match
+  uanset navnet.
+
+**Øvrige mønstre og allerede kendte fravalg, ingen ny vurdering:** offentlig sektor (Sund &
+Bælt, SKI, Fødevarestyrelsen, Politi, DR, Vurderingsstyrelsen, Banedanmark m.fl.), Ballerup/
+Glostrup-opslag (Verisure, Tryg), Netcompany-kernekoncern (hårdt firmafravalg), Flatpay,
+SS&C Technologies (allerede foreslået 2026-09-25), Centrum Personale/LEMAN/Fiskars (allerede
+loggede grænsetilfælde), Pleo/Demant/ZS/Ascendis (senior/staff-titler), Resights (allerede
+logget, vagt indhold), samt hele konsulenthus-tier 2-4-listen og den oprindelige pkt.
+24-liste for øvrigt (Nykredit, Enalyzer, Annalect/Omnicom, Danske Bank øvrige enheder, Ørsted,
+Pandora øvrige opslag, SEB, PensionDanmark, Implement Consulting Group, PFA/Alm.
+Brand/Topdanmark/Danica/AP Pension/Nordea, Maersk/DSV/DFDS, SimCorp/KMD, Coloplast/ISS/Falck/
+Novonesis/Demant, Kopenhagen Consulting, Bonzer, Radiant, DAMVAD, Summit A/S, Oleto Associates,
+ReD Associates, Bridge Consulting, Emendo, Mannaz, Mobilize, Carve, Intellishore, Efficio,
+Knowit, Devoteam, Copenhagen Consulting, Another Consulting Firm, North Consulting, Nordic
+Consulting Group, Right People Group, Copenhagen Data, PA Consulting, Valcon øvrige spor,
+Deloitte, EY-Parthenon, KPMG, PwC, BearingPoint, Cognizant, TCS, Basico, Netcompany Advisory)
+ingen nye kvalificerende opslag ud over tidligere logget.
+
+**Tekniske noter:**
+- LinkedIn: enkeltords-guest-søgning (`/jobs/search/?keywords=...&f_TPR=r1814400&f_JT=F`)
+  fortsat pålideligt uden login-mur. Et supplerende 3-dages `sortBy=DD`-vindue
+  (`f_TPR=r259200`) var effektivt til at finde reelt nye opslag i den ellers mættede pulje,
+  herunder dagens AL Sydbank-fund (fundet via "Master Data"-søgning, en titel/team der ikke
+  stod på den eksisterende titelliste, samme mønster som Enalyzer-fundet). Det
+  OR-kombinerede `/jobs/search-results/?...&geoId=...`-format (pkt. 23/29) ramte fortsat en
+  login-mur og kunne ikke bruges.
+- Jobindex RSS: 20 enkeltordsforespørgsler kørt uden tekniske fejl, men flere gav 0 hits i dag
+  ("commercial analyst", "analytics consultant", "people analytics", "reporting analyst",
+  "kpi analyst", "pricing analyst", "category analyst", "marketing analyst", "insight
+  analyst", "performance analyst"). `geoarea=storkoebenhavn` fortsat upålidelig (mange hits i
+  Jylland/Fyn).
+- Indeed.dk fortsat HTTP 403. StepStone.dk fortsat HTTP 404 på direkte søge-URL. Glassdoor DK
+  ikke afprøvet i dag pga. tidsprioritering, bør tjekkes næste kørsel.
+- Danske Banks Oracle-rekrutteringssystem (ejqi.fa.ocs.oraclecloud.eu) gav HTTP 500 i dag
+  (tidligere kørslers mest pålidelige kilde for Danske Bank, midlertidigt nede).
+- Nykredits karriere.nykredit.dk gav DNS-fejl i dag. Pandoras careers.pandoragroup.com og alle
+  dybe joblinks giver fortsat konsekvent HTTP 404 ved direkte WebFetch på trods af fortsat
+  søgemaskineindeksering, uændret problem siden 2026-09-11.
+- kvadrantconsulting.dk og kopenhagenconsulting.dk (forkerte domænenavne, findes ikke) gav
+  DNS-fejl, korrekte domæner er kvadrant.dk og kopenhagenkonsulting.com.
+
 ## 2026-09-25
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
