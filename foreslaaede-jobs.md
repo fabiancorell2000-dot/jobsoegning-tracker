@@ -2,6 +2,112 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-27
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
+LinkedIn (enkeltords-/titelsøgninger for hele titellisten, niveau+indhold-søgninger,
+et 3-dages sortByDate-vindue, samt navngivne søgninger på Valcon/BearingPoint/Emendo/
+Mannaz/Intellishore/Efficio); Jobindex RSS (36 enkeltordsforespørgsler) sammen med
+fornyede forsøg på Indeed.dk/StepStone.dk/Glassdoor DK/ofir.dk/jobsafari.dk;
+career-site-tjek af den fulde liste fra pkt. 20 samt konsulenthustiers fra pkt. 24/28,
+inklusiv aktiv søgning efter nye konsulenthuse. **Resultat: 0 forslag i dag.** Ingen
+opslag bestod alle hårde krav, derfor intet CV/ansøgningsmateriale genereret.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+
+- **KPMG Denmark — Consultant, Procurement Advisory** (Tier 2, København, "Nyuddannet",
+  fuldtid). Formelle krav bestås, men reelt indhold er sourcing/outsourcing/leverandør-
+  styringsanalyse, kræver "1-3 years... preferably in sourcing, outsourcing, or supplier
+  management", intet reelt overlap med Fabians BI-/rapporterings-/salgsdataprofil.
+  Samme mønster som tidligere fravalgte Kvadrant/Accenture Song/Thursday
+  Consulting-sager (kræver specifik forudgående konsulent-/domæneerfaring).
+- **PEAK Wind — Strategy Consultant, Wind Energy**. Ellers plausibelt indhold, men
+  kræver eksplicit "2+ years professional experience in energy sector OR management
+  consulting", samme forudgående-specifik-erfaring-mønster.
+- **Autodesk — Business Consultant, AECO Technical Advisory** (København). Kræver
+  "substantial experience" og dokumenteret erfaring med at lede komplekse forløb,
+  lønbånd (EUR 69-101k) bekræfter et tydeligt seniorniveau. For erfarent.
+- **ISS A/S — Global Sales Operations Specialist** (København). LinkedIn tagger den
+  selv "Mid-Senior level" og kræver "3+ years in sales, account management, and/or
+  sales operations" med dokumenteret salgstrackrecord, et reelt salgserfaringskrav,
+  ikke en data-/procesmålt Sales Ops-rolle som undtagelsen i "Uændret"-sektionen
+  kræver.
+- **Andel Energi — kommerciel indsigtsrolle** (Excel/PowerPoint, abonnementsforretning,
+  ellers rimeligt indholdsmatch). Fravalgt på lokation: Svinninge, langt uden for
+  selv Roskilde-undtagelsens yderste grænse.
+- **Collectia A/S — BI Reporting Specialist** (Brøndby, tidligere ulmende
+  grænsetilfælde). Fulgt op i dag: ansøgningslinket melder udløbet frist, og
+  virksomhedens egen career-side siger nu eksplicit "ingen ledige stillinger p.t."
+  Reelt dødt opslag på trods af et frisk-udseende Jobindex-tidsstempel.
+- **Ramboll Management Consulting** — kun et internship fundet (Business Strategy &
+  Transactions), ansøgningsfrist allerede overskredet (15. marts 2026) og under alle
+  omstændigheder ikke en fuldtidsansættelse. Nyt, etableret (del af Ramboll-koncernen)
+  konsulenthus opdaget i dag, ingen kvalificerende stilling p.t., men værd at tilføje
+  til den løbende career-site-tjekliste fremover (pkt. 24's princip om at udvide
+  listen).
+- **Valcon, Kopenhagen Konsulting, Carve Consulting, Efficio, Bonzer**: alle tjekket
+  direkte i dag, kun senior-/principal-/manager-titlede åbne stillinger fundet
+  (Valcon: Associate Partner/Competence Team Lead; Kopenhagen Konsulting: ServiceNow
+  Consultant/Engagement Manager/Principal/Senior Management Consultant; Carve:
+  ServiceNow Konsulent/Senior Konsulent-Manager x2; Efficio: Senior Consultant), eller
+  (Bonzer, Junior Consultant) allerede tidligere vurderet og fravalgt (reelt SEO-kunde-
+  relations-/retention-arbejde, rammer salgs-/CS-fravalget).
+- **Falck — Business Analyst**: bekræftet at stillingen findes (Google-indeksering),
+  men Falcks Oracle Cloud-rekrutteringssystem er en ren JS-SPA der ikke kunne
+  scrapes for fulde krav/lokation/dato. Ikke foreslået uden fuld verifikation, værd
+  at forsøge et direkte joblink næste kørsel.
+- **AL Sydbank — Data Enabler/Data Architect/Data Governance Specialist-trioen**:
+  dukkede op igen, men ikke dybdetjekket i dag for lokation/erfaringsniveau
+  (tidsprioritering). Ikke fravalgt med sikkerhed, kun ikke undersøgt færdigt, værd
+  at følge op næste kørsel.
+- **Øvrige allerede kendte fravalg, genbekræftet uden ny vurdering:** AP Pension
+  (Forretningsanalytiker, nu bekræftet udløbet), DFDS (Data Consultant, kræver
+  3-5+ år og teamlederansvar), Emendo (Junior Consultant-titler er reelt
+  pharma-/ingeniørprojektroller), ReD Associates/Oleto Associates/Summit A/S/
+  Mobilize Strategy Consulting (0 åbne stillinger), Nykredit ("Byg fremtidens
+  dataløsninger", bekræftet senior-rolle), JP/Politikens Hus (Sales Operations
+  Coordinator, reelt Aarhus Havn trods København-tag), Normal A/S (Jylland-baseret),
+  StockRate Asset Management (intet data-/BI-match), Enalyzer (kun en deltids
+  Customer Success-studenterrolle), The Tech Collective (AI Business Analyst, samme
+  uafklarede GenAI-dybde-usikkerhed som ved tredje vurdering i træk), samt en lang
+  række offentlige/statsejede opslag fundet under "analytiker"/"konsulent"-søgninger
+  (Politi, Banedanmark, Energinet, SKI, Region), alle hårdt fravalgt jf. pkt. 19/32.
+  Netcompany-kernekoncern, Ballerup/Glostrup-opslag (Verisure, Tryg, Atea, Siemens)
+  og hele konsulenthus-tier 2-4-listen for øvrigt (Implement, PA Consulting,
+  Accenture, Deloitte, EY-Parthenon, PwC, BearingPoint, Cognizant, TCS, Mannaz,
+  Intellishore, Knowit, Devoteam, Netcompany Advisory, Bridge Consulting, DAMVAD
+  Analytics, North Consulting, Nordic Consulting Group, Thursday Consulting, Right
+  People Group, Nine, Copenhagen Data) gav ingen nye kvalificerende opslag ud over
+  tidligere logget.
+
+**Tekniske noter:**
+- LinkedIn: enkeltords-guest-søgning (`f_TPR=r1814400&f_JT=F`) fortsat pålideligt
+  uden login-mur. Det OR-kombinerede `/jobs/search-results/?...&geoId=...`-format
+  (pkt. 23/29) ramte fortsat en login-mur. Bekræftet i dag: hverken dette format
+  eller enkeltords-søgeendepunktet filtrerer reelt på flere OR-kombinerede
+  firmanavne/ord i én forespørgsel, begge behandler det som en bred generisk
+  fritekstsøgning, brug fortsat kun ét ord/udtryk ad gangen.
+- Jobindex RSS: 36 enkeltordsforespørgsler kørt. Ny observation i dag: flere
+  to-ords engelske fagudtryk gav helt tomme feeds (reporting analyst, performance
+  analyst, people analytics, digital analytics, pricing analyst, category analyst,
+  marketing analyst, insight analyst, insights analyst, revenue analyst, commercial
+  controller, people analyst), muligvis værd at afprøve som enkeltord i stedet for
+  en to-ords frase næste kørsel. `geoarea=storkoebenhavn` fortsat upålidelig.
+- Indeed.dk og Glassdoor DK fortsat HTTP 403. StepStone.dk fortsat HTTP 404/JS-skal
+  uden reelt indhold. ofir.dk fortsat HTTP 410. jobsafari.dk fortsat permanent
+  redirect til Jobindex-forsiden. Alle fire fortsat reelt ubrugelige.
+- Danske Banks Oracle-rekrutteringssystem (JS-SPA) kunne ikke scrapes i dag (samme
+  problem som HTTP 500 den 26-09, nu i stedet et tomt JS-skal). Falcks career-side
+  har samme Oracle Cloud SaaS JS-SPA-begrænsning. Nykredits karriere.nykredit.dk gav
+  fornyet DNS-fejl.
+- Bemærk til fremtidig disambiguering: "ISS" i søgeresultater for dataanalytiker-
+  roller i København rammer ofte ISS STOXX/ISS Governance (finansdata-/indeksfirma),
+  ikke ISS World Services (facility services-firmaet på career-site-listen), to
+  helt forskellige virksomheder med samme forkortelse.
+- Kopenhagen Konsulting og Carve Consultings reelle jobopslag ligger på eksterne
+  ATS'er (hhv. kopenhagenkonsulting.hr-on.com og career.hitalento.com/carve-consulting/),
+  ikke på virksomhedernes egne career-sider, nyttige direkte links til fremtidige tjek.
+
 ## 2026-09-26
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
