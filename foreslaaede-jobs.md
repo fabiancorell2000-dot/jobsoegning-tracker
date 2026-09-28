@@ -2,6 +2,117 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-28
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
+LinkedIn (enkeltords-/titelsøgninger, herunder et frisk 3-dages sortByDate-vindue samt
+21-dages bredere dækning, niveau+indhold-søgninger, og navngivne konsulenthustjek
+Netcompany Advisory/Devoteam/Copenhagen Consulting/Knowit); Jobindex RSS (~20
+enkeltordsforespørgsler) sammen med WebSearch mod Indeed.dk/StepStone.dk og
+konsulenthuse; career-site-tjek af den fulde liste fra pkt. 20 samt
+konsulenthustiers fra pkt. 24/28, inklusiv aktiv søgning efter nye konsulenthuse.
+**Resultat: 0 forslag i dag.** Ingen opslag bestod alle hårde krav, derfor intet
+CV/ansøgningsmateriale genereret.
+
+Dette er nu fjerde dag i træk (2026-09-25 til 2026-09-28, jf. tidligere logs) med lav
+eller nul volumen på trods af pkt. 35's mål om 2-3 forslag/dag. Alle tre søgespor
+pegede i dag samlet på samme konklusion: de reelt aktive, kvalificerende opslag
+inden for den aktuelle ~3-ugers vindue og de dækkede kilder/firmalister er stort set
+udtømte, ikke at søgedækningen mangler bredde. LinkedIn-sporet bemærkede specifikt at
+den samme håndfuld firmaer/opslag (Verisure, NielsenIQ, AL Sydbank, RiskPoint,
+Netcompany, Accenture, KPMG, BCG Platinion, Inverto, Pandora, ISS, Tryg) går igen på
+tværs af næsten alle søgeord, alle allerede fravalgt eller foreslået tidligere.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+
+- **TDC Erhverv — Data Governance Specialist** (Teglholmsgade 1, København, fuldtid,
+  frist 30. november, del af Nuuday/TDC-koncernen, klart etableret). Kravet er vagt
+  ("sufficient years' experience in data management and data governance"), ingen
+  eksplicit SQL-dybde nævnt, men indholdet (stakeholder-facilitering, Data Domain
+  Owners/Stewards, semantisk modellering, Enterprise Business Glossary) ligner mere
+  forandringsledelse/governance-proces end ren BI-rapportering, og minder om det
+  tidligere fravalgte AL Sydbank Data Governance-opslag. Uklart om det reelt kræver
+  mere specifik governance-baggrund end Fabian har, derfor ikke foreslået som et
+  fuldt match. Link: https://dk.linkedin.com/jobs/view/data-governance-specialist-at-tdc-erhverv-4467704849
+- **Impact Fund Denmark (IFU) — People Analytics & Rewards Specialist** (København Ø).
+  Indholdsmæssigt stærkt match (Excel-tung, compensation-data, dashboards, engagement
+  surveys, minder om COWI-arbejdet), men IFU er statsejet (offentlig sektor, hårdt
+  fravalgt jf. pkt. 19/32), og ansøgningsfristen (23. september) er allerede
+  overskredet. Fravalgt på begge grunde.
+- **KAYAK — Data Analyst** (København, Booking Holdings-ejet, etableret). Kræver
+  eksplicit "hands-on experience in Python for data processing and automation" og
+  bygning af "automated SQL/Python pipelines", rammer det hårde fravalg af avanceret
+  SQL/programmering. Fravalgt.
+- **Implement Consulting Group — Graduate Management Consultant within Finance &
+  Economics** (Gentofte, 37 ansøgere, frist 15. oktober). Bekræftet startdato
+  august/september 2027 eller senere, langt over graduate-programgrænsen (pkt. 4).
+  Samme mønster vurderes at gælde de øvrige 7 Implement Graduate-spor fundet i dag
+  (Public, People & Leadership, Operations, Energy, Digital, Strategy & Commercial,
+  Supply Chain Planning, sidstnævnte eksplicit mærket "Graduates 2027").
+- **KPMG Denmark — (Junior) Consultant, Business Support in Audit** (152 ansøgere).
+  Reelt et administrativt audit-support-job (client/engagement-godkendelser,
+  fakturering), intet data/BI/rapporteringsindhold. Fravalgt på indholdsmatch.
+- **Szpirt & Company — praktikplads inden for public affairs/kommunikation**
+  (København K, opslået 25-09-2026). Ulønnet praktikplads, ikke en fuldtidsansættelse.
+  Fravalgt.
+- **PA Consulting — Junior Consultant (student)**, **Kvadrant Consulting —
+  Business Analyst (Student)**: begge titler indikerer selv studenterjob, fravalgt
+  jf. fuldtidskravet.
+- **Valcon — "Graduate Consultant for 2026, CPH"**: linket er dødt (404), kunne ikke
+  verificeres. Valcons øvrige åbne stillinger er enten deltid ("Junior consultant,
+  1-2 days a week") eller allerede tidligere tjekket og fravalgt (senior-roller).
+
+**Øvrige mønstre, ingen ny vurdering nødvendig:** SS&C Technologies (Associate Data
+Analyst, allerede foreslået 2026-09-25), NoHo Partners Denmark (Business Controller,
+allerede foreslået 2026-09-23), Mpya Finance (Business Controller, senior-profil,
+allerede fravalgt), Fiskars Group (Business Controller, kræver eksplicit 4+ års
+erfaring, allerede fravalgt), Resights ApS (Business Analyst, reelt
+sabbatår-/gymnasieelev-målrettet, allerede fravalgt flere gange), Centrum Personale
+A/S (anonym klient, 2-årig tidsbegrænset kontrakt, allerede logget grænsetilfælde),
+Nordea Digital Analyst (position besat), PensionDanmark (7 åbne stillinger, ingen
+match), PFA Pension (studenter-/praktikroller + teknisk AI-rolle, ingen match),
+Kopenhagen Konsulting (kun ServiceNow/Principal/Senior-roller), Devoteam (ServiceNow
+Consultant + Regnskabsmedarbejder, uden for profil), samt en lang række offentlig
+sektor (Politi/PET, DTU, Roskilde University, Lejre Kommune, Københavns Kommune,
+Vurderingsstyrelsen, Skatteankestyrelsen, Banedanmark) og eksplicitte senior/lead/
+manager-titler (BCG Platinion, Horváth, Inverto/BCG, Nordea Lead Talent Management,
+Klarna, Trustpilot), hårdt fravalgt uændret. Ballerup/Glostrup-baserede roller
+(Ambu, Aprismo, Siemens, Atea, Tryg, Verisure) fortsat hårdt fravalgt jf. pkt. 27/36.
+
+**Nye konsulenthuse afklaret (leads fra 2026-09-27):**
+- **Comentor**: bekræftet ikke længere selvstændig for denne type roller (overdraget
+  til Sensu A/S siden 2022, fokus lederudvikling, ikke BI/analyse), ingen egne
+  jobopslag. Fjernes fra fremtidige tjek.
+- **4C**: afklaret som tre forskellige firmaer. 4C Group AG (schweizisk/tysk, ingen
+  Danmark-tilstedeværelse) er ikke relevant. "4C Management Consulting A/S" (dansk,
+  ~120 ansatte, BI/finance/sales/marketing-fokus) og "We Are 4C" (Salesforce-hus)
+  identificeret, men ingen åbne stillinger fundet i dag for nogen af dem, værd at
+  genbesøge 4C Management Consulting A/S specifikt fremover.
+- **CloserConsulting**: ikke nået at undersøge i dag, stadig uverificeret.
+- **Szpirt & Company**: bekræftet eksisterende med aktive opslag, men indtil videre
+  kun praktik-/ulønnede roller fundet.
+
+**Tekniske noter:**
+- LinkedIn enkeltords-guest-søgning (`f_TPR`/`f_JT=F`/`sortBy=DD`) fortsat pålidelig
+  uden login-mur gennem ca. 20 kald i dag på tværs af alle tre spor. Det
+  OR-kombinerede `/jobs/search-results/?...&geoId=...`-format ramte fortsat
+  login-mur (nu bekræftet konsekvent siden 2026-09-27).
+  "Netcompany Advisory" som søgeord returnerede primært almindelige Netcompany-
+  enheder, uklart om Advisory-enheden selv har egne åbne LinkedIn-opslag p.t.
+- Jobindex RSS: to-ords fagudtryk ("commercial analyst", "marketing analyst",
+  "people analytics", "performance analyst") gav fortsat 0 hits, bekræfter at disse
+  bør køres som enkeltord. `geoarea=storkoebenhavn` fortsat upålidelig.
+- Indeed.dk/StepStone.dk: direkte WebFetch ikke forsøgt i dag (tidligere kørsler har
+  logget vedvarende HTTP 403/404), WebSearch brugt i stedet og gav enkelte spor
+  (fx KAYAK-opslaget).
+- Pandora careers.pandoragroup.com fortsat HTTP 404 på alle dybe joblinks (uændret
+  siden 2026-09-11). PA Consulting-siden gav en redirect-loop (>10 redirects).
+  Devoteams danske karriereside gav HTTP 403. Nykredits karriere.nykredit.dk kunne nu
+  hentes (modsat tidligere DNS-fejl), men uden konkrete stillingsopslag på selve
+  landingssiden. PensionDanmark og PFA Pensions ATS-sider fortsat gode, direkte
+  hentbare kilder.
+- ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence.
+
 ## 2026-09-27
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
