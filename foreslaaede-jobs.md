@@ -2,6 +2,111 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-29
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
+LinkedIn (enkeltords-/titelsøgninger med f_TPR=r1814400/f_JT=F, niveau+indhold-søgninger,
+navngivne konsulenthustjek tier 2-4); Jobindex RSS (~15 enkeltordsforespørgsler) sammen med
+fornyede forsøg på Indeed.dk/StepStone.dk/Glassdoor DK/ofir.dk/jobsafari.dk; career-site-tjek
+af den fulde liste fra pkt. 20 samt konsulenthustiers fra pkt. 24/28, inklusiv aktiv søgning
+efter nye konsulenthuse. **Resultat: 1 forslag i dag.** CV og ansøgning genereret og sendt
+til Fabian.
+
+**Forslag 1: Bellagroup — BI & Business Analyst**
+- Firma: Bellagroup A/S, dansk, B Corp-certificeret hospitality-/eventkoncern der driver Bella
+  Center, Bella Arena, AC Hotel Bella Sky og Copenhagen Marriott m.fl., ~1.600 hotelværelser,
+  65.000+ m² eventfaciliteter, 200+ medarbejdere ansat siden 2021, ejet af dansk konsortium.
+  Klart etableret, privat, intet virksomhedstype- eller størrelsesproblem (pkt. 1/30/33).
+- Lokation: Bella Center-området, Ørestad/Amager, København. Metro M1 (Bella Center station)
+  direkte til bygningen, ingen bus. Øst/sydøst-retning, ikke berørt af Lyngby-grænsen i pkt. 36.
+  Består lokationskriteriet klart.
+- Link: https://dk.linkedin.com/jobs/view/bi-business-analyst-at-bellagroup-4473205381
+- Opslået: ~10 minutter før tjek i dag (29-09-2026), meget friskt. Ansøgningsfrist: ikke angivet.
+- Fuldtid: bekræftet ("Fuldtid" direkte på opslaget). Sprog: dansk.
+- Ansøgertal: "Bliv en af de første 25 ansøgere", positivt lav-konkurrence-signal (pkt. 9).
+- Løn: ikke angivet i opslaget (almindelig risiko jf. pkt. 7), men lav risiko givet en stor,
+  etableret koncern.
+- Erfaring: opslaget beder om "et par års erfaring inden for Business Intelligence, analyse
+  eller data-visualisering", eksplicit inden for den lempede pkt. 2/31-grænse. LinkedIns eget
+  seniority-tag siger "Erfaren", men det er en automatisk, upålidelig label, ikke et krav i selve
+  teksten, og der er intet eksplicit senior/lead/manager-krav nogen steder i opslaget. Vurderet
+  på reelt indhold jf. pkt. 34.
+- Begrundelse: Rollen er "central sparringspartner for både Commercial, Production, IT og
+  Finance", med ansvar for at indsamle og kvalificere forretningskrav, omsætte dem til
+  analyse-/rapporteringsløsninger og udvikle dashboards og rapporter til ledelsens beslutninger.
+  Det er stort set samme øvelse som Fabians arbejde hos COWI, hvor han bygger og vedligeholder
+  Power BI-dashboards på tværs af HR/løn/finans-stakeholdere og ejer datastrukturen bag
+  Engagement Survey for 7.500+ medarbejdere. Kernekravet er Power BI (DAX nævnt som "gerne",
+  ikke et krav), hvilket matcher Fabians stærkeste kompetence direkte.
+- Bemærk (ærlighed): Opslaget kræver også "SQL og kendskab til relationelle databaser" samt
+  grundlæggende systemarkitekturforståelse. SQL-kravet ligger tættere på moderat end
+  grundlæggende i kombination med databaseforståelsen, en reel, om end ikke diskvalificerende,
+  svaghed jf. pkt. 10. Fabian har ingen bekræftet DAX-erfaring (kun almindelig Power BI), og
+  systemarkitektur-elementet er ikke tydeligt dækket af hans hidtidige erfaring. LinkedIns
+  "Erfaren"-tag og den uspecificerede "et par års erfaring"-formulering giver en vis usikkerhed
+  om det reelle erfaringsniveau, som ikke kan afklares yderligere uden at kontakte virksomheden.
+- CV og ansøgning genereret på dansk (matcher opslagets sprog), kvalitetstjekket ved to
+  adskilte gennemlæsninger af de renderede billeder (fakta/indhold, derefter sprog/layout).
+  Korrekt 2-siders CV (alle COWI-punkter samlet på side 1) og 1-siders ansøgning, ingen
+  opdigtede fakta, ingen nævnt svaghed i selve ansøgningsteksten, ingen tænkestreger/kolon/
+  markdown-tegn. Filer: `Fabian_Hansen_CV_Bellagroup.docx`, `Fabian_Hansen_Ansogning_Bellagroup.docx`.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+
+- **AL Sydbank — Data Enabler til Data Enablement** (København eller Aabenraa, frist 16.
+  oktober). Indholdet er reelt data governance/forandringsledelse/stakeholder-facilitering på
+  tværs af banken, ikke BI-rapportering/analyse, samme mønster som det tidligere fravalgte TDC
+  Erhverv-opslag. Svagt indholdsmatch, ikke foreslået. Søsteropslagene Data Governance
+  Specialist og Data Architect er endnu tydeligere ren governance/arkitektur, samme fravalg.
+- **DFDS — Data Consultant, Group Finance & Decarbonization** (København). Stærkt
+  Power BI-tilstødende indhold, men beskriver eksplicit "leading a cross-functional team of
+  Data Engineers and BI Analysts", hårdt teamledelses-fravalg (pkt. 31). Fravalgt.
+- **DFDS — (Senior) Marketing Analytics Specialist**: eksplicit senior-titel, hårdt fravalgt.
+- **Thursday Consulting — Management Konsulent, Strategy & Operations**: kræver eksplicit
+  "typisk 3-5 år fra et konsulenthus eller en intern rolle i forretningsudvikling/strategi/
+  proces/transformation", en specifik forudgående konsulent-/strategierfaring Fabian ikke har.
+  Allerede vurderet og fravalgt tidligere, ingen ny vurdering nødvendig.
+- **Intellishore — Associate Consultant** (AI & Engineering samt Strategy & Transformation):
+  begge deltidsstillinger for studerende der stadig læser, fravalgt jf. fuldtidskravet.
+- **Immeo — It-konsulent**: kræver kandidatgrad i datalogi/softwareudvikling og stærk
+  .NET-ekspertise, reel programmeringsrolle uden for Fabians profil.
+- **RDT — Business Analyst**: offentlig-sektor-tilknyttet (motorregistrering/EUCARIS), kræver
+  "extensive experience" med specifik EU-lovgivning, for specialiseret og reelt senior.
+- **NTU International A/S — Data, Economic & Impact Analyst**: tidsbegrænset kontrakt, ikke
+  fastansættelse, plus kræver specifik impact assessment-erfaring inden for international
+  udvikling, svagt indholdsmatch.
+- **Implement Consulting Group — samtlige 7-8 "Graduate Management Consultant"-spor**
+  (Finance & Economics, Operations, Public, Digital, Strategy & Commercial, People &
+  Leadership, Supply Chain Planning): bekræftet startdato august/september 2027 eller starten
+  af 2028, langt uden for graduate-programgrænsen (pkt. 4/6).
+- **KPMG Advisory Academy 2027**: startdato april 2027, for langt ude.
+- **Verisure/Tryg/Netcompany (øvrige roller)**: hårdt firma-/lokationsfravalg jf. pkt. 26/27/36,
+  dukker stadig jævnligt op i søgninger, ingen ny vurdering nødvendig.
+- Diverse Jobindex RSS-hits (Eltronic, Dagrofa, MAKEEN Energy, DLG, Bostik, FlowCon, Danish
+  Crown m.fl.): alle verificeret at ligge i Jylland/Fyn trods `geoarea=storkoebenhavn`.
+
+**Nye firmaer/leads noteret til fremtidig tjek:**
+- **Round** (round.dk, Esplanaden 8C, København K) — boutique strategy consulting/investment-
+  firma, ~30 konsulenter, 5 partnere, etableret nok. Ingen åbne stillinger i dag, tilføjes til
+  den faste career-site-tjekliste.
+- **4C Management Consulting A/S** og **CloserConsulting**: CloserConsulting bekræftet kun 1
+  ansat (Proff/RocketReach), falder formentlig under enkeltmandsvirksomheds-udelukkelsen i
+  pkt. 28, værd at bekræfte endeligt før den droppes helt. 4C Management Consulting A/S fortsat
+  uden fundne opslag.
+
+**Tekniske noter:**
+- LinkedIn enkeltords-søgning (`f_TPR=r1814400`/`f_JT=F`) fortsat pålidelig uden login-mur på
+  tværs af alle tre spor i dag. Det OR-kombinerede `/jobs/search-results/?...&geoId=...`-format
+  ramte igen en login-mur ved første forsøg (samme mønster som senest).
+- **Indeed.dk / Glassdoor DK**: WebSearch finder kategori-sider fint, men direkte WebFetch på
+  selve listesiderne gav konsekvent HTTP 403 Forbidden. Kan ikke bruges direkte i dag.
+- **StepStone.dk**: ingen 403, men ren JS-shell, WebFetch fik intet faktisk jobindhold ud.
+- **ofir.dk**: fortsat HTTP 410 Gone. **jobsafari.dk**: fortsat 301-redirect til jobindex.dk's
+  forside (månedligt tjek bekræftet, begge fortsat ubrugelige).
+- Materials-toolchain: `libreoffice-writer` og `poppler-utils` var ikke forudinstalleret i
+  denne friske container (samme kendte problem som README beskriver), installeret manuelt før
+  generering, ingen ændring nødvendig i selve scripts.
+
 ## 2026-09-28
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
