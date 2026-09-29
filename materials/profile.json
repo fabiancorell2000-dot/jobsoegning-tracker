@@ -4,7 +4,7 @@
   "defaultTargetTitle": "Business & Data Analyst",
   "degreeShort": "MSc in Economics and Marketing",
   "skillFramingNotes": {
-    "sql": "Solid, real working knowledge of SQL, not expert or advanced level, but far from weak, and learns new query/data-modelling needs quickly on the job. Not a daily core task in itself, it supports Power BI reporting and data modelling rather than being the main activity. In cover letters, never phrase it as if SQL querying/modelling is the central, daily activity (e.g. 'I query and model data directly in SQL...' overstates it). Correct framing, Fabian's own confirmed wording (2026-09-07): 'I work with Power BI and data modelling, and I am comfortable querying data in SQL when supporting reporting and analysis.' Never phrase it as limited/basic either, and never as expert-level mastery.",
+    "sql": "SQL is NOT one of Fabian's strong or core competencies. Power BI and Excel are clearly his strongest skills by a wide margin. SQL is something he has touched and worked with somewhat less, mainly to support Power BI reporting, not a skill to sell hard on its own. Never phrase SQL as a strong competency, never as expert/advanced level, and never as if SQL querying/modelling is the central, daily activity (e.g. 'I query and model data directly in SQL...' overstates it). Correct framing, Fabian's own confirmed wording (2026-09-29): SQL is 'something I've touched and worked with a bit less' than his main tools. When a posting asks for SQL, it is fine to mention it briefly and honestly as a supporting skill (do not omit it if directly relevant, that would look evasive), but always keep it modest and subordinate to Power BI/Excel, e.g. 'I also have some working experience with SQL, mainly to support Power BI reporting and analysis.' Never claim confident, skilled, or daily SQL work.",
     "tableau": "Academic, not professional, experience: a full 6th-semester bachelor course at Roskilde University built entirely around Tableau, doing hands-on data analysis and visualisation work throughout, not just a passing mention in one project. In cover letters, phrase this as real, hands-on coursework experience, not as professional work experience (that would be fabricated) and not as a minor/incidental exposure (that would undersell it)."
   },
   "contact": {
@@ -13,7 +13,7 @@
     "email": "fabiancorell2000@gmail.com",
     "linkedin": "linkedin.com/in/fabian-corell"
   },
-  "profileSummary": "Business & Data Analyst with 2+ years of experience turning people, payroll and financial data into actionable reporting. At COWI, I own Power BI solutions and data structures spanning the company's 7,500+ employees worldwide, partnering directly with HR, Payroll and Finance stakeholders across Denmark, Norway, Sweden and Iceland. I combine a commercial mindset from CBS with strong analytical skills in Power BI, SQL and Excel.",
+  "profileSummary": "Business & Data Analyst with 2+ years of experience turning people, payroll and financial data into actionable reporting. At COWI, I own Power BI solutions and data structures spanning the company's 7,500+ employees worldwide, partnering directly with HR, Payroll and Finance stakeholders across Denmark, Norway, Sweden and Iceland. I combine a commercial mindset from CBS with strong analytical skills in Power BI and Excel, and working knowledge of SQL.",
   "education": [
     {
       "degree": "MSc in Economics and Marketing",
@@ -114,7 +114,7 @@
       "references": "Referencer",
       "referencesNote": "Kan fremsendes efter anmodning"
     },
-    "profileSummary": "Business & Data Analyst med 2+ års erfaring i at omsætte medarbejder-, løn- og finansdata til brugbar rapportering. Hos COWI ejer jeg Power BI-løsninger og datastrukturer for virksomhedens 7.500+ medarbejdere på verdensplan, og samarbejder direkte med stakeholdere inden for HR, løn og finans på tværs af Danmark, Norge, Sverige og Island. Jeg kombinerer en kommerciel tilgang fra CBS med stærke analytiske kompetencer inden for Power BI, SQL og Excel.",
+    "profileSummary": "Business & Data Analyst med 2+ års erfaring i at omsætte medarbejder-, løn- og finansdata til brugbar rapportering. Hos COWI ejer jeg Power BI-løsninger og datastrukturer for virksomhedens 7.500+ medarbejdere på verdensplan, og samarbejder direkte med stakeholdere inden for HR, løn og finans på tværs af Danmark, Norge, Sverige og Island. Jeg kombinerer en kommerciel tilgang fra CBS med stærke analytiske kompetencer inden for Power BI og Excel, samt kendskab til SQL.",
     "education": [
       {
         "degree": "Cand.merc. i Økonomisk Markedsføring",

@@ -2,6 +2,48 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-29 (anden runde, Fabian-valgte opslag)
+
+Fabian sendte selv tre LinkedIn-links direkte i chatten og bad om CV og ansøgning til
+alle tre, med ekstra omhu til The Tech Collective og NielsenIQ. Dette er IKKE rutinens
+egen filtrering, disse tre blev ikke fundet eller kvalitetstjekket af søgesporene
+ovenfor, Fabian har selv valgt dem og accepteret at søge, uanset om de ville have bestået
+alle hårde krav. Logget her udelukkende for at undgå at rutinen foreslår dem som "nye"
+fund senere. `skillFramingNotes.sql` og `profileSummary` i `profile.json` er samtidig
+opdateret efter Fabians direkte instruks (2026-09-29): SQL må ikke længere fremstilles
+som en stærk kompetence i CV/ansøgning, kun som noget han har rørt/arbejdet mindre med,
+Power BI og Excel er klart stærkest. Gælder alle fremtidige dokumenter, ikke kun disse tre.
+
+1. **NielsenIQ — Analytical Consultant** (København, engelsk opslag).
+   Link: https://dk.linkedin.com/jobs/view/analytical-consultant-at-nielseniq-4470715224
+   Fuldtid, men 11 måneders tidsbegrænset kontrakt. Løn 480.000-530.849 kr./år
+   (~40.000-44.200 kr./md), over grænsen i pkt. 7. Kræver 1-2 års erfaring inden for
+   Retail/FMCG/market research/analytics ELLER analytisk/salgserfaring i en
+   kundevendt rolle, det sidste er et reelt match til Teknologiens Mediehus. FMCG/
+   retail-domænet er nyt for Fabian, ærligt nævnt her, ikke i selve ansøgningen.
+   Filer: `Fabian_Hansen_CV_NielsenIQ.docx`, `Fabian_Hansen_Ansogning_NielsenIQ.docx`
+   (overskriver tidligere grænsetilfælde-vurdering af samme opslag fra 2026-09-25).
+2. **Accenture Nordics — Strategy Analyst** (København, engelsk opslag, del af et
+   graduate-opslag der også dækker Management Consulting Analyst).
+   Link: https://www.linkedin.com/jobs/view/4470728220/
+   Vigtig usikkerhed, nævnt til Fabian: opslaget angiver startdato september 2027,
+   langt uden for den normale graduate-programgrænse (pkt. 4/6). Frist 18. oktober
+   2026. Ansøgning kræver CV, ansøgning og karakterudskrift som ét samlet PDF, samt
+   deltagelse i Accenture Recruitment Bootcamp 26-27. november 2026 for udvalgte
+   ansøgere. Filer: `Fabian_Hansen_CV_Accenture.docx`, `Fabian_Hansen_Ansogning_Accenture.docx`.
+3. **The Tech Collective (Implement Consulting Group) — AI Business Analyst**
+   (Hellerup/København, engelsk opslag). Link: https://www.linkedin.com/jobs/view/4469012415/
+   Intet eksplicit erfarings- eller værktøjskrav, åbner eksplicit for nyuddannede.
+   Kontaktperson Linea Svendsen (lisv@implement.dk). Ansøgninger vurderes efter
+   2. oktober, kræver CV, motivationsbrev og karakterudskrift sendt via link.
+   Stærkt match til COWI's AI-agent-arbejde i Microsoft Copilot. Filer:
+   `Fabian_Hansen_CV_TechCollective.docx`, `Fabian_Hansen_Ansogning_TechCollective.docx`.
+
+Alle seks filer genereret på engelsk (matcher opslagenes sprog), kvalitetstjekket ved to
+adskilte gennemlæsninger hver (fakta/indhold, derefter sprog/layout) af de renderede
+billeder, korrekt 2-siders CV/1-siders ansøgning for alle tre, ingen opdigtede fakta,
+ingen nævnt svaghed i selve ansøgningsteksten.
+
 ## 2026-09-29
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
