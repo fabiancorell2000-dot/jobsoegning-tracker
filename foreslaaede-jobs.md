@@ -2,6 +2,99 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-09-30
+
+Tre parallelle søgespor kørt via underagenter: LinkedIn (enkeltords- og OR-kombinerede
+søgninger med f_TPR=r1814400/f_JT=F, niveau+indhold-søgninger, navngivne konsulenthustjek
+tier 2-4); Jobindex RSS (18 enkeltordsforespørgsler) sammen med fornyede forsøg på
+Indeed.dk/StepStone.dk/Glassdoor DK (ofir.dk/jobsafari.dk sprunget over jf. den månedlige
+kadence, sidst tjekket 2026-09-29); career-site-tjek af den fulde liste fra pkt. 20 samt
+konsulenthustiers fra pkt. 24/28. **Resultat: 1 forslag i dag.** CV og ansøgning genereret
+og sendt til Fabian.
+
+**Forslag 1: Pandora — Commercial Analyst, Digital Partners**
+- Firma: Pandora, verdens største smykkevirksomhed, børsnoteret (Nasdaq Copenhagen),
+  14.000+ ansatte globalt. Klart etableret, privat, intet virksomhedstype- eller
+  størrelsesproblem (pkt. 1/30/33).
+- Lokation: Pandora hovedkontor, Havneholmen, København V. Metro/S-tog til
+  Dybbølsbro-området, ingen busben, langt inden for 35-minuttersgrænsen (pkt. 25).
+- Link: https://dk.linkedin.com/jobs/view/commercial-analyst-digital-partners-at-pandora-4473201996
+- Opslået: ~22 timer før tjek i dag, meget friskt. Ansøgningsfrist: ikke angivet, opslaget
+  behandler ansøgninger løbende.
+- Fuldtid: bekræftet direkte på opslaget (verificeret uafhængigt to gange).
+- Ansøgertal: 76, moderat konkurrence, intet "første 25"-signal på dette opslag.
+- Løn: ikke angivet i opslaget (almindelig risiko jf. pkt. 7), men lav risiko givet en stor,
+  etableret, profitabel børsnoteret koncern.
+- Erfaring: opslaget beder om "2-4 years in Business Development, Strategy, Management
+  Consulting, Commercial Finance, E-commerce, or similar analytical commercial roles",
+  inden for den lempede pkt. 2/31-grænse. Ingen senior/lead/manager-titel eller
+  teamledelsesansvar.
+- Ingen SQL-, avanceret CRM- eller Lean Six Sigma-krav, kernekravet er "Advanced Excel and
+  PowerPoint proficiency" samt finansiel modellering/business case-udvikling, hvilket
+  matcher Fabians stærkeste kompetenceområde direkte.
+- Begrundelse: Rollen identificerer og evaluerer nye Digital Partner-muligheder
+  (marketplaces, multi-brand retailere) globalt, bygger business cases og indsamler input
+  fra Finance, Operations, Technology og regionale stakeholdere til en samlet pipeline.
+  Det matcher tydeligt Fabians COWI-arbejde, hvor han ejer Power BI-rapportering og
+  datastrukturer for 7.500+ medarbejdere på tværs af Danmark, Norge, Sverige og Island, og
+  løbende omsætter Excel-baseret data til forklaringer stakeholdere handler på. EMF-
+  uddannelsens fokus på kvantitativ/kvalitativ markedsanalyse og konkurrentanalyse matcher
+  desuden opslagets "market intelligence and strategic insights"-element, og Teknologiens
+  Mediehus-erfaringen med kommerciel/kundedata til at identificere salgsmuligheder ligner
+  opslagets "opportunity identification"-fokus.
+- Bemærk (ærlighed): Fabian har ingen decideret e-commerce/marketplace/fashion-retail-
+  domæneerfaring, men opslaget angiver eksplicit at dette kun er "advantageous, not
+  required". Ingen direkte erfaring med formel "business case"-terminologi eller
+  finansiel modellering i CV'et, kun beslægtet Excel-baseret analyse- og
+  forklaringsarbejde, en reel men ikke diskvalificerende nuanceforskel.
+- CV og ansøgning genereret på engelsk (matcher opslagets sprog), kvalitetstjekket ved to
+  adskilte gennemlæsninger af de renderede billeder (fakta/indhold, derefter sprog/layout).
+  Korrekt 2-siders CV (alle COWI-punkter samlet på side 1) og 1-siders ansøgning, ingen
+  opdigtede fakta, ingen nævnt svaghed i selve ansøgningsteksten, ingen tænkestreger/kolon/
+  markdown-tegn. Hilsen "Dear Digital Partners team," (intet navngivet kontaktperson,
+  teamet er eksplicit nævnt i opslaget). Filer: `Fabian_Hansen_CV_Pandora.docx`,
+  `Fabian_Hansen_Ansogning_Pandora.docx`.
+
+**Grænsetilfælde overvejet, ikke foreslået (udvalgt, se fuld liste i underagenternes noter):**
+
+- **Privat Psykiatrisk Center ApS — Business Analyst** (København V, stærkt indholdsmatch):
+  fravalgt fordi ansættelsestype (fuldtid/deltid) fortsat ikke er angivet noget sted i
+  opslaget, samme konklusion som en tidligere kørsel.
+- **Alfa Development A/S — Business Operations Partner** (Søborg, S-tog ~18-19 min):
+  består lokation og virksomhedsstørrelse, men fravalgt af samme grund, fuldtid ikke angivet.
+- **KPMG Denmark — Consultant, Procurement Advisory** (tjekket trods Tier 2-mandat): kræver
+  1-3 års erfaring specifikt fra managementkonsulentbranchen, som Fabian ikke har.
+- **PensionDanmark — Forretningsudvikler** (Østerbro, frist 14. oktober): kræver en
+  "solid baggrund inden for business development og business analysis", vurderet til reelt
+  at kræve mere forretningsudviklingserfaring end Fabians profil dækker, men grænsetilfælde,
+  værd at Fabian selv kigger på.
+- **Valcon — Graduate Consultant 2026**: opslagets direkte link gav 404 i dag, kunne ikke
+  verificeres som stadig aktivt eller den faktiske startdato, værd at Fabian selv tjekker
+  valcon.com/careers.
+- Øvrige undersøgte og fravalgte: Abacus Medicine (løn under grænsen), Royal Design Group
+  Pricing Analyst (udløbet, ingen aktuelle stillinger), Aller Media Commercial Analyst
+  (HTTP 410, udløbet), Goodiebox Growth Lead (eksplicit "Lead"-titel), IKEA Country Data
+  Analyst (Taastrup + avanceret SQL/Python), Bellagroup BI & Business Analyst (duplikat af
+  gårsdagens forslag), samt en lang række offentlige, Ballerup/Glostrup-beliggende,
+  senior/lead-titlerede eller 2027-startdato-opslag der matcher tidligere loggede
+  fravalgsgrunde.
+
+**Tekniske noter fra dagens kørsel:**
+- Jobindex RSS fungerede som ventet (18 enkeltordsforespørgsler), men domineres fortsat af
+  offentlig sektor og irrelevante brancher, og `geoarea=storkoebenhavn` filtrerer fortsat
+  upålideligt (flere hits reelt i Jylland/Fyn).
+- Indeed.dk: WebSearch fungerer til opdagelse, men direkte fetch af både enkeltopslag
+  (401) og søgeresultatsider (403) er blokeret, kun brugbart til leads, ikke verifikation.
+- StepStone.dk: flere fundne links viste sig at være Jobindex-spejlede `h`-ID'er, enten
+  redirectet direkte til jobindex.dk eller 404, ikke en reelt uafhængig kilde for disse opslag.
+- Glassdoor DK: WebSearch giver leads, men direkte fetch af enhver glassdoor.com-side gav
+  konsekvent HTTP 403, fuldt blokeret til verifikation.
+- LinkedIns egne søgeresultatsider (enkeltords-`/jobs/search/`-format) fungerede upåklageligt
+  og var dagens mest produktive kanal. Det OR-kombinerede `search-results`-format (pkt. 23/29)
+  ramte fortsat en login-mur uden indhold, samme mønster som alle tidligere kørsler.
+- ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence (senest tjekket 2026-09-29,
+  fortsat hhv. HTTP 410 og permanent redirect til Jobindex' forside).
+
 ## 2026-09-29 (anden runde, Fabian-valgte opslag)
 
 Fabian sendte selv tre LinkedIn-links direkte i chatten og bad om CV og ansøgning til
