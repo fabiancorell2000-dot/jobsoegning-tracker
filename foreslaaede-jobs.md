@@ -2,6 +2,209 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-10-01
+
+Bred søgning kørt via en underagent: LinkedIn (enkeltords-søgninger med
+f_TPR=r1814400&f_JT=F på tværs af Commercial/Data/Business Analyst, Junior
+Consultant, Pricing/Marketing Analyst, Data Consultant, Insight Analyst,
+Revenue Operations, nyuddannet+data, Master Data, Analytics Consultant),
+Jobindex RSS (13 enkeltordsforespørgsler), samt direkte career-site-/
+konsulenthustjek (Tier 2-4 inkl. Kopenhagen Konsulting, Carve Consulting,
+Emendo, DAMVAD, Inspari, Accobat, PensionDanmark, PFA, Danica, Topdanmark).
+Indeed.dk (403), StepStone.dk (404) og Glassdoor DK (403) fortsat blokeret
+for direkte verifikation. ofir.dk/jobsafari.dk sprunget over jf. den
+månedlige kadence (sidst tjekket 2026-09-29). **Resultat: 2 forslag i dag.**
+CV og ansøgning genereret og sendt til Fabian for begge.
+
+**Forslag 1: Orkla (Orkla Snacks / Orkla Care) — Business & NRM Analyst**
+- Firma: Del af Orkla ASA, stort norsk børsnoteret industrielt
+  investeringsselskab, dansk division (Orkla Care Danmark) med ca. 300
+  ansatte, hovedaktivitet i Vallensbæk samt et tilskudsanlæg i Ishøj. Klart
+  etableret, privat, intet virksomhedstype- eller størrelsesproblem (pkt.
+  1/30/33).
+- Lokation: Vallensbæk. Vallensbæk S-station (linje A/E) ligger ca. 5 min
+  gang fra kontoret, S-tog til/fra Nørreport (via København H, samme linje,
+  ingen skift) tager ca. 22-25 min, samlet dør-til-dør ca. 27-30 min, inden
+  for 35-minuttersgrænsen (pkt. 25), udelukkende S-tog, ingen bus. Ærlig
+  bemærkning: retningen er syd/sydvest, som Fabian nu generelt foretrækker
+  at undgå til fordel for nord/nordvest (pkt. 36), men Vallensbæk står ikke
+  på det hårde fravalg (Ballerup/Glostrup/Roskilde-Køge-Høje-Taastrup), så
+  det består lokationsreglernes bogstav, værd at Fabian selv vurderer den
+  retningsmæssige præference.
+- Link: https://dk.linkedin.com/jobs/view/business-nrm-analyst-at-orkla-snacks-4473904893
+- Opslået: ca. 15 timer før tjek i dag, meget friskt. Ansøgningsfrist: 29.
+  oktober 2026. Verificeret aktivt.
+- Fuldtid: bekræftet direkte på opslaget.
+- Ansøgertal: "Vær blandt de første 25 ansøgere", positivt lavkonkurrence-
+  signal (pkt. 9).
+- Løn: ikke angivet i opslaget (almindelig risiko jf. pkt. 7), men lav
+  risiko givet en stor, profitabel, børsnoteret koncern bag.
+- Erfaring: opslaget beder om "2-5 years in FMCG, retail, controlling,
+  category management, or analysis", inden for den udvidede pkt. 31-grænse.
+  Kræver relevant videregående uddannelse (HD/cand.merc. eller tilsvarende),
+  direkte match til Fabians uddannelse. Intet senior/lead/manager-krav.
+- Ingen SQL-, avanceret CRM- eller Lean Six Sigma-krav, kernekravet er
+  stærke Excel-kompetencer, Power BI nævnt som en fordel, hvilket matcher
+  Fabians stærkeste kompetenceområde direkte.
+- Begrundelse: Rollen bygger bro mellem salg, marketing, category
+  management, finans og supply chain gennem Net Revenue Management,
+  pris-/pakkeanalyse, kampagnestyring, profitabilitetsvurderinger og
+  KPI-opfølgning/rapportering. Det matcher tydeligt Fabians COWI-arbejde,
+  hvor han ejer Power BI-rapportering og datastrukturer for 7.500+
+  medarbejdere på tværs af fire lande og løbende omsætter Excel-baseret
+  data til forklaringer stakeholdere handler på, samt Teknologiens
+  Mediehus-erfaringen med at bruge kommercielle/kundedata til at
+  identificere muligheder. Minder indholdsmæssigt om Haleon NRM
+  Associate-opslaget Fabian allerede har søgt (soegte-jobs.md), hvilket
+  understøtter at dette er et reelt tilbagevendende matchmønster for ham.
+- Bemærk (ærlighed): Ingen decideret FMCG/retail-handelsmargin-
+  domæneerfaring, og NRM-specifik kommerciel modellering er nyt territorium
+  ud over den beslægtede Haleon-ansøgning, en reel men ikke
+  diskvalificerende svaghed.
+- CV og ansøgning genereret på dansk (matcher opslagets sprog), kvalitets-
+  tjekket ved to adskilte gennemlæsninger af de renderede billeder
+  (fakta/indhold, derefter sprog/layout). Korrekt 2-siders CV (alle COWI-
+  punkter samlet på side 1) og 1-siders ansøgning, ingen opdigtede fakta,
+  ingen nævnt svaghed i selve ansøgningsteksten, ingen tænkestreger/kolon/
+  markdown-tegn. Hilsen "Kære Orkla," (intet navngivet kontaktperson eller
+  team i opslaget). Filer: `Fabian_Hansen_CV_Orkla.docx`,
+  `Fabian_Hansen_Ansogning_Orkla.docx`.
+
+**Forslag 2: Accobat — Business Analytics Consultant**
+- Firma: Dansk BI/data/analytics-konsulenthus, etableret 2003, ca. 58
+  ansatte, kontorer i København og Aalborg. Klart etableret, profitabelt
+  specialistfirma, komfortabelt over ~20-25-headcount-gulvet (pkt. 33),
+  intet startup-/VC-problem.
+- Lokation: Strødamvej 46, 2100 København Ø. Metro (Cityringen M3,
+  Trianglen/Poul Henningsens Plads) tæt på kontoret, direkte forbindelse
+  til Nørreport uden skift, godt inden for 35-minuttersgrænsen (pkt. 25),
+  udelukkende metro, ingen bus. Præcis gangafstand fra station til kontor
+  ikke verificeret til et eksakt tal, markeret som et estimat.
+- Link: https://karriere.accobat.com/jobs/196749-banker-dit-hjerte-ogsaa-for-business-data-og-analytics
+- Opslået: ingen specifik dato angivet (evergreen-stil career-site-opslag,
+  jf. pkt. 20's bemærkning om at den slags opslag ikke altid bærer en dato),
+  verificeret aktivt og åbent, ansøgningsfrist "hurtigst muligt" (løbende).
+- Fuldtid: bekræftet.
+- Løn: ikke angivet (almindelig risiko jf. pkt. 7), ingen særlig grund til
+  at tro lav løn hos et etableret 20+ år gammelt konsulenthus.
+- Erfaring: ikke eksplicit afgrænset, opslaget henvender sig til kandidater
+  "på forskellige karrieretrin", intet senior/lead/manager-krav, i tråd med
+  den bredere pkt. 34-vurdering.
+- Begrundelse: Rollen leverer rapporterings- og analyseløsninger til
+  kunders BI/EPM-platforme, faciliterer workshops for at afdække kunders
+  BI-behov, og arbejder i krydsfeltet mellem IT og forretning, en boutique
+  BI/data-konsulentrolle der matcher Fabians udtalte præference for
+  konsulentspor (pkt. 24) samt hans Power BI/Excel-styrke direkte. De
+  nævnte værktøjer (Power BI, Fabric, SQL, Azure, ADF, DAX) er alle markeret
+  som en fordel, ikke et krav.
+- Bemærk (ærlighed): Dette er en kundevendt BI-implementerings-/
+  konsulentrolle, så SQL/Azure/DAX/ETL-stakken rækker et stykke ud over
+  Fabians nuværende dybde (grundlæggende SQL, ingen DAX/Azure/Fabric-
+  erfaring), en reel svaghed værd at nævne, men ikke diskvalificerende
+  givet "nice to have"-formuleringen. Manglende opslagsdato er en reel
+  verifikationsbegrænsning holdt op mod ~3-ugers-friskhedsreglen, nævnt
+  ærligt snarere end gættet på.
+- CV og ansøgning genereret på dansk (krævet i opslaget), kvalitetstjekket
+  ved to adskilte gennemlæsninger (fakta/indhold, derefter sprog/layout).
+  Korrekt 2-siders CV og 1-siders ansøgning, ingen opdigtede fakta, ingen
+  nævnt svaghed i selve ansøgningsteksten, ingen tænkestreger/kolon/
+  markdown-tegn. Hilsen "Kære Thore Kristensen," (navngiven kontaktperson
+  for København-kontoret, Consultant Manager Data & AI). Filer:
+  `Fabian_Hansen_CV_Accobat.docx`, `Fabian_Hansen_Ansogning_Accobat.docx`.
+
+**Grænsetilfælde og øvrige opslag fundet og frasorteret efter verifikation:**
+- Pandora (Commercial Analyst, Digital Partners) og Bellagroup (BI &
+  Business Analyst): allerede foreslået i tidligere kørsler (hhv.
+  2026-09-30 og 2026-09-29), dubletter, ikke gentaget.
+- Centrum Personale A/S — Commercial Controlling and Reporting/Data
+  Analyst: tilbagevendende hit, allerede gentagne gange vurderet og
+  fravalgt (anonym slutkunde, 2-årig tidsbegrænset kontrakt, ikke
+  fastansættelse).
+- NOV — Cost Analysis Specialist (Vallensbæk): nyuddannet-venlig og nævner
+  Excel/Power BI, men reelt indhold er subsea-udstyrs omkostnings-
+  estimering, et specialiseret ingeniørfagligt domæne uden reel analogi i
+  Fabians baggrund, fravalgt på indholdsmismatch.
+- Columbus — Associate Medius Business Consultant: fuldtid, entry-level,
+  men kerneindhold er Accounts Payable/ERP-implementering (Medius) uden
+  data/BI-vinkel, kræver kørekort, svagt indholdsmatch, fravalgt.
+- The Tech Collective — AI Graduate Consultant: kræver eksplicit en
+  kandidatgrad i Data Science, IT, Engineering eller Computer Science,
+  Fabians EMF/cand.merc.-baggrund opfylder ikke dette (til forskel fra AI
+  Business Analyst-rollen samme firma, som allerede er søgt), fravalgt på
+  hårdt kvalifikationsmismatch.
+- Fellowmind — Modern Work Consultant (Frederiksberg): nyuddannet-venlig og
+  fuldtid, men kræver reel IT/softwareudviklingsbaggrund (SharePoint/Power
+  Platform/PowerShell/Azure-udvikling), en teknisk implementeringsrolle, ikke
+  et data/BI-analytikermatch, fravalgt.
+- PA Consulting, Kopenhagen Konsulting, Carve Consulting, Emendo, DAMVAD
+  (pkt. 28's Tier 2-4-liste): aktuelle åbne stillinger er enten senior-/
+  principal-/lead-niveau, eller (DAMVAD, Emendo Junior Consultant) kræver en
+  ingeniør-/økonometri-/R-baggrund frem for Fabians kommercielle/BI-profil,
+  ingen kvalificerende stilling i dag.
+- Inspari A/S (BI-konsulenthus, Kongens Lyngby, inden for Lyngby-grænsen,
+  pkt. 36): kun senior-/principal-niveau-stillinger fundet.
+- Go-Pen ApS / 1st Mile ApS (KAR+CO), begge Diplomvej 381, Kongens Lyngby
+  (DTU-videnspark-startupmiljø): vage, tidligt-stadie-lydende opslag uden
+  angivet headcount og uden konkret data/BI-indhold, formentlig under
+  startup-gulvet (pkt. 30/37), fravalgt på type-/indholdsusikkerhed.
+- PensionDanmark, PFA Pension, Danica Pension, Topdanmark: ingen nye
+  relevante nyuddannet-egnede BI-/data-/kommercielle analytikerstillinger
+  fundet (PensionDanmark kun Forretningsudvikler, allerede logget
+  2026-09-30 som grænsetilfælde; PFA/Danica/Topdanmark skæv mod senior/
+  investeringsteknisk eller udløbet).
+- Jobindex RSS (13 enkeltordsforespørgsler): domineret af offentlig sektor,
+  Jylland-beliggenhed, senior-niveau eller helt urelaterede fag/
+  ingeniørhits, flere tilsyneladende relevante hits (Go-Pen, KAR+CO, Normal
+  A/S, Moveero, DSV, EG A/S, Privathospitalet Mølholm) viste sig enten at
+  ligge i Kongens Lyngby (startup-bekymring, se ovenfor) eller i Jylland
+  (Skanderborg/Lunderskov/Horsens/Ikast/Aarhus/Vejle), bekræfter den kendte
+  geoarea-filterunøjagtighed (pkt. 16/21).
+- Offentlig sektor/statsejede selskaber (bl.a. Energinet, Vurderings-
+  styrelsen, Fødevarestyrelsen, Politi/PET, Skatteankestyrelsen,
+  Banedanmark, Rigsarkivet, Toldstyrelsen, SKI, Skatte- og
+  Vækstministeriet, Københavns Kommune): hårdt fravalgt jf. pkt. 19, ingen
+  undtagelser.
+- Ballerup/Glostrup-opslag (Tryg ×5, Atea ×3, Verisure ×5, Ambu ×3, KMD
+  Commercial Excellence Manager): hårdt fravalgt jf. pkt. 27/36.
+- Senior-/lead-/manager-titlerede opslag sprunget over uden videre
+  vurdering jf. pkt. 2/31/38: Pandora (Manager, Global Operations Analytics
+  & Insights; Senior Consultant, Strategy Delivery Office; Manager RGM),
+  Klarna (Senior Analyst), Pleo (Senior/Staff Fullstack Data Analyst ×2),
+  Scandinavian Tobacco Group (Senior Data Analyst, Senior Finance Business
+  Partner), Demant (Senior UX Data Analyst), Coloplast (Senior Performance
+  Intelligence Manager), Flying Tiger (Senior Insights Analyst), Andel
+  Energi (Senior forretnings- og markedsanalytiker), Universal Music
+  Denmark (Royalty Operations & Digital Transformation Manager), Accobat
+  (Senior Data & AI Consultant ×2, separat fra det kvalificerende Business
+  Analytics Consultant-opslag ovenfor).
+- Student-/praktik-/tidsbegrænsede opslag fravalgt jf. det hårde
+  fuldtidskrav: Templafy (Revenue Operations Student Assistant), Coloplast
+  (Student Assistant), Ambu (Student assistant ×2), WPP Media (Insights
+  Praktikant), NielsenIQ Analytical Consultant (11 måneders tidsbegrænset
+  kontrakt, allerede logget 2026-09-29 som Fabian-valgt undtagelse, ikke
+  gentaget her).
+- Implement Consulting Groups fulde Graduate 2027-hold, Accentures
+  Strategy/Management Consulting Analyst (september 2027-start), Alvarez &
+  Marsal (august 2027-start), KPMG Advisory Academy 2027: alle udelukket
+  jf. pkt. 4/6 (startdato for langt ude).
+
+**Tekniske noter fra dagens kørsel:**
+- LinkedIns enkeltords-søgning (`f_TPR=r1814400&f_JT=F`) fungerede
+  upåklageligt på tværs af 9 søgeord (Commercial Analyst, Data Analyst,
+  Business Analyst, Junior Consultant, Pricing Analyst, Marketing Analyst,
+  Data Consultant, Insight Analyst, Revenue Operations, nyuddannet data,
+  Master Data, Analytics Consultant), fortsat den mest produktive kanal og
+  bekræfter at 21-dages-vinduet fra pkt. 39 nu er i effekt.
+- Jobindex RSS: mekanisk fungerende, men fortsat domineret af offentlig
+  sektor/Jylland/urelateret støj, `geoarea=storkoebenhavn` fortsat
+  upålideligt.
+- Indeed.dk: HTTP 403 på direkte hentning (uændret fra tidligere kørsler).
+- StepStone.dk: HTTP 404 på direkte søge-URL i dag.
+- Glassdoor DK: HTTP 403 på direkte hentning (uændret fra tidligere
+  kørsler).
+- ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence (sidst
+  tjekket 2026-09-29).
+
 ## 2026-09-30
 
 Tre parallelle søgespor kørt via underagenter: LinkedIn (enkeltords- og OR-kombinerede
