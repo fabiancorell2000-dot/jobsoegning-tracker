@@ -2,6 +2,253 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-10-02
+
+Tre parallelle søgespor kørt via underagenter: LinkedIn (enkeltords-søgninger med
+f_TPR=r1814400&f_JT=F på tværs af Commercial/Business/Data Analyst, Junior
+Consultant, Pricing/Marketing/Insight Analyst, Revenue Operations, People
+Analytics, Master Data, Reporting/Category Analyst, nyuddannet+data,
+graduate+analytics), Jobindex RSS (25 enkeltordsforespørgsler, 307 unikke
+opslag efter dedup) plus Indeed.dk/StepStone.dk/Glassdoor DK (alle fortsat
+blokeret for direkte verifikation, kun WebSearch-discovery virker), samt
+direkte career-site-/konsulenthustjek (Tier 2-4 inkl. Thursday Consulting,
+Kvadrant Consulting, Devoteam, Efficio, Intellishore, Nykredit, Danske Bank,
+Ørsted m.fl.). ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence
+(sidst tjekket 2026-09-29, kun 3 dage siden). **Resultat: 2 forslag i dag.**
+CV og ansøgning genereret og sendt til Fabian for begge.
+
+**Forslag 1: Abacus Medicine Group — Associate Specialist, Purchase Research & Intelligence**
+- Firma: Abacus Medicine Group, dansk parallelimport-/lægemiddeldistributør,
+  stor og etableret (1.750+ ansatte globalt). Intet virksomhedstype- eller
+  størrelsesproblem (pkt. 1/30/33).
+- Lokation: Kalvebod Brygge 35, 1560 København V. S-tog linje A/B fra
+  Nørreport via København H til Dybbølsbro (ca. 8-10 min) plus ca. 10 min
+  gang, samlet ca. 20 min dør-til-dør, godt inden for 35-minuttersgrænsen
+  (pkt. 25), udelukkende S-tog.
+- Link: https://dk.linkedin.com/jobs/view/associate-specialist-purchase-research-intelligence-at-abacus-medicine-group-4472944187
+- Opslået: 17 timer før tjek, meget friskt. Ingen frist angivet. Verificeret
+  aktivt ved direkte hentning af opslaget.
+- Fuldtid: bekræftet direkte på opslaget ("Fuldtid").
+- Ansøgertal: "Bliv en af de første 25 ansøgere", positivt
+  lavkonkurrence-signal (pkt. 9).
+- Løn: ikke angivet (almindelig risiko jf. pkt. 7), lav risiko givet
+  virksomhedens størrelse og modenhed.
+- Erfaring: 0-2 års erfaring inden for data/analytics/reporting, kandidatgrad
+  i Economics/Finance/Business Analytics eller lignende, et næsten eksakt
+  match til EMF-uddannelsen. Intet senior/lead/manager-krav.
+- Værktøjer: solide SQL-kompetencer og Power BI/Tableau nævnt under "we
+  imagine you bring" (blødt formuleret ønskeliste, ikke en absolut
+  kravliste), avanceret Excel, samt Python/lignende værktøjer til analyse,
+  automatisering eller dataforberedelse.
+- Begrundelse: Rollen handler om at omsætte kommercielle spørgsmål til
+  strukturerede analytiske output, der understøtter sourcing-beslutninger og
+  business cases for virksomhedens indkøbsorganisation, direkte parallelt
+  til Fabians COWI-arbejde med at eje Power BI-rapportering og datastruktur
+  for 7.500+ medarbejdere samt Skattestyrelsens KPI-rapportering til
+  ledelsen.
+- Bemærk (ærlighed): Opslaget nævner eksplicit Python/lignende værktøjer til
+  analyse/automatisering under kravlisten, hvilket Fabian ikke har nogen
+  erfaring med overhovedet, en reel svaghed. Det står dog i en blødt
+  formuleret "vi forestiller os"-ønskeliste sammen med tre andre
+  kompetencer Fabian har solidt (SQL, Power BI/Tableau, Excel), ikke som et
+  isoleret absolut krav, så den vurderes ikke diskvalificerende, men værd
+  at Fabian selv er opmærksom på. En anden, urelateret Abacus Medicine-
+  stilling blev frasorteret i en tidligere kørsel pga. lav løn, dette er en
+  ny, separat stilling, ikke en gentagelse.
+- CV og ansøgning genereret på engelsk (matcher opslagets sprog, bekræftet
+  direkte via opslagets brødtekst), kvalitetstjekket ved to adskilte
+  gennemlæsninger af de renderede billeder (fakta/indhold, derefter
+  sprog/layout). Korrekt 2-siders CV (alle job-/uddannelsesblokke samlet,
+  intet enkeltpunkt sprunget til ny side) og 1-siders ansøgning, ingen
+  opdigtede fakta, ingen nævnt svaghed i selve ansøgningsteksten, ingen
+  tænkestreger/kolon/markdown-tegn. Hilsen "Dear Purchase Research &
+  Intelligence team," (intet navngivet kontaktperson, men team eksplicit
+  nævnt i opslaget). Filer: `Fabian_Hansen_CV_Abacus.docx`,
+  `Fabian_Hansen_Ansogning_Abacus.docx`.
+
+**Forslag 2: Jyske Bank — Engageret konsulent til Operationel Excellence**
+- Firma: Jyske Bank, Danmarks tredjestørste bank, stor etableret privat
+  finansiel institution. Intet virksomhedstype- eller størrelsesproblem.
+- Lokation: Servicecenter Glaskuben, Kalvebod Brygge 3, 1560 København V,
+  meget centralt, kort S-togs-/metrotur fra Nørreport via København
+  H/Dybbølsbro-området, godt inden for 35-minuttersgrænsen (pkt. 25),
+  udelukkende S-tog/metro.
+- Link: https://www.jobindex.dk/jobannonce/h1703445/engageret-konsulent-til-operationel-excellence
+- Opslået: 01-10-2026 (1 dag før tjek). Ansøgningsfrist: 15-10-2026.
+  Verificeret aktivt ved direkte hentning af opslaget.
+- Fuldtid: bekræftet direkte på opslaget ("Ansættelsestype: Fastansættelse",
+  "Ugentlig arbejdstid: Fuldtid").
+- Løn: ikke angivet (almindelig risiko jf. pkt. 7), lav risiko givet en stor,
+  etableret bank.
+- Erfaring: ingen angivet årstal, beder om baggrund som "managementkonsulent,
+  intern konsulent, proceskonsulent, projektleder eller tilsvarende rolle".
+  Intet senior/lead/manager-krav. Ingen SQL-, CRM- eller Lean Six
+  Sigma-krav overhovedet.
+- Begrundelse: Et nyt "Business Excellence"-team under Digitalisering &
+  Drift. Konkrete opgaver: udvikling af dashboards der skaber indsigt i
+  drift og performance, dataindsamling/-strukturering/-analyse,
+  procesanalyse for effektivitet/kvalitet, etablering af
+  governance-strukturer for projekter/porteføljer, samt facilitering af
+  workshops og beslutningsmateriale for ledelsen. Det matcher tæt Fabians
+  faktiske COWI-arbejde (Power BI-dashboards på medarbejder-/finansdata,
+  datastruktur- og kvalitetssikringsansvar for Engagement Survey/Workplace
+  Assessment Survey for 7.500+ medarbejdere, AI-agenter i Microsoft Copilot
+  til procesautomatisering) samt Skattestyrelsens KPI-rapportering til
+  øverste ledelse.
+- Bemærk (ærlighed): Opslagets ordlyd ("erfaring fra en rolle som
+  managementkonsulent... eller tilsvarende") læses mest naturligt som
+  forudgående professionel konsulent-/proces-/projektledelseserfaring med
+  en formel titel. Fabians matchende erfaring kommer fra
+  studentermedhjælperroller (COWI, Skattestyrelsen), ikke en formel
+  konsulent- eller projektledertitel, en reel men ikke diskvalificerende
+  tvetydighed, vurderet her på substans frem for den bogstavelige
+  baggrundsbetegnelse, i tråd med pkt. 34's bredere vurderingsprincip.
+- CV og ansøgning genereret på dansk (matcher opslagets sprog),
+  kvalitetstjekket ved to adskilte gennemlæsninger af de renderede billeder
+  (fakta/indhold, derefter sprog/layout). Korrekt 2-siders CV og 1-siders
+  ansøgning, ingen opdigtede fakta, ingen nævnt svaghed i selve
+  ansøgningsteksten, ingen tænkestreger/kolon/markdown-tegn. Hilsen "Kære
+  Amalie Stensgaard," (navngiven HR Recruitment Partner-kontaktperson på
+  opslaget). Filer: `Fabian_Hansen_CV_JyskeBank.docx`,
+  `Fabian_Hansen_Ansogning_JyskeBank.docx`.
+
+**Grænsetilfælde og øvrige opslag fundet og frasorteret efter verifikation:**
+- **SS&C Technologies — Associate Data Analyst** (København K, central
+  lokation, fuldtid bekræftet, nyuddannet-venlig): bestod alle hårde
+  kriterier, men det reelle indhold er securities-litigation-skadesanalyse,
+  class-action-research og institutionel-investor-evaluering, en
+  specialiseret finansiel-litigation-niche uden reel analogi i Fabians
+  baggrund (HR-/finansdrift-rapportering, skatterevision-KPI-arbejde). For
+  svagt et indholdsmatch til at skrive en ærlig, specifik ansøgning uden
+  generiske floskler, sprunget over jf. materialereglens princip
+  ("spring jobbet over i stedet for at tvinge en generisk tekst igennem").
+- **Accenture Nordics (Accenture Song) — Management Consultant for
+  Commercial Excellence** (København, Tier 2-listen, pkt. 28): oprindeligt
+  foreslået af LinkedIn-sporet, men et separat career-site-spor fandt samme
+  rolle og vurderede den som et CRM-platformsekspertise-mismatch. Verificeret
+  direkte af hovedkørslen (fuld WebFetch af selve LinkedIn-opslaget):
+  opslaget navngiver eksplicit "Salesforce og Microsoft Dynamics" som
+  relevante CRM-platforme konsulenten skal forstå/rådgive kunder om, et
+  konkret match til det hårde fravalg af roller der kræver
+  Salesforce-kompetence Fabian ikke har (han har kun HubSpot). Desuden
+  kræver opslaget "2-4 års erfaring som konsulent eller lignende rolle fra
+  industrien", et reelt stræk mod Fabians faktiske titler (ingen formel
+  konsulenttitel). Fravalgt på kompetencemismatch efter direkte
+  verifikation, ikke foreslået.
+- **Thursday Consulting — Management Konsulent, Strategy & Operations**
+  (Valby, boutique-konsulenthus, ca. 31-37 ansatte, god lokation inden for
+  35-minuttersgrænsen, erfaringskrav "3-5 år fra konsulenthus ELLER en
+  intern rolle inden for forretningsudvikling/strategi/processer/
+  transformation", hvor sidstnævnte gren rimeligt kunne dække COWI/
+  Skattestyrelsen-erfaringen): verificeret direkte, men opslagsteksten
+  bekræfter IKKE eksplicit "fuldtid"/"full-time" noget sted, og ingen
+  opslagsdato er angivet. Det hårde fuldtidskrav siger eksplicit at et
+  opslag skal droppes helt hvis ansættelsestypen er uklar, uanset hvor godt
+  det ellers matcher, så droppet her trods et ellers lovende match. Værd at
+  Fabian selv tjekker direkte hvis han er interesseret
+  (https://www.thursday.consulting/job/management-konsulent---strategy-operations),
+  rutinen kan ikke foreslå den på det nuværende usikre grundlag.
+- **Coloplast — Associate Commercial Excellence Manager** (Humlebæk,
+  individuel bidragyder trods "Manager"-titel, 0-2 års erfaring, "første 25
+  ansøgere", stærkt indholdsmatch): fravalgt på lokation, Humlebæk er ca. 36
+  min med regionaltog alene fra Nørreport, allerede over 35-minuttersgrænsen
+  før gang fra station til kontor lægges til. Et reelt grænsetilfælde, logget
+  så det ikke genvurderes.
+- **Resights — Business Analyst** (København, profitabelt, bootstrapped,
+  ~50-55 ansatte, består størrelsesgulvet): indholdet er en vag,
+  høj-intensitets RevOps/GTM-vækstrolle ("tænk som en konsulent, udfør som
+  en iværksætter") uden konkrete Power BI-/SQL-/dataanalysekrav, kun
+  "exceptionel ambition". For uklart et match til at generere skræddersyet
+  materiale, fravalgt på indholdsusikkerhed.
+- **ISS A/S — Global Sales Operations Specialist** (titel matcher
+  RevOps/SalesOps-undtagelsen): kræver eksplicit "3+ years sales experience
+  in global B2B environments", overstiger Teknologiens Mediehus-erfaringen
+  (~2 år) og læner sig mere mod en decideret salgsbaggrund end en ren
+  data-/procesrolle. Fravalgt.
+- **O Dental ApS — Business Controller** (Hellerup, god lokation,
+  databåret "strategisk partner"-indhold): selskabet er reelt et
+  holdingselskab med kun 2 registrerede ansatte, stiftet sent 2023, under
+  20-25-headcount-gulvet (pkt. 33) og opfylder ikke startup-undtagelsen
+  (pkt. 37, som kræver 50-200 ansatte). Fravalgt på virksomhedsmodenhed.
+- **OrderYOYO — Business Analyst, FP&A**: ellers stærkt Power BI-/
+  Excel-/FP&A-match, men kræver Python (pandas, scikit-learn) som en
+  eksplicit kernekompetence, et hårdt avanceret-programmering-fravalg.
+  Frist 28-09-2026 desuden udløbet.
+- **foodora Denmark — Sales Operations Manager**: indhold (salgsdata,
+  Excel/SQL) ville ellers være et rimeligt match, men titlen er eksplicit
+  "Manager", hårdt fravalgt uanset indhold.
+- **Devoteam Denmark** ("tech-management konsulenter med 3+ års erfaring",
+  Tier 3-listen, pkt. 28, inden for den udvidede erfaringsgrænse): et
+  lovende lead fundet via Indeed-WebSearch, men devoteam.com gav HTTP 403
+  (Cloudflare-blokering) på både WebFetch og direkte curl, kunne ikke
+  verificeres (dato/frist/ansættelsestype/løn), derfor ikke foreslået.
+  Værd at genforsøge med en anden adgangsmetode en anden dag.
+- **PA Consulting — Digital & Data Managementkonsulent til Defence**
+  (Tier 2): kræver aktiv sikkerhedsgodkendelse og "Erfaren"-niveau inden for
+  Data Science/AI Engineering/Enterprise Architecture, langt over
+  pkt. 31-grænsen. Fravalgt.
+- **L'Oréal — Nordic Market Insight and Category Lead (CMI)**: "Lead"-titel,
+  kræver FMCG/beauty-brancheerfaring Fabian ikke har, 150 ansøgere (høj
+  konkurrence). Fravalgt.
+- **EuroEyes ApS — Marketing & CRM Coordinator** (barselsvikariat, København
+  Ø): reelt indhold er content/web/events-koordinering, ikke en
+  data-/analyserolle, samt tidsbegrænset kontrakt. Fravalgt.
+- **Kvadrant Consulting, Devoteam (Digital Enablement), Efficio,
+  Intellishore, Valcon, PwC, KPMG Advisory, EY-Parthenon, BearingPoint,
+  Nykredit, Danske Bank, Ørsted, Novonesis, Coloplast (øvrige),
+  PFA Pension, Enalyzer**: gennemgået direkte via career-site-sporet, ingen
+  verificerbar aktiv, fuldtids, ikke-senior stilling med reelt
+  indholdsmatch fundet i dag (enten senior-/principal-niveau,
+  deltids-/studenterroller, for specifikt eksperiencekrav til
+  management-konsulentbaggrund, 2027-graduate-start, eller intet relevant
+  indhold). Netcompany Advisory kunne fortsat ikke identificeres som en
+  tydeligt afgrænset enhed adskilt fra kerne-Netcompany.
+- Offentlig sektor, Ballerup/Glostrup/Hillerød-beliggenhed, eksplicit
+  senior-/lead-/manager-titler, student-/praktik-/tidsbegrænsede opslag:
+  hårdt fravalgt som sædvanligt jf. pkt. 19/25/27/36/2/31/38, standardmønster
+  genfundet på tværs af alle tre søgespor (bl.a. Vurderingsstyrelsen,
+  Fødevarestyrelsen, Politi/PET, Templafy RevOps Student Assistant,
+  Copenhagen Infrastructure Partners studentanalytiker).
+- Dubletter af tidligere forslag (Orkla, Pandora Commercial Analyst,
+  Bellagroup), samt tilbagevendende kendte fravalg (Centrum Personale A/S
+  anonym slutkunde/tidsbegrænset kontrakt, Netcompany kerne-roller,
+  Tryg/Atea/Verisure/Ambu Ballerup-Glostrup): ikke gentaget.
+
+**Nye konsulenthuse/virksomheder fundet, værd at genbesøge:** Inviso (nu del
+af Devoteam, Tableau/Alteryx/Power BI-fokuseret, ~50 ansatte, ingen aktuel
+stilling), Keepers ApS (regnskabs-/CFO-fokuseret graduate-program, formentlig
+svagt indholdsmatch fremover), Commerzial P/S og Mindmill (utilstrækkelig
+online jobinformation til vurdering i dag).
+
+**Tekniske noter fra dagens kørsel:**
+- `libreoffice-writer` var ikke installeret ved kørslens start (kun
+  `libreoffice-core`), gav den kendte kryptiske "source file could not be
+  loaded"-fejl ved PDF-konvertering, løst ved `apt-get install -y
+  libreoffice-writer`, jf. README.md's advarsel om at dette ikke altid er
+  præinstalleret i et frisk miljø.
+- LinkedIns enkeltords-søgning (`f_TPR=r1814400&f_JT=F`) fungerede
+  upåklageligt på tværs af 13 søgninger, fortsat den mest produktive kanal.
+  Direkte `WebFetch` på enkelte `dk.linkedin.com/jobs/view/...`-opslag
+  virkede pålideligt til verifikation (fuld kravtekst, ansøgertal, løn,
+  datoer), ingen login-mur ramt ved denne teknik i dag. Det OR-kombinerede
+  `/jobs/search-results/?keywords=...&geoId=...`-format (pkt. 23/29) rammer
+  fortsat en login-mur uden indhold ved direkte WebFetch.
+- Jobindex RSS: 25 enkeltordsforespørgsler gennemført (1 timeout på
+  "insights", sprunget over), 307 unikke opslag efter dedup.
+  `geoarea=storkoebenhavn` fortsat upålidelig. Den fulde eksterne opslagsside
+  (via "Se jobbet"-linket, ikke selve RSS-teaseren) var nødvendig for reel
+  verifikation af ansættelsestype/frist/krav.
+- Indeed.dk: WebSearch virker til discovery, direkte hentning fortsat
+  HTTP 403. StepStone.dk: søgesider giver HTTP 200 men er en tom JS-skal
+  uden jobdata. Glassdoor DK: WebSearch virker til discovery, direkte
+  hentning fortsat HTTP 403. Samme mønster som alle tidligere kørsler.
+- Career-site-sporet: direkte WebFetch virkede for Thursday Consulting,
+  Kvadrant Consulting, Intellishore og Netcompany. Blokeret/JS-skal, krævede
+  WebSearch i stedet: Deloitte, PwC (403), Danske Bank (404), Nykredits eget
+  karrieresite (domæne findes ikke). karrierevejviser.dk fortsat et nyttigt
+  sekundært mirror, men giver ikke altid nok detalje til fuld verifikation
+  uden et opfølgende tjek af selve opslaget.
+
 ## 2026-10-01
 
 Bred søgning kørt via en underagent: LinkedIn (enkeltords-søgninger med
