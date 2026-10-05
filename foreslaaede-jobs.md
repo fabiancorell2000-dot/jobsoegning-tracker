@@ -2,6 +2,123 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-10-05
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
+LinkedIn (enkeltords-/titelsøgninger med `f_TPR=r1814400&f_JT=F` på tværs af hele
+titellisten inkl. de bredere niveau+indhold-søgninger og navngivne Tier 2-4
+konsulenthuse, samt forsøg på pkt. 23/29's OR-kombinerede søgeteknik); Jobindex RSS
+(enkeltordsforespørgsler) kombineret med den fulde career-site-liste fra pkt. 20 og
+konsulenthustiers fra pkt. 24/28; Indeed.dk/StepStone.dk/Glassdoor DK (discovery via
+WebSearch, direkte verifikation stadig blokeret på alle tre, se tekniske noter
+nedenfor). ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence (sidst
+tjekket 2026-09-29). **Resultat: 0 forslag i dag.** Ingen opslag bestod alle hårde
+krav, derfor intet CV/ansøgningsmateriale genereret.
+
+**Grænsetilfælde og opslag overvejet, ikke foreslået:**
+
+- **BASE life science — Business Analyst**: kræver BSc/MSc i CS/IT/Engineering samt
+  2+ års erfaring som IT Business Analyst i life science med cloud-implementering
+  for pharma-kunder. Fravalgt på uddannelses- og erfaringsmismatch.
+- **Terma Group — Commercial & Market Insights Business Analyst** (Lystrup/Søborg):
+  LinkedIns søgevisning viste "2 dage siden"/"2 timer siden" i flere søgespor, men
+  selve opslaget er ved direkte hentning bekræftet ~2 år gammelt og lukket for
+  ansøgninger. Ville desuden have krævet SQL+Python som kerneværktøjer (avanceret
+  programmering, hårdt fravalg). Endnu et eksempel på at LinkedIns egen
+  "dage siden"-label i søgeresultater ikke er til at stole på, kun selve opslagets
+  side er pålidelig.
+- **Flying Tiger Copenhagen — "IT Business Analyst"**: kunne ikke genfindes som et
+  reelt, aktivt opslag. Direkte tjek af virksomhedens aktuelle 11 åbne stillinger
+  viste kun "Senior Business Analyst" og "Senior Insights Analyst", begge
+  senior-titlerede og dermed hårdt fravalgt. Stale søgeindeks-data.
+- **KMD — Business Specialist, Dagpengeområdet**: lokation er Ballerup (hårdt
+  fravalgt, pkt. 27), samt kræver specialistviden om
+  dagpenge-/sagsbehandlingssystemer Fabian ikke har.
+- **Efficio — Business Analyst** (Tier 3, pkt. 28): fundet via søgning, men
+  virksomhedens eget rekrutteringsportal bekræfter direkte "That job is no longer
+  open for applications", ingen aktuelle ledige stillinger. Stale opslag.
+- **Pandora — Analyst, RGM & Pricing / RGM Insights & Advanced Analytics / Business
+  Analyst, Data & Reporting**: indholdsmæssigt de stærkeste match fundet i dag
+  (pricing/reporting-analytiker, 2-4 års erfaring, København V, fuldtid), men alle
+  tre specifikke opslags-URL'er gav HTTP 404 ved direkte hentning (afprøvet to
+  gange), og ingen LinkedIn-spejling blev fundet. Kunne ikke bekræftes som
+  nuværende aktive opslag, derfor ikke foreslået, men værd at kigge efter igen
+  næste kørsel da Pandora tydeligvis har en aktiv RGM/reporting-ansættelsesrunde
+  i gang, bare under links der er roteret videre.
+- **3Shape — Data Governance Specialist** (Holmens Kanal, København): ellers god
+  virksomhed og godt indholdsmatch, men opslaget gav HTTP 410 Gone, bekræftet lukket.
+- **Accenture — Marketing Advisory Analyst (Accenture Song)**: opslået 21. august,
+  langt over 3-ugers-grænsen.
+- **HelloFresh — Marketing Analyst**: bekræftet allerede besat.
+- **Maersk Management Consulting — Business Analyst**: bekræftet eksplicit
+  deltidsstilling (20 t/uge) for studerende. Fravalgt jf. fuldtidskravet.
+- **Royal Design Group (AndLight) — Pricing Analyst**: ellers solidt match
+  (fuldtid, 0-2 års erfaring, København), men opslået 22. juli, ~2,5 måneder gammelt,
+  og virksomhedens eget karrieresite viser nu 0 åbne stillinger. Udløbet.
+- **Emendo Improvement/Implementation — Junior Consultant** (Tier 3, pkt. 28): begge
+  kræver ingeniørbaggrund eller Lean/Six Sigma-type driftsoptimering, hårdt
+  fravalgt kompetencekrav.
+- **ViaBill — Commercial Analyst**: kræver eksplicit indskreven
+  bachelor/kandidatstuderende, reelt et studenterjob. Fravalgt.
+- **DSV — Pricing Analyst, Centralized Quotation Team**: lokation er Hedehusene, ikke
+  København. Lokationsfravalg.
+- **Globant/Vertic — Data Analyst**: kræver 3+ års erfaring og Python/Jupyter
+  Notebooks som et centralt, ikke blødt formuleret krav. Fravalgt.
+- **Implement Consulting Group — Junior Consultant within Security & Resilience**
+  og **Intellishore — Associate Consultant (Strategy & Transformation / AI &
+  Engineering)**, **Kemp & Lauritzen — Juniorkonsulent til Forretningsudvikling**:
+  alle tre bekræftet deltids-studenterstillinger (15-20 t/uge). Fravalgt jf.
+  fuldtidskravet.
+- Øvrige hårde fravalg uden videre undersøgelse (samme mønstre som tidligere
+  kørsler): Ballerup/Glostrup (Tryg ×6+, Verisure ×5, Ambu ×2, Atea, UL Solutions,
+  SD Worx, Novo Nordisk), offentlig sektor (Fødevarestyrelsen, Rigsarkivet, PET,
+  Banedanmark, Politi, Københavns Kommune, Vurderingsstyrelsen, Forsvaret,
+  Skattestyrelsen, Miljøministeriet, Aarhus Kommune, Udlændinge-/
+  Integrationsministeriet, Skatte-/Vækstministeriet, Udviklings- og
+  Forenklingsstyrelsen, DR), senior/lead/manager-titler (dusinvis, bl.a.
+  Scandinavian Tobacco, Demant, Coloplast, Pandora, Klarna, Infosys, Danske Bank,
+  Accenture, Mastercard, Genmab, Nordea, SimCorp, GANNI, Ørsted, KMD, Lundbeck,
+  Oliver Wyman, Universal Music), studenterjob/praktik/barselsvikariat (Abacus
+  Medicine ×2, Coloplast ×2, CIP, Novonesis, PwC, Danske Bank, If Insurance, Egmont,
+  ROCKWOOL, RWE ×2, Ambu, WPP Media, Templafy, Boozt), kerne-Netcompany (hårdt
+  firmafravalg, pkt. 26), samt dubletter af allerede vurderede/foreslåede opslag
+  (Abacus Medicine Purchase Research, Orkla, Jyske Bank, Pandora Commercial
+  Analyst, Bellagroup, Resights, Nykredit senior-opslag, Deloitte/KPMG 2027-graduate
+  programmer, Flatpay BI Analyst Herlev, PA Consulting Business Integration, Lime
+  Technologies, Lantmännen Unibake, Obsidian, IN Groupe, Satair, DXC Technology,
+  Manyone, NTU International, Andel Energi).
+
+**Tekniske noter:**
+
+- LinkedIns direkte `jobs/search/?keywords=...&f_TPR=r1814400&f_JT=F`-søgning
+  fungerede stabilt i dag (ét enkelt 429-rate-limit på "Data Analyst", løst ved
+  gentagelse). Den OR-kombinerede `/jobs/search-results/?...&geoId=...`-teknik
+  (pkt. 23/29) ramte igen en login-mur ved direkte hentning, samme ubrugelige
+  resultat som i alle tidligere kørsler, uændret uden en autentificeret session.
+- Bekræftet igen i dag (Terma-sagen): LinkedINs "X dage/timer siden"-label i selve
+  søgeresultaterne er ikke til at stole på, et opslag kan vise "2 dage siden" i
+  søgningen men være år gammelt og lukket ved direkte hentning af selve siden.
+  Samme forsigtighed som allerede gælder Jobindex' Google-cache bør fremover også
+  gælde LinkedIns egen "dage siden"-label.
+- Jobindex RSS (enkeltord: "konsulent", "rapportering" m.fl.) fortsat domineret af
+  offentlig sektor/Jylland/urelateret støj, 0 relevante hits i dag, samme mønster
+  som tidligere kørsler.
+- Indeed.dk: WebSearch-discovery virker, direkte verifikation af enkelte opslag gav
+  i dag HTTP 401 (tidligere logget som 403, samme bot-blokering, anden kode).
+- StepStone.dk: mest tysk stepstone.de-støj via `site:`-søgning, de få reelle
+  dk-hits gav HTTP 404 ved direkte hentning. Fortsat ubrugelig til verifikation.
+- Glassdoor DK: WebSearch-discovery gav i dag de mest brugbare leads af de tre
+  (Pandora, 3Shape, Royal Design Group, Satair), men direkte hentning af
+  job-/søgesider gav konsekvent HTTP 403. Fortsat discovery-only.
+
+Dette er endnu en dag med 0 forslag på trods af pkt. 35's mål om 2-3/dag. Mønsteret
+fra tidligere kørsler bekræftes: søgedækningen (kilder, titler, firmalister) er
+bred og fungerer teknisk, men den aktuelle pulje af reelt aktive, kvalificerende
+opslag inden for de dækkede kilder er udtømt for i dag, flere ellers stærke
+indholdsmatch (Pandora RGM/reporting, 3Shape) eksisterer tydeligvis et sted, men de
+specifikke links der kunne findes var rotererede/udløbede/404. Værd at gense Pandora
+og 3Shape direkte i en kommende kørsel for evt. nye links til samme ansættelsesrunder.
+
 ## 2026-10-02
 
 Tre parallelle søgespor kørt via underagenter: LinkedIn (enkeltords-søgninger med
