@@ -2,6 +2,142 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-10-06
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
+LinkedIn (enkeltords-/titelsøgninger med `f_TPR=r1814400&f_JT=F` på tværs af hele
+titellisten inkl. niveau+indhold-søgninger og navngivne Tier 2-3 konsulenthuse,
+samt fornyet forsøg på OR-kombineret søgeteknik); Jobindex RSS (12
+enkeltordsforespørgsler) kombineret med den fulde career-site-liste fra pkt. 20;
+Indeed.dk/StepStone.dk/Glassdoor DK samt Tier 4-konsulentboutiques. ofir.dk/
+jobsafari.dk sprunget over jf. den månedlige kadence (sidst tjekket 2026-09-29).
+Alle kandidatfund fra de tre spor blev efterfølgende egenhændigt genverificeret
+direkte mod kildeopslaget. **Resultat: 1 forslag i dag.** CV og ansøgning
+genereret og sendt til Fabian.
+
+**Forslag 1: Privat Psykiatrisk Center ApS — Business Analyst**
+- Firma: Privat Psykiatrisk Center ApS, privat speciallægevirksomhed (ikke en
+  del af det offentlige sundhedsvæsen), ~100 ansatte på tværs af 9 klinikker i
+  Danmark (København, Aarhus, Aalborg, Kolding m.fl.), stiftet 2018. Klart
+  etableret, privat, intet virksomhedstype- eller størrelsesproblem (pkt. 1/30/33).
+- Lokation: Axeltorv 6, 3., 1609 København V, lige ved Rådhuspladsen/Strøget,
+  gåafstand eller én metrostation fra Nørreport. Langt inden for
+  35-minuttersgrænsen (pkt. 25).
+- Link: https://www.jobindex.dk/jobannonce/h1700934
+- Opslået: 23-09-2026 (13 dage før tjek i dag, inden for den nye 3-ugers-grænse,
+  pkt. 39). Ansøgningsfrist: "snarest muligt", løbende behandling. Bekræftet
+  aktivt, intet udløbsmærke.
+- Fuldtid: bekræftet direkte i opslagets rå HTML ("Ansættelsestype:
+  Fastansættelse", "Ugentlig arbejdstid: Fuldtid"), verificeret to gange
+  uafhængigt i dag, inklusiv et rent `curl`-opslag mod sidens kildekode.
+  **Rettelse af tidligere kørsler:** dette præcise opslag (samme link, samme
+  opslagsdato) blev fravalgt to gange tidligere (2026-09-24 og 2026-09-30) med
+  begrundelsen at ansættelsestypen ikke var angivet noget sted. Det var en fejl
+  i den tidligere AI-opsummerende hentning, ikke en ændring af selve opslaget,
+  feltet har tydeligvis stået i sidens strukturerede "Virksomheden tilbyder"-boks
+  hele tiden. Opslaget er dermed genvurderet og består nu alle hårde krav.
+- Løn: ikke angivet i opslaget (almindelig risiko jf. pkt. 7), lav risiko givet
+  en stabil, etableret, 7 år gammel virksomhed.
+- Erfaring: "2-5 års erfaring fra en rolle inden for business analysis,
+  strategi, management consulting, projektudvikling eller lignende", inden for
+  den hævede pkt. 31-grænse. Ingen senior/lead/manager-titel eller
+  teamledelsesansvar.
+- Ingen SQL-, CRM- eller Lean Six Sigma-krav. Kernekravet er stærk PowerPoint og
+  Excel, samt Power BI eller tilsvarende, hvilket matcher Fabians stærkeste
+  kompetenceområde direkte. Opslaget nævner desuden eksplicit aktiv brug af
+  AI-værktøjer til analyse, research og strukturering, et direkte match til
+  COWI-arbejdet med AI-agenter i Microsoft Copilot.
+- Begrundelse: Rollen er analytisk sparringspartner tæt på CEO og klinisk
+  ledelse, med ansvar for at analysere patientaktivitet, henvisningsmønstre,
+  ventetider og kapacitetsudnyttelse, bygge ledelsesrapportering, dashboards,
+  forecasts og business cases, samt lave marked-, konkurrent- og
+  benchmarkanalyser. Det matcher tydeligt Fabians COWI-arbejde, hvor han ejer
+  Power BI-rapportering og datastrukturer for 7.500+ medarbejdere og løbende
+  omsætter data til forklaringer stakeholdere handler på, samt
+  Skattestyrelsen-erfaringen med KPI-rapportering direkte til den øverste
+  ledelse. EMF-uddannelsens fokus på kvantitativ/kvalitativ markeds- og
+  konkurrentanalyse matcher desuden opslagets benchmark-element direkte.
+- Bemærk (ærlighed): Rollen ligger indholdsmæssigt lidt tættere på strategi/
+  forretningsudvikling end ren BI-rapportering, så der er et vist reelt strræk
+  ud over en snæver BI-analytiker-rolle. Sundhedsbranchen er ny for Fabian,
+  om end selve rollen er forretningsvendt, ikke klinisk. Ingen tidligere
+  formel erfaring med "business case"-terminologi i CV'et, kun beslægtet
+  Excel-baseret analyse- og forklaringsarbejde.
+- CV og ansøgning genereret på dansk (matcher opslagets sprog), kvalitetstjekket
+  ved to adskilte gennemlæsninger af de renderede billeder (fakta/indhold,
+  derefter sprog/layout). Korrekt 2-siders CV (alle COWI- og
+  Skattestyrelsen-punkter samlet på side 1) og 1-siders ansøgning, ingen
+  opdigtede fakta, ingen nævnt svaghed i selve ansøgningsteksten, ingen
+  tænkestreger/kolon/markdown-tegn. Hilsen "Kære Hasse Brønnum," (navngiven
+  kontaktperson, CEO, angivet i opslaget). Filer:
+  `Fabian_Hansen_CV_PrivatPsykiatriskCenter.docx`,
+  `Fabian_Hansen_Ansogning_PrivatPsykiatriskCenter.docx`.
+
+**Dubletter fundet i dag, ikke gentaget som nye forslag:**
+- **Pandora — Commercial Analyst, Digital Partners** (samme link
+  4473201996): allerede foreslået og sendt 2026-09-30.
+- **Bellagroup — BI & Business Analyst** (samme link 4473205381): allerede
+  foreslået og sendt 2026-09-29.
+- **SS&C Technologies — Associate Data Analyst**: allerede foreslået og sendt
+  2026-09-25.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+- **PensionDanmark — AI Quality & Performance Specialist** (Østerbro, frist
+  18. oktober, fuldtid bekræftet): kerneindholdet er at definere metoder og
+  automatiserede evalueringer/overvågning af AI-løsninger i drift, reelt
+  AI/ML-kvalitetsingeniørarbejde, et reelt stræk ud over Fabians faktiske
+  AI-erfaring (bruger Copilot-agenter, bygger ikke AI-evalueringspipelines).
+  Ikke et hårdt krav (nævnt som "gerne, ikke et krav"), men indholdsmæssigt for
+  stort et spring til at foreslå.
+- **Thursday Consulting — Management Konsulent, Strategy & Operations** og
+  **IT Management Konsulent, Technology**: begge kræver eksplicit 3-5 års
+  erfaring fra et konsulenthus eller tilsvarende intern rolle. Ved direkte
+  opslagstjek i dag viste IT Management Konsulent-rollen sig desuden slet ikke
+  at være en aktiv opslået stilling, kun en evergreen-tekst til uopfordrede
+  ansøgninger ("Vi søger ikke aktivt til denne rolle lige nu"). Begge fravalgt.
+- **Bonzer — Junior Consultant** (Tier 4, Client Management-team): ved
+  nærmere gennemgang er rollens kerneindhold SEO-strategi og eksekvering for
+  kunder, reelt kreativt/taktisk digitalt marketingarbejde snarere end
+  data/BI-analyse, svagt indholdsmatch til Fabians analytiske profil. Ikke et
+  cold calling-/opsøgende salgsproblem, men indholdsmæssigt for langt fra
+  profilen til at foreslå.
+- **Intellishore — Associate Consultant** (AI & Engineering samt Strategy &
+  Transformation): begge bekræftet deltidsstillinger for studerende der
+  stadig læser. Fravalgt jf. fuldtidskravet.
+- Diverse Jobindex RSS/career-site-hits fravalgt på lokation (Hørsholm, Smørum,
+  Fredericia, Rødekro, Esbjerg, Lunderskov, Jylland/Fyn generelt), offentlig
+  sektor (Energinet, Andel Energi), senior/manager-titler (Nykredit, VELUX,
+  Danske Bank, Falck, Novonesis, Andel Energi, NielsenIQ 11-måneders kontrakt),
+  avanceret Python/programmeringskrav (Novonesis, OrderYOYO, KAYAK, Lunar,
+  Satair, dentsu Web Analytics Consultant), udløbne/lukkede opslag (DFDS x2,
+  Falck, Royal Design Group, 3Shape, Grant Thornton), samt graduate-programmer
+  med startdato 2027 (Accenture, Implement Consulting Group, EY, KPMG Advisory
+  Academy). Go-Pen ApS (Kongens Lyngby) fravalgt på virksomhedsstørrelse (2-10
+  ansatte, under gulvet i pkt. 33/37). Oleto Associates noteret som muligvis for
+  lille (2-10 ansatte) til fremtidig career-site-tjek.
+
+**Tekniske noter:**
+- Jobindex RSS: mekanisk pålidelig for alle enkeltordsforespørgsler, men
+  fortsat domineret af offentlig sektor/Jylland-støj og upålidelig
+  `geoarea`-filtrering, samme mønster som alle tidligere kørsler.
+- Vigtig lære fra dagens Privat Psykiatrisk Center-genvurdering: WebFetch'ens
+  AI-opsummering kan i sjældne tilfælde overse strukturerede feltbokse
+  (ansættelsestype, arbejdstid) selvom de tydeligt findes i sidens rå HTML.
+  Ved en "uklar ansættelsestype"-afvisning af et ellers stærkt match bør et
+  rent `curl`+`grep`-tjek af rå HTML fremover bruges som ekstra sikkerhed, før
+  opslaget droppes endeligt.
+- StepStone.dk: en reel dk-hit (Grant Thornton) viste sig at redirecte til
+  jobindex.dk, som derefter kunne hentes fuldt ud. Værd at forfølge
+  StepStone→Jobindex-redirects fremover frem for at behandle StepStone som en
+  død kilde.
+- Indeed.dk fortsat kun brugbar til discovery (401 på direkte hentning).
+  Glassdoor DK's `site:`-søgning gav i dag kun generiske aggregator-sider, ingen
+  enkelte joblinks. Aggregator-spejle (freehire.me, dreamworkhq.com) var i dag
+  mere brugbare end de officielle Workday/Oracle Cloud-sider, som fortsat er
+  rene JS-skaller.
+- Det OR-kombinerede LinkedIn `search-results`-format (pkt. 23/29) ramte igen
+  en login-mur, uændret fra alle tidligere kørsler.
+
 ## 2026-10-05
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
