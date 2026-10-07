@@ -2,6 +2,161 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-10-07
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
+LinkedIn (enkeltords-/titelsøgninger med `f_TPR=r1814400&f_JT=F` på tværs af hele
+titellisten inkl. niveau+indhold-søgninger og navngivne Tier 2-3 konsulenthuse);
+Jobindex RSS (16 enkeltordsforespørgsler) kombineret med den fulde career-site-
+liste fra pkt. 20 (finans/pension, logistik, tech) og konsulenthuslisten fra
+pkt. 28; Indeed.dk/StepStone.dk/Glassdoor DK samt Tier 4-konsulentboutikker.
+ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence (sidst tjekket
+2026-09-29, ikke due). Alle tre kandidatfund fra LinkedIn-sporet blev
+efterfølgende egenhændigt genverificeret direkte mod kildeopslaget (dato,
+ansættelsestype, lokation, krav). **Resultat: 2 forslag i dag.** CV og
+ansøgning genereret og sendt til Fabian for begge.
+
+**Forslag 1: Heimstaden — Procurement Performance & Excellence Analyst**
+- Firma: Heimstaden Group, pan-europæisk fast ejendoms-investor/forvalter,
+  ~155.500 boliger i 9 lande, ejendomsværdi ~30 mia. EUR, ~2.000 ansatte. Klart
+  etableret, privat, intet virksomhedstype- eller størrelsesproblem (pkt. 1/30/33).
+- Lokation: Sankt Petri Passage 5, 3. sal, 1165 København K, midt i centrum,
+  gåafstand/få minutters metro fra Nørreport. Langt inden for 35-minuttersgrænsen
+  (pkt. 25).
+- Link: https://dk.linkedin.com/jobs/view/procurement-performance-excellence-analyst-at-heimstaden-4474990334
+- Opslået: ca. 15 timer før tjek i dag, meget frisk. Ansøgningsfrist ikke angivet.
+- Fuldtid: bekræftet direkte i opslaget ("Fuldtid", fastansættelse efter prøvetid).
+- Kun 26 ansøgere på opslagstidspunktet, lavt konkurrenceniveau (positivt signal,
+  pkt. 9). LinkedIns eget niveau-mærke: "Nyuddannet".
+- Løn: ikke angivet i opslaget (almindelig risiko jf. pkt. 7), lav risiko givet
+  virksomhedens størrelse og stabilitet.
+- Erfaring: "fortrinsvis 2-3 års relevant erfaring" inden for indkøb, business
+  analysis, controlling, consulting eller lignende. Inden for den hævede
+  pkt. 31-grænse. Ingen senior/lead/manager-titel eller teamledelsesansvar.
+- Krav: akademisk grad i business/økonomi/supply chain, stærke analytiske evner,
+  avanceret Excel (krav), Power BI eller tilsvarende rapporteringsværktøj (krav),
+  KPI-design, dashboards, performance management, indkøbs-/leverandøranalyse-
+  forståelse, proces/governance. SQL kun nævnt som "nice to have", ikke et krav.
+- Begrundelse: Det er eksplicit en "build role", der skal opbygge og styrke
+  hvordan indkøb måles og styres via rapportering, spend-synlighed og governance,
+  et direkte match til COWI-arbejdet, hvor Fabian ejer Power BI-rapportering og
+  datastrukturer (inkl. Engagement Survey-datastrukturen for 7.500+ medarbejdere)
+  samt Skattestyrelsens KPI-rapportering til ledelsen og Power BI-baseret
+  fakturatracking, en direkte parallel til spend-synlighed.
+- Bemærk (ærlighed): Intet tidligere indkøbs-/procurement-domæne i CV'et, men
+  selve analyse-/rapporteringsopgaven er Fabians stærkeste kompetenceområde.
+  Løn ikke oplyst.
+- CV og ansøgning genereret på engelsk (matcher opslagets sprog), kvalitetstjekket
+  ved to adskilte gennemlæsninger af de renderede billeder (fakta/indhold,
+  derefter sprog/layout). Korrekt 2-siders CV (COWI- og Skattestyrelsen-punkter
+  samlet på side 1) og 1-siders ansøgning, ingen opdigtede fakta, ingen nævnt
+  svaghed i selve ansøgningsteksten, ingen tænkestreger/kolon/markdown-tegn.
+  Hilsen "Dear Mona Tunay Palic," (navngiven rekrutteringskontakt i opslaget).
+  Filer: `Fabian_Hansen_CV_Heimstaden.docx`, `Fabian_Hansen_Ansogning_Heimstaden.docx`.
+
+**Forslag 2: Urban Partners — Reporting and Analytics Associate**
+- Firma: Urban Partners, Københavns-baseret "urban investment platform" (fast
+  ejendom, kredit, venture), 501-1.000 ansatte, >23 mia. EUR AUM. Etableret,
+  privat, ingen startup-bekymring.
+- Lokation: Southamptongade 4, 2150 Nordhavn, København. Bekræftet S-tog/metro
+  4 minutter fra Nørreport til Nordhavn station, klart inden for
+  35-minuttersgrænsen inkl. gangafstand (pkt. 25).
+- Link: https://dk.linkedin.com/jobs/view/reporting-and-analytics-associate-at-urban-partners-4475828180
+- Opslået: ca. 1 dag før tjek. Ansøgningsfrist: 25. oktober.
+- Fuldtid: bekræftet direkte i opslaget ("Fuldtid").
+- 104 ansøgere, moderat konkurrenceniveau. LinkedIns eget niveau-mærke:
+  "Nyuddannet", selvom rollen beder om ca. 2-3 års erfaring.
+- Løn: ikke angivet i opslaget (almindelig risiko jf. pkt. 7).
+- Erfaring: ca. 2-3 års professionel erfaring i en finansrelateret rolle. Ingen
+  senior/lead/manager-titel.
+- Krav: grad i finance/økonomi/regnskab/business administration, stærke
+  Excel-færdigheder med rapportering/afstemninger/analyser på store datasæt,
+  baggrund fra en rolle som fx Financial Controller/Finance Analyst/Reporting
+  Analyst/Accountant, erfaring med rapporteringscyklusser/month-end/ledelses-
+  rapportering. SQL, Power BI, datastrukturer/cubes samt interesse for teknologi/
+  automation/AI nævnt som "nice to have".
+- Begrundelse: Direkte match til COWI's Global Finance Operations-arbejde:
+  forespørger/transformerer/modellerer data i SQL til Power BI-rapportering,
+  kører tilbagevendende rapporteringscyklusser (ugentlig feriesaldo for 1.000+
+  medarbejdere i Sverige, årsopgørelser for 1.600+ medarbejdere i Norge, årlig
+  lønregulering), strukturerer og analyserer store Excel-datasæt på medarbejder-
+  niveau og kompensation. AI-agenter i Microsoft Copilot matcher direkte
+  virksomhedens nice-to-have om teknologi/automation/AI-interesse.
+- Bemærk (ærlighed): Ingen tidligere formel finance-titel (Controller/Accountant)
+  i CV'et, så der er et vist reelt stræk på selve "finance"-baggrunden, selvom
+  opgavetypen matcher tæt. Højere ansøgertal end Heimstaden-opslaget. Løn ikke
+  oplyst.
+- CV og ansøgning genereret på engelsk (matcher opslagets sprog), kvalitetstjekket
+  ved to adskilte gennemlæsninger af de renderede billeder. Korrekt 2-siders CV
+  og 1-siders ansøgning, ingen opdigtede fakta, ingen nævnt svaghed i selve
+  ansøgningsteksten, ingen tænkestreger/kolon/markdown-tegn. Hilsen "Dear Sarah
+  Midtgaard Meyer," (navngiven rekrutteringskontakt i opslaget). Filer:
+  `Fabian_Hansen_CV_UrbanPartners.docx`, `Fabian_Hansen_Ansogning_UrbanPartners.docx`.
+
+**Grænsetilfælde overvejet, ikke foreslået:**
+- **Unilabs Pharma Solutions (rekrutteret via Compass Human Resources Group) —
+  Business Analyst** (Nygårdsvej 32, 2100 København Ø, fuldtid bekræftet, lokal
+  enhed 57 ansatte men del af Unilabs-koncernen 10.000+, Annalect-mønster):
+  indholdsmæssigt et stærkt match (kapacitetsplanlægning, FTE-modellering,
+  porteføljeanalyse, planlægningsmodeller/dashboards, månedlig ledelses-
+  rapportering, direkte parallel til COWI's Power BI-dashboards på
+  medarbejderdata). Selve kravteksten nævner intet eksplicit årstal eller
+  senior/lead/manager-ansvar, men LinkedIns eget niveau-mærke sætter rollen til
+  "Mid-Senior level", et reelt usikkerhedssignal der ikke kan afvises som rent
+  støj (pkt. 34 kræver vurdering på substans, ikke kun mærket, men "Mid-Senior"
+  kombineret med porteføljeansvar vurderes samlet som for stor en risiko for at
+  ligge over erfaringsloftet, pkt. 31/38). Fravalgt af forsigtighed, ikke
+  foreslået. Link til Fabians egen overvejelse: https://www.linkedin.com/jobs/view/4476177769
+- **Novo Nordisk — "Data Analyst / AI & PowerBI Developer"** (Jobindex-fund,
+  Bagsværd, opslået 6/10): kunne ikke følges til en konkret, fungerende ekstern
+  joblisting, kun et kort Jobindex-uddrag. Værd at genbesøge Novo Nordisk
+  careers-siden direkte for Bagsværd-baserede BI/data-roller i en kommende
+  kørsel.
+- **North Consulting — Management Consultant, Commercial Excellence**
+  (Amagertorv 8A, København K, Tier 4): usædvanligt stærkt indholdsmæssigt match
+  (kommerciel transformation, kvalitativ/kvantitativ analyse, accepterer
+  2026-dimittender, ingen Salesforce-ekspertkrav), men opslaget bekræfter hverken
+  "fuldtid" eksplicit eller en opslagsdato, kun løbende evergreen-behandling,
+  samme situation som Thursday Consulting blev fravalgt på 2026-10-06. Fravalgt
+  af konsistens, men værd at Fabian selv kigger direkte på:
+  https://www.north.consulting/position-consultant-coms
+- **Cookie Information — Data Analyst** og **Eupry ApS — Revenue Operations
+  Analyst/Performance Marketer Analyst**: begge indholdsmæssigt lovende, men
+  kildesiderne (jobbank.dk, Workable) gav konsekvent HTTP 403/404 og kunne ikke
+  verificeres for fuldtid, dato eller fulde krav. Ikke foreslået pga. manglende
+  verifikation, ikke pga. et konkret fravalg.
+- Diverse Jobindex RSS-/career-site-hits fravalgt på lokation (Gørlev, Horsens,
+  Ikast/Aarhus, Odense, Silkeborg, Viby J, Taastrup, Jylland generelt), avanceret
+  programmeringskrav (PFA Pension Analytiker, Trustpilot Data Analyst, BearingPoint
+  Consultant Data & Analytics), senior/manager-titler (Danica Pension, Maersk x2,
+  DFDS, Flying Tiger Senior Insights Analyst), udløbne/stale opslag (PFA
+  Forretningskonsulent, PensionDanmark Private Markets, Implement Consulting
+  Group Commercial Analyst, Coop Danmark Junior Strategikonsulent, flere Pandora
+  RGM-roller alle "position has been filled"), uverificerbar ansættelsestype/
+  startdato (Valcon Graduate Consultant 2026), deltid (North Consulting Business
+  Analyst 2-3 dage/uge, Resights Marketing Analyst 30 timer/uge), samt et fransk
+  statsligt VIE-ungarbejderprogram (Société Générale) uden for den almindelige
+  danske fuldtidsramme. KMD Ballerup-opslag (Product Data Insights Lead) fravalgt
+  på lokation trods stærkt indholdsmatch (pkt. 27).
+
+**Tekniske noter:**
+- LinkedIns `jobs/search/?keywords=...&f_TPR=r1814400&f_JT=F` fortsat klart mest
+  produktive kanal, ingen blokering i dag. Direkte `jobs/view/<id>`-hentning
+  fungerede konsekvent til fuld kravtekstudtræk, kun én enkelt 429 (rate limit),
+  løst ved gentagelse.
+- Jobindex RSS: mekanisk stabil for alle 16 enkeltordsforespørgsler, men fortsat
+  domineret af Jylland/offentlig sektor-støj. To forespørgsler ("marketing
+  analyst", "people analytics") gav tomme feeds, bekræftet reelt 0 hits snarere
+  end teknisk fejl.
+- jobbank.dk optrådte ofte som mellemkilde i dag, men gav konsekvent HTTP 403 på
+  direkte hentning, kan kun tilgås indirekte via søgeresuméer. careers.nordea.com
+  gav HTTP 503. Begge værd at holde øje med i fremtidige kørsler.
+- Indeed.dk/StepStone.dk/Glassdoor DK fortsat rene discovery-kilder uden
+  direkte-hentelige joblinks, samme mønster som alle tidligere kørsler.
+- OR-kombineret LinkedIn `search-results`-format (pkt. 23/29) ikke afprøvet i dag,
+  enkeltords-søgningerne var allerede meget produktive og tidskrævende at
+  gennemgå grundigt.
+
 ## 2026-10-06
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
