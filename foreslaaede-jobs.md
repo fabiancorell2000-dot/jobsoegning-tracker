@@ -2,6 +2,88 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-10-08
+
+Baggrund: kørsel efter pkt. 35-39-skærpelserne (2-3 forslag/dag-mål, Glostrup
+hårdt fravalgt, Lyngby som ny navngiven nordgrænse, 3-ugers opslagsvindue).
+To parallelle underagenter kørt: Agent 1 dækkede LinkedIn (titelliste, bredere
+niveau+indhold-søgninger, OR-kombinerede søgninger, `f_C=`-forsøg, samt den
+fulde Tier 2-4-konsulenthusliste fra pkt. 28). Agent 2 dækkede Jobindex RSS
+(19+ enkeltordsforespørgsler), Indeed.dk/StepStone.dk/Glassdoor DK, og direkte
+career-site-tjek af den fulde liste fra pkt. 20 samt konsulenthusene.
+**Resultat: 0 forslag i dag.**
+
+**Vigtig teknisk begrænsning i dag:** LinkedIn kunne ikke tilgås direkte af
+nogen af de to agenter denne kørsel, hverken via `linkedin.com/jobs/search-results`
+(login-mur, HTTP 429, eller HTTP 500 afhængig af agent/tidspunkt) eller via
+`site:linkedin.com/jobs`-websøgning (indekserer ikke LinkedIns jobsider
+pålideligt). Dette er en gentagelse af en begrænsning set i enkelte tidligere
+kørsler, men denne gang blokerede den LinkedIn fuldstændigt som kilde, hvilket
+er en reel dækningsrisiko, da LinkedIn historisk har været hovedkilden til de
+fleste forslag i denne rutine. Bør overvåges, en fremtidig kørsel bør prøve
+igen, da det kan være midlertidig rate-limiting.
+
+**Eneste kandidat fundet der i første omgang så lovende ud, men er en
+duplikat:** Agent 2 fandt via Jobindex (id h1701567) "AL Sydbank — Data
+Governance Specialist, Data Enablement" (opslået 25-09-2026, Sluseholmen/evt.
+Aabenraa). Dette er samme stilling som allerede blev identificeret og
+EKSPLICIT FRAVALGT i kørslen 2026-09-26 under "AL Sydbank — Data Governance
+Specialist / Data Architect / AI Adoption Specialister" (fravalgt dengang på
+primær lokation Aabenraa/Peberlyk samt krav om reel forudgående data
+governance-/arkitekturerfaring), samme opslagsdato (25-09-2026) bekræfter det
+er samme opslag. Ikke et nyt forslag, kun en gentagelse af et allerede
+vurderet og fravalgt opslag.
+
+**Øvrige undersøgte spor, alle diskvalificeret eller ikke tilstrækkeligt
+verificerbare (udvalgte, mest lovende først):**
+- Scan Global Logistics (Transformation Analyst, Hvidovre): kræver eksplicit
+  "at least 5 years" erfaring, over pkt. 31-grænsen (kun "3-5 år" accepteres).
+- Devoteam Data Driven (Data Engineering Consultant, København K): SQL/Python
+  som kernekrav i en dataingeniørrolle, hårdt avanceret-SQL/programmerings-
+  fravalg. Desuden bekræftet udløbet.
+- Podimo (Analytics Engineer, København) og Novo Nordisk ("Data Analyst",
+  reelt "AI & PowerBI Developer", Bagsværd): begge kræver Python/dbt/BigQuery/
+  Looker som kernekrav, hårdt fravalgt.
+- Valcon (Graduate Consultant 2026, København V): indholds- og lokationsmæssigt
+  stærkt match, men ansøgningsvindue/frist kunne ikke bekræftes som aktivt
+  (flere kilder antyder udløbet/udsolgt).
+- IKEA Denmark (Country Data Analyst): serviceskontor i Taastrup-området,
+  udelukket jf. lokationskriteriet.
+- PFA Pension (Analytiker) og PensionDanmark (Junior Analyst, Private Markets):
+  begge bekræftet udløbet ved direkte tjek, PensionDanmark-rollen var desuden
+  reelt deltid (15-20 t/uge).
+- Scandinavian Tobacco Group (Business/Senior Business Analyst, Gentofte) og
+  Too Good To Go (Commercial Planning Analyst, København): begge indholds-
+  mæssigt lovende, men rollerne kunne ikke verificeres som aktuelt åbne
+  (career-sider gav "not available"/blokerede ved direkte hentning).
+- EY (alle "Graduate - Data & Analytics"-opslag): mærket "Autumn 2027", for
+  langt ude jf. pkt. 4.
+- Go-Pen ApS (Finance and Business Analyst, Kgs. Lyngby): kun 3 ansatte ifølge
+  CVR, under selv det løseste størrelsesgulv (pkt. 33).
+- Lokationsmæssigt udelukkede (Jylland/for langt væk): Eurowind Energy (Hobro),
+  DOVISTA (Horsens), MAKEEN Energy (Randers), Itm8 (Viby J), Crispy Food
+  (Gørlev), ABENA (Aabenraa).
+- Konsulenthusene fra pkt. 24/28-listen (Implement, PA Consulting, BearingPoint,
+  Emendo, Intellishore, Carve, Kopenhagen Consulting, Radiant, Kvadrant
+  Consulting (opkøbt af Elixirr feb. 2026), Mobilize Strategy Consulting,
+  Knowit Management Consulting, Devoteam Consulting, DAMVAD Analytics, ReD
+  Associates, Bridge Consulting, Nordic Consulting Group, Thursday Consulting,
+  Right People Group, Nine, Another Consulting Firm): ingen åbne,
+  nyuddannet-venlige, fuldtidsstillinger fundet hos nogen af dem i dag, enten
+  udløbet, kun senior-roller, eller intet fundet.
+
+**Tekniske begrænsninger, øvrigt:** Jobindex RSS fungerede teknisk (19+
+enkeltordsforespørgsler kørt), men meget støjende som forudset i pkt. 21.
+Indeed.dk/StepStone.dk/Glassdoor DK gav konsekvent 403/404 ved direkte
+hentning (botblokering), kun indirekte WebSearch-snippets mulige, ikke fuld
+verifikation. jobbank.dk (Akademikernes Jobbank) blokerede konsekvent med 403,
+hvilket forhindrede fuld verifikation af flere ellers lovende leads
+(Too Good To Go, PensionDanmark). ofir.dk/jobsafari.dk sprunget over denne
+kørsel jf. den månedlige kadence (ikke forfaldent).
+
+Ingen ansøgningsmateriale genereret i dag, da intet opslag bestod alle
+kvalitetskrav.
+
 ## 2026-10-07
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
