@@ -2,6 +2,136 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-10-09
+
+Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
+Agent 1 dækkede LinkedIn (enkeltords-/titelsøgninger med `f_TPR=r1814400&f_JT=F`,
+bredere niveau+indhold-søgninger, OR-kombinerede søgninger, konsulenthus-tier
+2-4). Agent 2 dækkede Jobindex RSS (~20 enkeltordsforespørgsler) samt
+Indeed.dk/StepStone.dk/Glassdoor DK/jobbank.dk (ofir.dk/jobsafari.dk sprunget
+over jf. den månedlige kadence, sidst tjekket 2026-09-29, ikke forfaldent).
+Agent 3 dækkede direkte career-site-tjek af den fulde liste fra pkt. 20
+(Nykredit, Enalyzer, Annalect, Danske Bank, Ørsted, Pandora, SEB,
+PensionDanmark, Implement, PFA/Alm. Brand/Topdanmark/Danica/AP
+Pension/Nordea, Maersk/DSV/DFDS, SimCorp/KMD, Coloplast/ISS/Falck/Novonesis/
+Demant). **Resultat: 1 forslag i dag.** CV og ansøgning genereret og sendt
+til Fabian.
+
+**Forslag 1: RIB Software — Graduate Analyst, Strategy & M&A**
+- Firma: RIB Software (RIB Denmark A/S, CVR 25126475), del af Schneider
+  Electric-koncernen siden 2020 (Schneider Electric: fransk multinational
+  industrikoncern, 150.000+ ansatte, børsnoteret). Den danske enhed har kun
+  37 ansatte og en svag 2025-regnskabsperiode isoleret set, men koncern-
+  mønstret fra pkt. 1/30/33 (Annalect/Omnicom-typen) gælder klart her givet
+  Schneider Electrics størrelse og stabilitet, nævnt som en ærlig nuance,
+  ikke et fravalg.
+- Lokation: Ryesgade 19C, 2200 København N (nær Søerne/Nørrebro), kort
+  gang-/cykelafstand til city/Nørreport, ingen busafhængighed. Klart inden
+  for 35-minuttersgrænsen (pkt. 25), ikke Ballerup/Glostrup/Lyngby-grænse-
+  relevant.
+- Link: https://dk.linkedin.com/jobs/view/graduate-analyst-strategy-m-a-at-rib-software-4477190433
+- Opslået: ca. 18 timer før tjek i dag, meget frisk. Ansøgningsfrist ikke
+  angivet. 78 ansøgere på tjek-tidspunktet.
+- Fuldtid: bekræftet direkte i opslaget.
+- Erfaring: eksplicit 0 års krav, "prior professional experience is not
+  required", rendyrket graduate-rolle ("looking for potential and mindset,
+  not years on a CV"). Ingen senior/lead/manager-titel.
+- Løn: ikke angivet i opslaget (almindelig risiko jf. pkt. 7).
+- Krav: afsluttet eller snart afsluttet kandidatgrad i business/økonomi/
+  finans/strategi, stærke analytiske/finansielle/strategiske evner, stærk
+  PowerPoint, flydende engelsk, brug af AI-værktøjer i det daglige arbejde.
+  Ingen SQL-, avanceret CRM- eller Lean Six Sigma-krav.
+- Begrundelse: Rollen følger konkurrenters finansielle udvikling og
+  M&A-aktivitet (med fokus på AI i byggeteknologi), vedligeholder dashboards
+  og intelligence-materiale til ledelsen, understøtter market sizing og
+  kundesegmentering, og forbereder ledelsesoplæg og business cases. Det
+  matcher EMF-uddannelsens fokus på kvantitativ/kvalitativ markedsanalyse og
+  strategisk beslutningstagning ud fra data direkte, samt Teknologiens
+  Mediehus-erfaringen med at bruge kommercielle/kundedata til at identificere
+  salgsmuligheder og prioritere konti. Skattestyrelsens KPI-rapportering til
+  ledelsen og PowerPoint-/beslutningsmateriale samt COWI's Excel-baserede
+  mønster-/udsvingsforklaring til stakeholdere matcher direkte opslagets
+  behov for ledelsesoplæg og business cases. COWI's AI-agenter i Microsoft
+  Copilot matcher eksplicit opslagets krav om daglig brug af AI-værktøjer.
+- Bemærk (ærlighed): Dette er en svagere match på selve værktøjssiden end
+  Fabians stærkeste tidligere matches, rollen er PowerPoint-/strategi-/
+  M&A-tung snarere end Power BI-/dashboard-byggende, så kernekompetencen
+  (Power BI) kommer ikke direkte i spil her, selvom "maintain dashboards and
+  intelligence repositories" nævnes. Ingen tidligere M&A- eller
+  managementkonsulent-erfaring i CV'et. RIB Denmark A/S' lokale regnskab er
+  svagt (negativt resultat, faldende soliditet 2025), opvejet af
+  Schneider Electric-ejerskabet.
+- CV og ansøgning genereret på engelsk (matcher opslagets sprog),
+  kvalitetstjekket ved to adskilte gennemlæsninger af de renderede billeder
+  (fakta/indhold, derefter sprog/layout). Korrekt 2-siders CV (alle COWI-
+  punkter samlet på side 1, Skattestyrelsen-blokken intakt) og 1-siders
+  ansøgning, ingen opdigtede fakta, ingen nævnt svaghed i selve
+  ansøgningsteksten, ingen tænkestreger/kolon/markdown-tegn. Hilsen "Dear
+  Casper Resenbro," (navngiven Senior Strategy Manager/nærmeste leder nævnt i
+  opslaget, intet separat rekrutteringskontaktnavn angivet). Filer:
+  `Fabian_Hansen_CV_RIBSoftware.docx`, `Fabian_Hansen_Ansogning_RIBSoftware.docx`.
+
+**Fundne, men fravalgt som dubletter af allerede foreslåede/vurderede opslag
+(samme opslag, ingen ny vurdering nødvendig):**
+- Heimstaden — Procurement Performance & Excellence Analyst (samme link som
+  forslaget 2026-10-07).
+- Urban Partners — Reporting and Analytics Associate (samme link som
+  forslaget 2026-10-07).
+- Pandora — Commercial Analyst, Digital Partners (samme link som forslaget
+  2026-09-30).
+- Bellagroup — BI & Business Analyst (samme link som forslaget 2026-09-29,
+  en kendt tilbagevendende repost der er dukket op i flere kørsler siden).
+- NielsenIQ — Analytical Consultant (allerede behandlet som Fabian-valgt
+  forslag 2026-09-29, gentagne gange logget som kendt grænsetilfælde siden).
+- Danske Bank — Analyst, Corporate & Sustainability Advisory DK & NO (allerede
+  grundigt vurderet og fravalgt 2026-09-18: indholdet er kreditanalyse/
+  kapitalstruktur-rådgivning uden Excel/SQL/Power BI-nævnelse, et reelt
+  indholdsmæssigt hul til Fabians BI-/master data-profil, samme konklusion
+  fastholdt i dag).
+- Annalect (Omnicom Media Group) — Media Pricing Analyst: allerede markeret
+  som søgt af Fabian selv i `soegte-jobs.md`.
+
+**Øvrige grænsesager undersøgt og fravalgt eller for usikre til at foreslå:**
+- Haleon — Category Analyst (Vallensbæk Strand): ansøgningsfrist 2026-10-07
+  allerede passeret ved tjek i dag (2026-10-09), desuden 12-måneders
+  tidsbegrænset kontrakt og lokation nås kun via letbane (Delta Park), ikke
+  S-tog/metro direkte. Fravalgt på udløbet frist.
+- Hilti Danmark — Pricing Analyst: stærkt indholdsmatch (Power BI, pricing-
+  analyse), men lokationen kunne ikke verificeres entydigt, Hiltis eget
+  hovedkontor i jobopslag er Stamholmen 153, Hvidovre (Avedøre Holme-området,
+  kun betjent af bus 139 til Friheden station), mens CVR-registreringen
+  peger på Kay Fiskers Plads, Amager. Fravalgt på uafklaret buskrav, værd at
+  Fabian selv afklarer den præcise kontoradresse for denne specifikke rolle.
+- AndLight/Royal Design Group (Egmont-koncernen) — Pricing Analyst: god
+  lokation og koncern-mønster, men opslagsdato, løn og det fulde kravafsnit
+  (erfaringsår, SQL/Excel-niveau) kunne ikke verificeres, alle kilder klippede
+  teksten af før kravsektionen. Fravalgt på utilstrækkelig verifikation.
+- RIB Software — øvrige vurderinger: ingen andre åbne roller fundet hos
+  virksomheden i dag.
+
+**Tekniske noter fra dagens kørsel:**
+- LinkedIn: enkelt-søgeord via direkte `jobs/search-results/`-URL fungerede
+  fint (60 resultater/søgning), OR-kombinerede søgninger i samme format var
+  upålidelige (skiftede mellem login-mur og HTTP 500). `site:linkedin.com/jobs`
+  i WebSearch fandt ingen LinkedIn-sider i nogen af de tre spor i dag,
+  konsekvent på tværs af alle tre agenter, bør nedprioriteres fremover som
+  teknik. Direkte `jobs/view/<id>`-hentning fortsat pålidelig til
+  kravtekstverifikation.
+- Jobindex RSS: fungerede teknisk fint (enkeltord, citeret), men fortsat meget
+  støjende (offentlig sektor, Jylland/Fyn, irrelevante brancher).
+- Indeed.dk/StepStone.dk/Glassdoor DK/jobbank.dk: fortsat konsekvent
+  HTTP 403/404 på direkte hentning, kun brugbare til leads via WebSearch-
+  snippets, ikke til fuld verifikation.
+- Career-site-sporet: flere primærsider fortsat JS-renderet/utilgængelige
+  (Ørsted, Pandora, Danske Bank, SEB, Nykredit), jobbank.dk og
+  karrierevejviser.dk brugt som sekundære kilder hvor muligt.
+- Et betydeligt antal allerede kendte dubletter dukkede op igen på tværs af
+  alle tre spor i dag (se ovenfor), hvilket tyder på at kilde- og
+  titeldækningen nu er bred nok til at de fleste friske, kvalificerende
+  opslag allerede er fanget i tidligere kørsler, resten af dagens fund var
+  enten reposts, allerede vurderede fravalg, eller for usikre til at
+  bekræfte.
+
 ## 2026-10-08
 
 Baggrund: kørsel efter pkt. 35-39-skærpelserne (2-3 forslag/dag-mål, Glostrup
