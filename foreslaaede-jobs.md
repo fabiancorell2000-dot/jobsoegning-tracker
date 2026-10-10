@@ -2,6 +2,45 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-10-10
+
+Tre parallelle søgespor kørt via underagenter (samme opdeling som seneste kørsler): Agent 1 dækkede LinkedIn (enkeltords-/titelsøgninger med `f_TPR=r1814400&f_JT=F`, bredere niveau+indhold-søgninger, OR-kombinerede søgninger, konsulenthus-tier 2-4). Agent 2 dækkede Jobindex RSS (~20-30 enkeltordsforespørgsler) samt Indeed.dk/StepStone.dk/Glassdoor DK/jobbank.dk (ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence, sidst tjekket 2026-09-29, kun 11 dage siden, ikke forfaldent). Agent 3 dækkede direkte career-site-tjek af den fulde pkt. 20/28-liste (Nykredit, Enalyzer, Annalect, Danske Bank, Ørsted, Pandora, SEB, PensionDanmark, PFA/Alm. Brand/Topdanmark/Danica/AP Pension/Nordea, Maersk/DSV/DFDS, SimCorp/KMD, Coloplast/ISS/Falck/Novonesis/Demant, samt konsulenthus-tier 2-4). **Resultat: 0 forslag i dag** — to kandidater blev undersøgt grundigt af koordinerende session efter underagenternes research, men ingen bestod alle hårde krav ved verifikation.
+
+**Grundigt undersøgt og fravalgt efter egen verifikation (ikke kun underagent-vurdering):**
+- **Link Logistics A/S — BI Business Partner** (Vallensbækvej 51-53, 2605 Brøndby). Stærkt indholdsmatch (avanceret Excel/pivot, Power BI + Microsoft Fabric, SQL til datatræk, controlling/finans-baggrund "gerne et par års erfaring", etableret dansk speditionsvirksomhed, 300+ ansatte, fuldtid bekræftet, kun 87 ansøgere). LinkedIn-søgeagenten kunne ikke selv afklare transporten og flaggede den til videre tjek. Egen opslagsadresse-verifikation (Nominatim-koordinater) viste at Vallensbækvej 51 ligger i Ragnesminde Erhvervsområde, ca. 2,2-2,4 km fra samtlige nærmeste S-togsstationer (Brøndbyøster, Glostrup, Vallensbæk) — ikke gåafstand, og en realistisk rute ville kræve bus eller cykel fra stationen. Det bryder både den direkte "ikke en rute der kræver bus"-regel (pkt. 25) og 35-minuttersgrænsen samlet set (S-togstur fra Nørreport + 25-30 min gang). Fravalgt på lokation, ikke på indhold — indholdsmatchet var ellers et af de stærkeste fundet i lang tid.
+- **Nykredit — Ambitiøs strategikonsulent til Strategi & Analyse** (København, tæt på topledelsen i koncernen). Privat, etableret, lav konkurrence (under 25 ansøgere, positivt signal jf. pkt. 9), fuldtid, frist 2. november. Kernekravet er dog eksplicit mindst 2 års erfaring fra et konsulenthus ELLER en intern strategifunktion, med hypotesedreven problemløsning, forretningsmodeller og finansielle vurderinger kommunikeret til topledelsen. Fabians faktiske erfaring (COWI/Skattestyrelsen) er BI-/rapporterings-/datastrukturerings-tung, ikke klassisk strategikonsulentarbejde eller en intern strategifunktion — det er et reelt indholdsmæssigt hul til et eksplicit krav, ikke bare et "nice to have" eller et spørgsmål om antal år. Fravalgt på substans, samme logik som tidligere Flying Tiger (branchespecifikt krav) og Corpay (specifikt erfaringsdomæne)-sagerne.
+
+**Andre nye kandidater fundet af underagenterne, undersøgt og fravalgt (se agenternes fulde noter, opsummeret):**
+- DFDS — Data Engineer: kræver dbt/Airflow/Snowflake/AWS, avanceret data engineering, hårdt fravalgt.
+- Nykredit — Finansiel Controller, NPA: kerne­krav cand.merc.aud./HD(R)/revisionsbaggrund, Power BI kun "nice to have", forkert fagligt felt.
+- Implement Consulting Group — Graduate-programmer (Finance & Economics + AI Graduate Consultant): bekræftet 2027/2028-intake, for langt ude jf. pkt. 4/9.
+- PFA Pension — Analyst, pricing and product renewals: kræver Python/SQL/Databricks/Spark, avanceret, hårdt fravalgt.
+- SEB — Analyst, Corporate Loan Origination: kredit-/pitch book-tungt, intet BI/dataanalyse-fokus.
+- Kantar — Data Analyst: posting bekræftet udløbet/fjernet ved verifikation.
+- Danske Stenhuggerier A/S — BI- og AI-konsulent: stærkt titelmatch, men lokation Nørre Snede (Jylland), langt uden for kriteriet.
+- N1 A/S — Strategy Consultant: lokation Esbjerg/Silkeborg, uden for kriteriet.
+- Andel Energi — Forretningsanalytiker (FlexPlatform): IT-/Scrum-forretningsanalyse på elmarkedssystem, svagt indholdsmatch. Samme firmas "Skab forretningsindsigter der påvirker beslutninger"-opslag: muligt erfaren-niveau og kunne ikke fuldt verificeres, for usikkert.
+- DSV — Healthcare Business Support Specialist: Hedehusene, uden for kriteriet (ikke et København-specifikt opslag).
+- Keepers — CFO services-graduateprogram: multi-by uden fordeling angivet, klassisk regnskabs-/CFO-vej, svagere match.
+- Visma DataLøn — Data Analyst: god lokation/virksomhed, men ingen kravtekst/fuldtid/løn kunne verificeres noget sted, for utilstrækkeligt dokumenteret.
+- Lunar (FCP) — Data Analyst: kræver avanceret SQL+dbt (datawarehouse).
+- Novo Nordisk — Data Analyst/AI & PowerBI Developer: Python som kernekrav, teknisk udviklerrolle.
+- NTU International — Data/Economic/Impact Analyst: kontraktbasis, ikke bekræftet fuldtid, forkert felt.
+- BASE life science — Business Analyst: kræver 2+ års IT-BA-erfaring specifikt i life science + Qlik.
+- emagine — Business Analyst to Money Flow: kræver 3+ års dokumenteret BA-erfaring i finansielle services.
+- Lemvigh-Müller — Performance Specialist: reelt digital/paid-media marketingrolle, kreativt marketingarbejde, udelukket.
+- Bech-Bruun — Legal Tech Operations Consultant: softwareudvikling (RAG/FastAPI/Docker), ikke BI.
+- Intellishore — begge Associate Consultant-roller: angivet fuldtid, men reelt 15-20 timer/uge studenterjob.
+
+**Allerede kendte dubletter bekræftet (ingen ny vurdering):** Orkla (Business & NRM Analyst, samme som 2026-10-01), Compass HR Group/Unilabs Business Analyst, Skatteguiden, Annalect Consultant for Data Science, Nykredit "Byg fremtidens dataløsninger", Danske Bank Business Analyst for Group Market Data (frist allerede passeret), Haleon Category Analyst (frist passeret), samt en lang række tidligere behandlede firmaer (SS&C Technologies, Urban Partners, Bellagroup, Heimstaden, Abacus Medicine Group, NielsenIQ, Bonzer Junior Consultant, Zangenberg Analytics, Basico, Kopenhagen Konsulting senior-roller, m.fl.).
+
+**Teknisk logbog:**
+- LinkedIn: direkte `jobs/view/<id>`-hentning fortsat pålidelig. Enkeltords-søgeresultat-URL'er ramte i dag gentagne gange en tilfældig login-væg for nogle søgeord ("business analyst", "konsulent", "data governance", "reporting analyst", "master data analyst", de bredere niveau+indhold-kombinationer) mens andre søgeord samme session virkede fint (60 resultater) — ikke et konsistent mønster, værd at genprøve søgeord der fejler. OR-kombinerede geoId-søgninger (pkt. 23/29) gav HTTP 500/login-væg begge forsøg, teknikken kunne ikke verificeres i dag.
+- Jobindex RSS: teknisk fejlfri, men flere enkeltord gav 0-1 hits (commercial analyst, marketing analyst, performance analyst, people analytics, data quality) — fortsat meget støjende generelt.
+- Indeed.dk (403), StepStone.dk (404), Glassdoor DK (redirect til .com, ingen søgeadgang), jobbank.dk (403 på direkte hentning): alle fire fortsat teknisk ubrugelige til direkte verifikation, kun brugbare som WebSearch-leads.
+- Career-site-sporet: dfdsdenmark.teamtailor.com/jobs.json, nykredit-employee.talent-soft.com og careers.smartrecruiters.com/ImplementConsultingGroup virkede fint direkte. pensiondanmark.dk/karriere (503), jobs.lever.co/seb (404 — korrekt URL er jobs.eu.lever.co/seb, ret dette fremover), kvadrantconsulting.dk (DNS findes ikke), kmd.net/karriere, simcorp.com/careers og issworld.com (alle 404), falck.com (ren JS-shell/Oracle Cloud HCM, intet indhold).
+- Konklusion: samme mætningsmønster som de seneste 10+ kørsler — kilde- og titeldækningen er nu meget bred, og stort set alle friske hits er enten allerede kendte, eller fejler på et konkret hårdt kriterium ved verifikation. 0 forslag i dag er et retvisende resultat, ikke en søgefejl.
+
 ## 2026-10-09
 
 Tre parallelle søgespor kørt via underagenter, samme opdeling som seneste kørsler:
