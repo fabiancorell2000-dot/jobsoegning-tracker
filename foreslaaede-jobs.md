@@ -2,6 +2,48 @@
 
 Jobs som den automatiske rekrutteringsassistent tidligere har foreslået. Denne fil opdateres af routinen.
 
+## 2026-10-11
+
+Tre parallelle søgespor kørt via underagenter (samme opdeling som seneste kørsler): Agent 1 dækkede LinkedIn (enkeltords-/titelsøgninger med `f_TPR=r1814400&f_JT=F`, bredere niveau+indhold-søgninger, OR-kombinerede søgninger, konsulenthus-tier 2-4). Agent 2 dækkede Jobindex RSS (34 enkeltordsforespørgsler) samt Indeed.dk/StepStone.dk/Glassdoor DK/jobbank.dk (ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence, sidst tjekket 2026-09-29, kun 12 dage siden, ikke forfaldent). Agent 3 dækkede direkte career-site-tjek af den fulde pkt. 20/28-liste. **Resultat: 1 forslag i dag.** CV og ansøgning genereret, kvalitetstjekket (2 adskilte gennemlæsninger) og sendt til Fabian.
+
+**Forslag 1: ProductLife Group (PLG) — Associate Digital Consultant**
+- Firma: ProductLife Group, global Life Sciences-konsulent- og outsourcingvirksomhed med hovedkontor i Paris, ca. 1.750 "experts" og 50+ kontorer globalt. Klart etableret, privat, ikke startup/scaleup, intet pkt. 1/30/33-problem. Dansk kontor på Ny Carlsberg Vej 80, 1760 København V (Carlsberg Byen), bekræftet via firmaets egen hjemmeside, firmaet er repræsenteret i Danmark af Pharma IT (140 konsulenter).
+- Lokation: Ny Carlsberg Vej 80, 1760 København V. Nærmeste station er Carlsberg (S-tog, C/B/H-linjerne), direkte forbindelse fra Nørreport, ingen busafhængighed, klart inden for 35-minuttersgrænsen (pkt. 25). Hybrid, ca. 3 dage/uge på kontoret, med mulighed for kundebesøg/rejse.
+- Link: https://dk.linkedin.com/jobs/view/associate-digital-consultant-at-productlife-group-4474080496
+- Opslået: ca. 4 dage før tjek, inden for 3-ugers-vinduet (pkt. 39). Ansøgningsfrist: ikke angivet, løbende behandling. 66 ansøgere ved tjek, moderat/lavt konkurrenceniveau.
+- Fuldtid: bekræftet direkte i opslaget ("Fuldtid"/"Full-time").
+- Erfaring: eksplicit "graduate profile or up to 3 years of relevant experience", LinkedIns eget niveau-mærke "Entry level/Nyuddannet". Praktik, studieprojekter og studiejob tæller eksplicit med. Ingen senior/lead/manager-signal.
+- Løn: angivet direkte i opslaget, 45.000-47.500 kr./md. brutto, klart over ønsket niveau (pkt. 7).
+- Krav: kandidatgrad (business/økonomi/IT/data science/engineering/life science) eller graduate-profil, stærke analytiske/kommunikative evner, sikker i Excel/Word/PowerPoint, flydende engelsk. Power BI/SQL/Python/Jira kun nævnt som fordel ("advantage"), IKKE krav, i tråd med pkt. 10's SQL-regel.
+- Indhold: data readiness, cleansing, mapping og migration for laboratorie-, kliniske og regulatoriske systemer, kravindsamling og testkoordinering for regulerede digitale platforme, ejerskab af analyser og kunde-deliverables, stakeholder-engagement på tværs af kliniske/regulatoriske/data-teams, og daglig brug af AI-værktøjer. Stærkt match til COWI's datastruktur-arbejde for Engagement Survey/Workplace Assessment Survey (7.500+ medarbejdere), Power BI-rapportering, AI-agenter i Microsoft Copilot, samt stakeholder-samarbejde med HR/Payroll/Finance på tværs af fire lande. Konsulentrolle matcher desuden Fabians erklærede karrieredrøm (pkt. 24).
+- Ærlighed (svaghed nævnt internt, ikke i ansøgningen jf. reglerne): Life sciences/pharma er en ny branche for Fabian uden tidligere erfaring i CV'et, rollens regulatoriske indhold (GxP, kliniske/laboratorie-systemer) er domæne han skal lære fra bunden. Det danske kontors præcise CVR-registrering kunne ikke bekræftes uafhængigt (kun selskabets egen angivelse af dansk tilstedeværelse via Pharma IT-partnerskabet), vurderet som en mindre usikkerhed, ikke et fravalg, givet koncernens ubestridte globale størrelse og etablering.
+- CV og ansøgning: engelsk (matcher opslagets sprog), ingen `lang`-parameter brugt. Begge filer renderet til billeder og læst igennem to adskilte gange (indhold/fakta, dernæst sprog/layout). CV fylder 2 sider uden strandede punkter, ansøgning fylder 1 side. Hilsen brugt: "Dear ProductLife Group Digital Team," (opslaget nævner intet navn, men refererer til "our digital team").
+
+**Andre nye kandidater fundet, undersøgt og fravalgt:**
+- Flying Tiger Copenhagen — IT Business Analyst (nyt job-ID): "Mid-Senior level"-mærke, ERP/proces-mapping uden Power BI/data-vinkel.
+- ADC Consulting — Data, AI & Engineering Opportunities (Life Sciences): generel talent-pipeline, ikke en konkret rolle, kræver Python/SQL/Spark/Databricks på ekspertniveau.
+- BASE life science — Commercial Data Consultant (MDM/Data Platforms): "Mid-Senior level", kræver subject-matter-expert-niveau i Informatica MDM/Reltio/Databricks/Snowflake samt pharma-specifik CE-data.
+- BASE life science — Lead Commercial Data Architect: "Lead"-titel, hårdt fravalgt.
+- Nykredit — "Bliv AI Process Lead i Nykredits AI Center of Excellence": titlen "Lead" + teamansvar, for risikabelt ift. manager/lead-fravalget.
+- Maersk — Platform Data Analyst (Asset Strategy Platforms): kræver avanceret SQL/Python/Azure/Databricks.
+- PA Consulting — Consultant/Analyst, Risk, Compliance & Financial Crime Prevention: AML/hvidvask-compliance, intet overlap til profilen.
+- StockRate Asset Management — Analytiker til Operations (Hørsholm): kræver eksplicit busforbindelse fra Kokkedal Station, hårdt fravalgt på lokation (pkt. 25).
+- Go-Pen ApS — Finance and Business Analyst (Kongens Lyngby): eksplicit startup, ca. 2-3 personers team, fravalgt jf. pkt. 37 (ikke centralt København K/Ø/Frederiksberg, langt under 50 ansatte).
+- Scan Global Logistics — Transformation Analyst (Hvidovre): kræver 5+ års erfaring fra management consulting/strategy/FP&A/BI, over erfaringsgrænsen.
+- Contura International — Commercial Category Manager (Søborg): kræver 5+ års procurement/kontraktforhandling, forkert fagligt felt.
+- DR (Danmarks Radio) — Dataanalytiker for Brugeraktivering: offentligt medie, hårdt fravalgt jf. pkt. 19.
+- Viaplay Group — Data Analyst, OrderYOYO — Business Analyst FP&A, Manyone — Junior Consultant, Hilti Danmark — Pricing Analyst, Skamol — Commercial Analyst: alle bekræftet udløbet/fjernet (HTTP 410/404) ved direkte verifikation.
+- Diverse out-of-area enkelthits (Gørlev, Hadsten, Brørup, Fredericia, Horsens, Taastrup): lokation alene diskvalificerer.
+
+**Allerede kendte dubletter bekræftet (ingen ny vurdering):** Danske Bank (Analyst, Corporate & Sustainability Advisory), PFA Pension (Analytiker, pricing/product renewals), SEB (Analyst, Corporate Loan Origination), PensionDanmark (Forretningsudvikler), DFDS (Data Engineer), Bonzer (Junior Consultant, Client Management), Implement Consulting Group (graduate-spor), Netcompany (hårdt firmafravalg, og "Netcompany Advisory" kunne igen ikke identificeres som en separat synlig enhed), North Consulting (fortsat ingen åben rolle), Columbus (Associate Medius Business Consultant), RiskPoint, Zeppelin, Intellishore (deltid), Nykredit (strategikonsulent), samt diverse Ballerup/Glostrup- og offentlig sektor-virksomheder.
+
+**Teknisk logbog:**
+- LinkedIn: direkte `jobs/view/<id>`-hentning fortsat pålidelig uden fejl. Enkeltords-søge-URL'er fungerede fint for de første ca. 9 kald, derefter konsekvent HTTP 429 (rate-limiting, ikke permanent blokering). OR-kombineret `f_C=`-format ramte også 429. Konsulenthus-tier 2-4 kun delvist afprøvet pga. rate-limiting, bør prioriteres i en opfølgende kørsel.
+- Jobindex RSS: teknisk fejlfrit (HTTP 200 hver gang), men fortsat svag indholdsfiltrering, samme generiske ~20-postliste uanset søgeord.
+- Indeed.dk (403), StepStone.dk (404), Glassdoor DK (403), jobbank.dk (403): fortsat teknisk ubrugelige til direkte hentning, kun brugbare som WebSearch-leads.
+- Career-site-sporet: Nykredits talent-soft-liste (61 resultater) kun delvist gennemgået (1 af ~7 sider), bør prioriteres fuldt ud i næste kørsel. 404/403/DNS-fejl på careers.pandoragroup.com, orsted.com/en/careers/job-list, issworld.com, demant.com, coloplast.com, northconsulting.dk, careers.novonesis.com.
+- Konklusion: fortsat samme mætningsmønster som de seneste 10+ kørsler for de allerede kendte kilder og titler, men dagens bredere LinkedIn-søgning (Associate Digital Consultant-titlen var ikke tidligere afsøgt eksplicit) fandt et nyt, stærkt match uden for den hidtidige titelliste, i tråd med pkt. 15's princip om at supplere titelsøgning med bredere niveau+indhold-søgning.
+
 ## 2026-10-10
 
 Tre parallelle søgespor kørt via underagenter (samme opdeling som seneste kørsler): Agent 1 dækkede LinkedIn (enkeltords-/titelsøgninger med `f_TPR=r1814400&f_JT=F`, bredere niveau+indhold-søgninger, OR-kombinerede søgninger, konsulenthus-tier 2-4). Agent 2 dækkede Jobindex RSS (~20-30 enkeltordsforespørgsler) samt Indeed.dk/StepStone.dk/Glassdoor DK/jobbank.dk (ofir.dk/jobsafari.dk sprunget over jf. den månedlige kadence, sidst tjekket 2026-09-29, kun 11 dage siden, ikke forfaldent). Agent 3 dækkede direkte career-site-tjek af den fulde pkt. 20/28-liste (Nykredit, Enalyzer, Annalect, Danske Bank, Ørsted, Pandora, SEB, PensionDanmark, PFA/Alm. Brand/Topdanmark/Danica/AP Pension/Nordea, Maersk/DSV/DFDS, SimCorp/KMD, Coloplast/ISS/Falck/Novonesis/Demant, samt konsulenthus-tier 2-4). **Resultat: 0 forslag i dag** — to kandidater blev undersøgt grundigt af koordinerende session efter underagenternes research, men ingen bestod alle hårde krav ved verifikation.
